@@ -107,23 +107,6 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-push:
-	git checkout source
-	git add -A
-	git commit
-	git push origin source
-
-deploy:
-	make push
-	make html
-	git checkout master
-	git rm -qr .
-	cp -r output/. .
-	git add -A
-	git commit -m "site update"
-	git push origin master
-	git checkout source
-
 test:
 	make html
 

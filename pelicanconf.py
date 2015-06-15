@@ -20,10 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = None  # (('Pelican', 'http://getpelican.com/'),
-             # ('Python.org', 'http://python.org/'),
-             # ('Jinja2', 'http://jinja.pocoo.org/'),
-             # ('You can modify those links in your config file', '#'),)
+LINKS = (('GitHub/ML-KIT', 'https://github.com/ML-KIT/'),)
 
 # Social widget
 SOCIAL = None  # (('You can add links in your config file', '#'),
@@ -35,3 +32,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = '/home/moose/GitHub/pelican-bootstrap3'
+
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'

@@ -2,6 +2,7 @@ Title: Materialsammlung
 Date: 2010-12-03 10:20
 Category: Allgemein
 Tags: Allgemein
+Authors: Martin Thoma
 
 Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.
 
@@ -11,9 +12,9 @@ Hier können wir interessante Artikel, Websiten oder allgemein Materialien samme
 
 ## MOOCs
 
-* http://cs231n.stanford.edu/ - CS224d: Deep Learning for Natural Language Processing
-* https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/ - Machine Learning
-* http://cs231n.stanford.edu/ - Convolutional Neural Networks for Visual Recognition
+* [CS224d: Deep Learning for Natural Language Processing](http://cs231n.stanford.edu/)
+* [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/): Kurs der Universität Oxford
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): Kurs von Stanford
 
 ## Tools
 * [Caffe](http://caffe.berkeleyvision.org/): C++ and Python, supports nVidia GPU training of neural networks
