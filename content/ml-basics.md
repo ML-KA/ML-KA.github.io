@@ -14,6 +14,12 @@ Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
 Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
 erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.
 
+Tom Mitchel hat maschinelles Lernen wie folgt Definiert:
+
+> A computer program is said to learn from experience E with respect to some
+> class of tasks T and performance measure P, if its performance at tasks in T,
+> as measured by P, improves with experience E.
+
 
 ## Ein Beispiel
 
@@ -25,3 +31,8 @@ TODO: Was wäre denn ein möglichst einfaches Machine Learning Modell?
 * Training / Validation / Development / Testset
 * Hyperparameter
 * Datengetriebene Entwicklung
+* Overfitting
+
+## Abgrenzung
+
+* Machine Learning <-> A.I. <-> Data science <-> Statistik <-> Big Data
