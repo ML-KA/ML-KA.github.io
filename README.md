@@ -7,6 +7,8 @@ Momentan befindet sich die Gruppe / Seite noch stark im Aufbau.
 
 ## Seite erstellen
 
+After cloning, run `git submodule update --init` to get the bootstrap theme.
+
 Dependencies:
 
 ```bash
