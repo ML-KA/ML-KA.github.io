@@ -22,3 +22,6 @@ Ideen, was wir als Gruppe machen könnten, sind:
 
 Die Gruppe soll also zum einen helfen Inhalte des ML zu begreifen, aber auch
 Vorlesungen ergänzen, indem auf Tools eingegangen wird.
+
+Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
+`[ML-KIT]` in den Betreff schreiben.

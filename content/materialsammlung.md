@@ -30,3 +30,4 @@ Hier können wir interessante Artikel, Websiten oder allgemein Materialien samme
 * Stack Exchange
   * [datascience.stackexchange.com](http://datascience.stackexchange.com/)
   * [stats.stackexchange.com](http://stats.stackexchange.com/)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): Eine Liste mit VIELEN Links zu Machine Learning Tools.
