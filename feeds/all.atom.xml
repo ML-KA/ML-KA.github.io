@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="http://ml-kit.github.io/" rel="alternate"></link><link href="http://ml-kit.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ml-kit.github.io/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>Machine Learning Grundlagen</title><link href="http://ml-kit.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Members of the ML-KIT group</name></author><id>tag:ml-kit.github.io,2010-12-03:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="http://ml-kit.github.io/" rel="alternate"></link><link href="http://ml-kit.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ml-kit.github.io/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>Machine Learning Grundlagen</title><link href="http://ml-kit.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2010-12-03:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Training / Validation / Development / Testset&lt;/li&gt;
 &lt;li&gt;Hyperparameter&lt;/li&gt;
 &lt;li&gt;Datengetriebene Entwicklung&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Materialsammlung</title><link href="http://ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Members of the ML-KIT group</name></author><id>tag:ml-kit.github.io,2010-12-03:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;TODO&lt;/p&gt;</summary></entry><entry><title>Materialsammlung</title><link href="http://ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2010-12-03:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
 &lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
