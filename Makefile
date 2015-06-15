@@ -118,7 +118,7 @@ deploy:
 	make html
 	git checkout master
 	git rm -qr .
-	cp -r _site/. .
+	cp -r output/. .
 	git add -A
 	git commit -m "site update"
 	git push origin master
