@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="/" rel="alternate"></link><link href="/feeds/allgemein.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>Machine Learning Grundlagen</title><link href="/machine-learning-grundlagen.html" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Members of the ML-KIT group</name></author><id>tag:,2010-12-03:machine-learning-grundlagen.html</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Training / Validation / Development / Testset&lt;/li&gt;
+&lt;li&gt;Hyperparameter&lt;/li&gt;
+&lt;li&gt;Datengetriebene Entwicklung&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Materialsammlung</title><link href="/materialsammlung.html" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Members of the ML-KIT group</name></author><id>tag:,2010-12-03:materialsammlung.html</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
+&lt;h2&gt;Artikel&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;MOOCs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;http://cs231n.stanford.edu/ - CS224d: Deep Learning for Natural Language Processing&lt;/li&gt;
+&lt;li&gt;https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/ - Machine Learning&lt;/li&gt;
+&lt;li&gt;http://cs231n.stanford.edu/ - Convolutional Neural Networks for Visual Recognition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://caffe.berkeleyvision.org/"&gt;Caffe&lt;/a&gt;: C++ and Python, supports nVidia GPU training of neural networks&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Lasagne/Lasagne"&gt;Lasagne&lt;/a&gt;: Python, supports nVidia GPU training of neural networks&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scikit-learn.org/stable/"&gt;sklearn&lt;/a&gt;: Python Machine learning toolkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Datensätze&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST&lt;/a&gt;: 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;IRIS&lt;/a&gt;: 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Sonstiges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt;: Machine Learning Wettbewerbe&lt;/li&gt;
+&lt;li&gt;Stack Exchange&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/"&gt;datascience.stackexchange.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stats.stackexchange.com/"&gt;stats.stackexchange.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>
