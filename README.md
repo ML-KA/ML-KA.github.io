@@ -7,8 +7,8 @@ Momentan befindet sich die Gruppe / Seite noch stark im Aufbau.
 
 ## Seite erstellen
 
-Dependencies (besides Pelican):
+Dependencies:
 
 ```bash
-$ sudo -H pip install ghp-import
+$ sudo -H pip install ghp-import pelican Markdown
 ```
