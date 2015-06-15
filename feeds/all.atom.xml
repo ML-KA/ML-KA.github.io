@@ -5,6 +5,12 @@
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
 Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
 erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
+&lt;p&gt;Tom Mitchel hat maschinelles Lernen wie folgt Definiert:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A computer program is said to learn from experience E with respect to some
+class of tasks T and performance measure P, if its performance at tasks in T,
+as measured by P, improves with experience E.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;Ein Beispiel&lt;/h2&gt;
 &lt;p&gt;TODO: Was wäre denn ein möglichst einfaches Machine Learning Modell?&lt;/p&gt;
 &lt;h2&gt;Vorgehen&lt;/h2&gt;
@@ -12,6 +18,11 @@ erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.&
 &lt;li&gt;Training / Validation / Development / Testset&lt;/li&gt;
 &lt;li&gt;Hyperparameter&lt;/li&gt;
 &lt;li&gt;Datengetriebene Entwicklung&lt;/li&gt;
+&lt;li&gt;Overfitting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Abgrenzung&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine Learning &amp;lt;-&amp;gt; A.I. &amp;lt;-&amp;gt; Data science &amp;lt;-&amp;gt; Statistik &amp;lt;-&amp;gt; Big Data&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Allgemein"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
 &lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
