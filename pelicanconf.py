@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Members of the ML-KIT group'
 SITENAME = u'Machine Learning - KIT'
-SITEURL = '.'
+SITEURL = 'http://ml-kit.github.io'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'en'
 
@@ -20,14 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = None  # (('Pelican', 'http://getpelican.com/'),
+             # ('Python.org', 'http://python.org/'),
+             # ('Jinja2', 'http://jinja.pocoo.org/'),
+             # ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = None  # (('You can add links in your config file', '#'),
+               # ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
