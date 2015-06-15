@@ -11,9 +11,9 @@
 &lt;/ul&gt;
 &lt;h2&gt;MOOCs&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;http://cs231n.stanford.edu/ - CS224d: Deep Learning for Natural Language Processing&lt;/li&gt;
-&lt;li&gt;https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/ - Machine Learning&lt;/li&gt;
-&lt;li&gt;http://cs231n.stanford.edu/ - Convolutional Neural Networks for Visual Recognition&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;CS224d: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universität Oxford&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;Convolutional Neural Networks for Visual Recognition&lt;/a&gt;: Kurs von Stanford&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Tools&lt;/h2&gt;
 &lt;ul&gt;
