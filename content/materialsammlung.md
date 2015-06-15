@@ -24,6 +24,14 @@ Hier können wir interessante Artikel, Websiten oder allgemein Materialien samme
 ## Datensätze
 * [MNIST](http://yann.lecun.com/exdb/mnist/): 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)
 * [IRIS](https://archive.ics.uci.edu/ml/datasets/Iris): 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz
+* [HWRT](http://www.martin-thoma.de/write-math/data/): Handgeschriebene Symbole
+* [KITTI](http://www.cvlibs.net/datasets/kitti/): Road vision dataset
+
+Listen:
+
+* [computervisiononline.com](http://www.computervisiononline.com/datasets): Eine Liste sehr vieler Datensätze
+* [YACVID](http://riemenschneider.hayko.at/vision/dataset/): Computer Vision Index To Datasets
+* [dmoz.org](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/)
 
 ## Sonstiges
 * [Kaggle](https://www.kaggle.com/): Machine Learning Wettbewerbe
