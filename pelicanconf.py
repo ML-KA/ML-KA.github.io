@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Members of the ML-KIT group'
 SITENAME = u'Machine Learning - KIT'
-SITEURL = 'http://ml-kit.github.io'
+SITEURL = '//ml-kit.github.io'
 
 PATH = 'content'
 
