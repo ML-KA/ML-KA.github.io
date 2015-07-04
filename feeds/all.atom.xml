@@ -12,24 +12,70 @@ class of tasks T and performance measure P, if its performance at tasks in T,
 as measured by P, improves with experience E.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Ein Beispiel&lt;/h2&gt;
-&lt;p&gt;TODO: Was wäre denn ein möglichst einfaches Machine Learning Modell?&lt;/p&gt;
+&lt;p&gt;Angenommen man hat eine &lt;a href="https://de.wikipedia.org/wiki/Schwertlilien"&gt;Schwertlilie&lt;/a&gt;.
+Es ist klar, dass es eine Schwertlilie ist, aber es könnte entweder eine
+Iris Setosa, eine Iris Virginica oder eine Iris Versicolor sein. Man muss nun
+ein Programm schreiben, welches die 3 Arten von einander unterscheiden kann.
+Der Einfachkeit halber werden diese im Folgenden als Klasse I, II und III
+bezeichnet.&lt;/p&gt;
+&lt;p&gt;Biologen haben für je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
+Größen gemessen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kelchblatt"&gt;Kelchblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kronblatt"&gt;Kronblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wie kann man diese Information nun nutzen um zu lernen, was eine Iris
+Versicolor von einer Iris Virginica unterscheidet?&lt;/p&gt;
+&lt;p&gt;Der einfachste Ansatz wäre die Daten für einfache Klassifikatoren zu
+betrachten. Vielleicht hat Klasse I ja immer eine deutlich kleinere
+Kelchblattgröße. Oder vielleicht ist das Verhältnis zwischen Kelchblattlänge
+und Kelchblattbreite deutlich unterschiedlich bei den Arten.&lt;/p&gt;
+&lt;p&gt;Das wäre eine einfache Lösung für dieses Klassifikationsproblem.&lt;/p&gt;
+&lt;!-- ## Klassifikatoren vergleichen
+
+Natürlich gibt es viele weitere Möglichkeiten das Klassifikationsproblem zu
+lösen. Und wir wollen die beste finden. Aber was ist die beste Möglichkeit?
+Dafür muss man eine Fehlerfunktion haben.  --&gt;
+
+&lt;h2&gt;Decision Trees&lt;/h2&gt;
+&lt;p&gt;TODO: Kurz erklären, damit es später verwendet werden kann.&lt;/p&gt;
 &lt;h2&gt;Vorgehen&lt;/h2&gt;
+&lt;p&gt;Es gibt jedoch auch kompliziertere Lösungen wie decision trees, Support Vector
+Machines (SVMs) und neuronale Netze. Diese haben interne Parameter, welche
+angepasst werden um eine Lösung zu finden. Bei allen diesen Klassifikatoren
+kann man zwischen &lt;em&gt;Training&lt;/em&gt; und &lt;em&gt;Evaluation&lt;/em&gt; unterscheiden. Beim Training
+lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Training / Validation / Development / Testset&lt;/li&gt;
 &lt;li&gt;Hyperparameter&lt;/li&gt;
 &lt;li&gt;Datengetriebene Entwicklung&lt;/li&gt;
 &lt;li&gt;Overfitting&lt;/li&gt;
+&lt;li&gt;Supervised &amp;lt;-&amp;gt; unsupervised&lt;/li&gt;
+&lt;li&gt;Classification, Regression&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Abgrenzung&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning &amp;lt;-&amp;gt; A.I. &amp;lt;-&amp;gt; Data science &amp;lt;-&amp;gt; Statistik &amp;lt;-&amp;gt; Big Data&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;Als &lt;/p&gt;
+&lt;h2&gt;Siehe auch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
 &lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"&gt;Using convolutional neural nets to detect facial keypoints tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hunch.net/?p=22"&gt;Clever Methods of Overfitting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scott.fortmann-roe.com/docs/BiasVariance.html"&gt;Understanding the Bias-Variance Tradeoff&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bücher&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://neuralnetworksanddeeplearning.com/"&gt;Neural Networks and Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;MOOCs&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Coursera: &lt;a href="https://www.coursera.org/learn/machine-learning"&gt;Machine Learning&lt;/a&gt; by Andrew Ng&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;CS224d: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universität Oxford&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;Convolutional Neural Networks for Visual Recognition&lt;/a&gt;: Kurs von Stanford&lt;/li&gt;
@@ -53,6 +99,11 @@ as measured by P, improves with experience E.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://riemenschneider.hayko.at/vision/dataset/"&gt;YACVID&lt;/a&gt;: Computer Vision Index To Datasets&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/"&gt;dmoz.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2&gt;Cheat Cheats&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/"&gt;Choosing the right estimator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/"&gt;Machine learning algorithm cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Sonstiges&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt;: Machine Learning Wettbewerbe&lt;/li&gt;
@@ -60,4 +111,7 @@ as measured by P, improves with experience E.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://datascience.stackexchange.com/"&gt;datascience.stackexchange.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://stats.stackexchange.com/"&gt;stats.stackexchange.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/josephmisiti/awesome-machine-learning"&gt;awesome-machine-learning&lt;/a&gt;: Eine Liste mit VIELEN Links zu Machine Learning Tools.&lt;/li&gt;
+&lt;li&gt;Demos:&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://104.131.78.120/"&gt;Neural Machine Translation&lt;/a&gt;: Englisch → Deutsch, Französisch&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://write-math.com"&gt;write-math.com&lt;/a&gt;: Symbolerkennung&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>
