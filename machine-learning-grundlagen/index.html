@@ -1,43 +1,118 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-          <title>Machine Learning - KIT</title>
-        <meta charset="utf-8" />
-        <link href="//ml-kit.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Machine Learning - KIT Full Atom Feed" />
-        <link href="//ml-kit.github.io/feeds/allgemein.atom.xml" type="application/atom+xml" rel="alternate" title="Machine Learning - KIT Categories Atom Feed" />
+    <title>Machine Learning Grundlagen - Machine Learning - KIT</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 
-    <meta name="tags" contents="Allgemein" />
-    <meta name="tags" contents="Klassifikation" />
-    <meta name="tags" contents="Iris dataset" />
+<link rel="canonical" href="//ml-kit.github.io/machine-learning-grundlagen/">
+
+        <meta name="author" content="Martin Thoma" />
+        <meta name="keywords" content="Allgemein,Klassifikation,Iris dataset" />
+        <meta name="description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt wird. Was &#34;möglichst ..." />
+
+        <meta property="og:site_name" content="Machine Learning - KIT" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Machine Learning Grundlagen"/>
+        <meta property="og:url" content="//ml-kit.github.io/machine-learning-grundlagen/"/>
+        <meta property="og:description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt wird. Was &#34;möglichst ..."/>
+        <meta property="article:published_time" content="2015-06-15" />
+            <meta property="article:section" content="Allgemein" />
+            <meta property="article:tag" content="Allgemein" />
+            <meta property="article:tag" content="Klassifikation" />
+            <meta property="article:tag" content="Iris dataset" />
+            <meta property="article:author" content="Martin Thoma" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="//ml-kit.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="//ml-kit.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="//ml-kit.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="//ml-kit.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="//ml-kit.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Machine Learning - KIT ATOM Feed"/>
+
+
+
+        <link href="//ml-kit.github.io/feeds/allgemein.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Machine Learning - KIT Allgemein ATOM Feed"/>
 
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="//ml-kit.github.io/">Machine Learning - KIT <strong></strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
-            <li><a href="//ml-kit.github.io/pages/about/">About</a></li>
-        </ul></nav><!-- /#menu -->
-<section id="content" class="body">
-  <header>
-    <h2 class="entry-title">
-      <a href="//ml-kit.github.io/machine-learning-grundlagen/" rel="bookmark"
-         title="Permalink to Machine Learning Grundlagen">Machine Learning Grundlagen</a></h2>
- 
-  </header>
-  <footer class="post-info">
-    <abbr class="published" title="2015-06-15T10:20:00+02:00">
-      Mo 15 Juni 2015
-    </abbr>
-    <address class="vcard author">
-      By           <a class="url fn" href="//ml-kit.github.io/author/martin-thoma.html">Martin Thoma</a>
-    </address>
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
-    <p>Im folgenden werden Grundlagen des maschinellen Lernens erklärt.</p>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="//ml-kit.github.io/" class="navbar-brand">
+Machine Learning - KIT            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="//ml-kit.github.io/pages/about/">
+                             About
+                          </a></li>
+                        <li class="active">
+                            <a href="//ml-kit.github.io/category/allgemein.html">Allgemein</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="//ml-kit.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="//ml-kit.github.io/machine-learning-grundlagen/"
+                       rel="bookmark"
+                       title="Permalink to Machine Learning Grundlagen">
+                        Machine Learning Grundlagen
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2015-06-15T10:20:00+02:00"> Mo 15 Juni 2015</time>
+    </span>
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="//ml-kit.github.io/tag/allgemein.html">Allgemein</a>
+        /
+	<a href="//ml-kit.github.io/tag/klassifikation.html">Klassifikation</a>
+        /
+	<a href="//ml-kit.github.io/tag/iris-dataset.html">Iris dataset</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>Im folgenden werden Grundlagen des maschinellen Lernens erklärt.</p>
 <h2>Was ist maschinelles Lernen?</h2>
 <p>Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -100,13 +175,81 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.</
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Statistical_classification">Statistical classification</a></li>
 </ul>
-  </div><!-- /.entry-content -->
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+
+
+
+            <li class="list-group-item"><a href="//ml-kit.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="//ml-kit.github.io/tag/allgemein.html">
+                            Allgemein
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/lectures.html">
+                            Lectures
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/iris-dataset.html">
+                            Iris dataset
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/klassifikation.html">
+                            Klassifikation
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="https://github.com/ML-KIT/" target="_blank">
+                GitHub/ML-KIT
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
 </section>
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Members of the ML-KIT group
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="//ml-kit.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="//ml-kit.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="//ml-kit.github.io/theme/js/respond.min.js"></script>
+
+
 </body>
 </html>

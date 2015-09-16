@@ -1,31 +1,77 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-        <title>Machine Learning - KIT - Articles by Martin Thoma</title>
-        <meta charset="utf-8" />
-        <link href="//ml-kit.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Machine Learning - KIT Full Atom Feed" />
+    <title>Articles by Martin Thoma - Machine Learning - KIT</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+        <meta name="author" content="Members of the ML-KIT group" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Machine Learning - KIT" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Machine Learning - KIT"/>
+        <meta property="og:url" content="//ml-kit.github.io"/>
+        <meta property="og:description" content="Machine Learning - KIT"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="//ml-kit.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="//ml-kit.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="//ml-kit.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="//ml-kit.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="//ml-kit.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Machine Learning - KIT ATOM Feed"/>
+
+
+
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="//ml-kit.github.io/">Machine Learning - KIT <strong></strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
-            <li><a href="//ml-kit.github.io/pages/about/">About</a></li>
-        </ul></nav><!-- /#menu -->
-<section id="content">
-<h2>Articles by Martin Thoma</h2>
-
-<ol id="post-list">
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="//ml-kit.github.io/lectures/" rel="bookmark" title="Permalink to Lectures">Lectures</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2015-06-15T10:20:00+02:00"> Mo 15 Juni 2015 </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="//ml-kit.github.io/author/martin-thoma.html">Martin Thoma</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>This article is a list of lectures at KIT which are related to machine
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="//ml-kit.github.io/" class="navbar-brand">
+Machine Learning - KIT            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="//ml-kit.github.io/pages/about/">
+                             About
+                          </a></li>
+                        <li >
+                            <a href="//ml-kit.github.io/category/allgemein.html">Allgemein</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="//ml-kit.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+            <article>
+                <h2><a href="//ml-kit.github.io/lectures/">Lectures</a></h2>
+                <div class="summary"><p>This article is a list of lectures at KIT which are related to machine
 learning.</p>
 <h2>Machine Learning Techniques</h2>
 <table>
@@ -56,32 +102,26 @@ learning.</p>
 <tr>
 <td>Maschinelles Lernen 2</td>
 <td>[24620]</td>
-<td>Prof. Dr. Zöllner ...</td></tr></tbody></table> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="//ml-kit.github.io/machine-learning-grundlagen/" rel="bookmark" title="Permalink to Machine Learning Grundlagen">Machine Learning Grundlagen</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2015-06-15T10:20:00+02:00"> Mo 15 Juni 2015 </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="//ml-kit.github.io/author/martin-thoma.html">Martin Thoma</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Im folgenden werden Grundlagen des maschinellen Lernens erklärt.</p>
+<td>Prof. Dr. Zöllner ...</td></tr></tbody></table>
+                    <a class="btn btn-default btn-xs" href="//ml-kit.github.io/lectures/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="//ml-kit.github.io/machine-learning-grundlagen/">Machine Learning Grundlagen</a></h2>
+                <div class="summary"><p>Im folgenden werden Grundlagen des maschinellen Lernens erklärt.</p>
 <h2>Was ist maschinelles Lernen?</h2>
 <p>Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
 Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
-erfüllt wird. Was "möglichst ...</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="//ml-kit.github.io/materialsammlung/" rel="bookmark" title="Permalink to Materialsammlung">Materialsammlung</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2015-06-15T10:20:00+02:00"> Mo 15 Juni 2015 </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="//ml-kit.github.io/author/martin-thoma.html">Martin Thoma</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.</p>
+erfüllt wird. Was "möglichst ...</p>
+                    <a class="btn btn-default btn-xs" href="//ml-kit.github.io/machine-learning-grundlagen/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="//ml-kit.github.io/materialsammlung/">Materialsammlung</a></h2>
+                <div class="summary"><p>Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.</p>
 <h2>Artikel</h2>
 <ul>
 <li><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a></li>
@@ -96,18 +136,82 @@ erfüllt wird. Was "möglichst ...</p> </div><!-- /.entry-content -->
 <h2>MOOCs</h2>
 <ul>
 <li>Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> by Andrew Ng</li>
-<li><a href="http://cs231n.stanford.edu/">CS224d: Deep ...</a></li></ul> </div><!-- /.entry-content -->
-        </article></li>
-</ol><!-- /#posts-list -->
-<p class="paginator">
-    Page 1 / 1
-</p>
-</section><!-- /#content -->
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+<li><a href="http://cs231n.stanford.edu/">CS224d: Deep ...</a></li></ul>
+                    <a class="btn btn-default btn-xs" href="//ml-kit.github.io/materialsammlung/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+
+
+
+            <li class="list-group-item"><a href="//ml-kit.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="//ml-kit.github.io/tag/allgemein.html">
+                            Allgemein
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/lectures.html">
+                            Lectures
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/iris-dataset.html">
+                            Iris dataset
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="//ml-kit.github.io/tag/klassifikation.html">
+                            Klassifikation
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="https://github.com/ML-KIT/" target="_blank">
+                GitHub/ML-KIT
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Members of the ML-KIT group
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="//ml-kit.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="//ml-kit.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="//ml-kit.github.io/theme/js/respond.min.js"></script>
+
+
 </body>
 </html>
