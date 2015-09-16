@@ -1,6 +1,6 @@
 Title: Lectures
 Date: 2015-06-15 10:20
-Category: Allgemein
+Category: KIT
 Tags: Lectures
 Authors: Martin Thoma
 
