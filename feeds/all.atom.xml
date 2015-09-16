@@ -160,7 +160,10 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;h2&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien sammeln.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
+sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
+Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KIT/ML-KIT.github.io/issues/6"&gt;GitHub&lt;/a&gt;
+tun.&lt;/p&gt;
 &lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
