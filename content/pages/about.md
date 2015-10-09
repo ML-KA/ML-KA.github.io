@@ -7,12 +7,20 @@ Authors: Martin Thoma
 Summary: Worum geht es bei ML-KIT? Was ist ML-KIT?
 
 ML-KIT ist eine Gruppe von Studenten am KIT, die sich für Machine Learning (ML)
-interessieren. Die Idee ist am 5. Juni 2015 aufgekommen.
+interessieren. Die Idee ist am 5.&nbsp;Juni&nbsp;2015 aufgekommen.
 
 Noch steht nichts fest. Im Moment werden einige Ideen über die
 [Facebook-Gruppe](https://www.facebook.com/groups/961427967221226/)
 ausgetauscht. Wer keinen Facebook-Account hat, aber am Thema interessiert ist
 kann mich direkt anschreiben (info@martin-thoma.de).
+
+Alle wichtigen Termine werden auch über den
+[E-Mail-Verteiler](https://www.lists.kit.edu/wws/info/ml) verschickt.
+
+Die [Satzung](https://github.com/ML-KIT/satzung) ist online und auch
+[Mitgliedsanträge](https://github.com/ML-KIT/documents/tree/master/membership-application)
+können direkt heruntergeladen werden.
+
 
 Ideen, was wir als Gruppe machen könnten, sind:
 
