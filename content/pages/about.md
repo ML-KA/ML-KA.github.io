@@ -1,12 +1,12 @@
 Title: About
 Date: 2015-06-15 10:20
 Category: Internes
-Tags: ML-KIT
+Tags: ML-KA
 Slug: about
 Authors: Martin Thoma
-Summary: Worum geht es bei ML-KIT? Was ist ML-KIT?
+Summary: Worum geht es bei ML-KA? Was ist ML-KA?
 
-ML-KIT ist eine Gruppe von Studenten am KIT, die sich für Machine Learning (ML)
+ML-KA ist eine Gruppe von Studenten am KIT, die sich für Machine Learning (ML)
 interessieren. Die Idee ist am 5.&nbsp;Juni&nbsp;2015 aufgekommen.
 
 Noch steht nichts fest. Im Moment werden einige Ideen über die
@@ -17,8 +17,8 @@ kann mich direkt anschreiben (info@martin-thoma.de).
 Alle wichtigen Termine werden auch über den
 [E-Mail-Verteiler](https://www.lists.kit.edu/wws/info/ml) verschickt.
 
-Die [Satzung](https://github.com/ML-KIT/satzung) ist online und auch
-[Mitgliedsanträge](https://github.com/ML-KIT/documents/tree/master/membership-application)
+Die [Satzung](https://github.com/ML-KA/satzung) ist online und auch
+[Mitgliedsanträge](https://github.com/ML-KA/documents/tree/master/membership-application)
 können direkt heruntergeladen werden.
 
 
@@ -41,4 +41,4 @@ Vorlesungen ergänzen, indem auf Tools eingegangen und aktuelle Forschung and
 Probleme in der Praxis besprochen werden.
 
 Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
-`[ML-KIT]` in den Betreff schreiben.
+`[ML-KA]` in den Betreff schreiben.

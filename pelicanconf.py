@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Members of the ML-KIT group'
+AUTHOR = u'Members of the ML-KA group'
 SITENAME = u'Machine Learning - KIT'
-SITEURL = '//ml-kit.github.io'
+SITEURL = '//ml-ka.github.io'
 
 PATH = 'content'
 
@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('GitHub/ML-KIT', 'https://github.com/ML-KIT/'),)
+LINKS = (('GitHub/ML-KA', 'https://github.com/ML-KA/'),)
 
 # Social widget
 SOCIAL = None  # (('You can add links in your config file', '#'),

@@ -1,4 +1,4 @@
-# ML-KIT.github.io
+# ML-KA.github.io
 
 Github website for the Machine Learning Group (a students group) at KIT.
 
@@ -8,11 +8,15 @@ This page is still at a very early stage. Feel free to add pull requests
 (even for minor changes) or send me an email (info@martin-thoma.de).
 
 
-## Create page
+## Get repository
 
-After cloning, run `git submodule update --init` to get the bootstrap theme.
+To download this repository with submodules, you have to execute
 
-Dependencies:
+```bash
+$ git clone git@github.com:ML-KA/presentations.git --recursive
+
+
+You might have to install the dependencies:
 
 ```bash
 $ sudo -H pip install ghp-import pelican Markdown

@@ -6,7 +6,7 @@ Authors: Martin Thoma
 
 Hier können wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
-Seite vorschlagen will, der kann dies über [GitHub](https://github.com/ML-KIT/ML-KIT.github.io/issues/6)
+Seite vorschlagen will, der kann dies über [GitHub](https://github.com/ML-KA/ML-KA.github.io/issues/6)
 tun.
 
 
