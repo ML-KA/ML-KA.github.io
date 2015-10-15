@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-kit.github.io/" rel="alternate"></link><link href="//ml-kit.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-kit.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Machine Learning Grundlagen</title><link href="//ml-kit.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
 &lt;h2&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -61,9 +61,9 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;h2&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-kit.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
-Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KIT/ML-KIT.github.io/issues/6"&gt;GitHub&lt;/a&gt;
+Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
 &lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;

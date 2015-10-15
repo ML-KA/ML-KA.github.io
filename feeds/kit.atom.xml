@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-kit.github.io/" rel="alternate"></link><link href="//ml-kit.github.io/feeds/kit.atom.xml" rel="self"></link><id>//ml-kit.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Lectures</title><link href="//ml-kit.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-kit.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/kit.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table&gt;
