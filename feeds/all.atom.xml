@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-10-22T13:20:00+02:00</updated><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
+&lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Wird noch bekannt gegeben. Irgendwo auf dem Campus Süd auf jeden Fall&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf"&gt;Vortrag 1&lt;/a&gt; - noch am Entstehen&lt;/li&gt;
+&lt;li&gt;Vortrag 2 - Wird noch geschrieben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table&gt;
