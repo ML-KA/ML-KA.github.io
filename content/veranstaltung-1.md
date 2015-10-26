@@ -11,7 +11,7 @@ Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen aust
 ## Organisatorisches
 
 * **Wann?** Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45
-* **Wo?** Wird noch bekannt gegeben. Irgendwo auf dem Campus Süd auf jeden Fall
+* **Wo?** [Informatikbau (Gebäude 50.34)](https://www.kithub.de/map/2221), Raum -102
 * **Folien?**
     * [Vortrag 1](https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf) - noch am Entstehen
     * Vortrag 2 - Wird noch geschrieben
