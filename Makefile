@@ -6,6 +6,7 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
+CONFFILE_LOCAL=$(BASEDIR)/pelicanconf-local.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=localhost
@@ -56,6 +57,9 @@ help:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
+html-local:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE_LOCAL) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
