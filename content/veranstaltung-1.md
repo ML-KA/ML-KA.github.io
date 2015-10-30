@@ -13,5 +13,6 @@ Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen aust
 * **Wann?** Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45
 * **Wo?** [Informatikbau (Gebäude 50.34)](https://www.kithub.de/map/2221), Raum -102
 * **Folien?**
-    * [Vortrag 1](https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf) - noch am Entstehen
-    * Vortrag 2 - Wird noch geschrieben
+    * [Grundlagen des maschinellen Lernens](https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf)
+    * [Pixelweise Klassifikation mit tiefen Neuronalen Netzwerken](https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Marvin/2015-07.pdf)
+* **Video?**: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.
