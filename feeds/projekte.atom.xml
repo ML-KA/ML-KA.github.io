@@ -7,9 +7,9 @@
 &lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
 &lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefen Neuronalen Netze, welche 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Ich dazu diskutieren wir die neue Ansätze zum Trainieren und evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
-&lt;h4&gt;Vorarbeit:&lt;/h4&gt;
+&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
+&lt;h3&gt;Vorarbeit:&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;ul&gt;
@@ -19,11 +19,11 @@
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork"&gt;ConvolutionalNeuralNetwork&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Das Paper über &lt;em&gt;AlexNet&lt;/em&gt; [1]. &lt;/li&gt;
+&lt;li&gt;Das Paper über &lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;AlexNet&lt;/a&gt; [1]. &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ich habe das Feedback erhalten, dass viele Interessenten mit dem Thema Deep Learning noch nicht vertraut sind. Daher habe ich mich entschieden, dass wir zu Begin des Treffens uns kurz mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; beschäftigen. Relevant sind die Abschnitte und . Das &lt;em&gt;AlexNet&lt;/em&gt; ist definitiv für Deep Learning Neulinge geeignet.&lt;/p&gt;
-&lt;p&gt;Insgesammt ist der Inhalt natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich Wenden, ich bin täglich auf dem Campus.&lt;/p&gt;
-&lt;h4&gt;Ausblick:&lt;/h4&gt;
+&lt;p&gt;Ich habe das Feedback erhalten, dass viele Interessenten kein Vorwissen über Deep Learning haben. Daher habe ich mich entschieden, dass wir zu Begin des Treffens uns kurz mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; beschäftigen. Das &lt;em&gt;AlexNet&lt;/em&gt; Paper ist definitiv für (motivierte) Deep Learning Neulinge geeignet.&lt;/p&gt;
+&lt;p&gt;Insgesammt ist der Inhalt aber natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich wenden, ich bin täglich auf dem Campus und gut über Email erreichbar. &lt;/p&gt;
+&lt;h3&gt;Ausblick:&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogleLeNet&lt;/em&gt; reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. &lt;/p&gt;
 &lt;h2&gt;Literatur zu CNNs und Deep-Learning&lt;/h2&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne Tutorial&lt;/a&gt; von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
