@@ -8,12 +8,18 @@ In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich *Pixelweis
 
 ## Nächstes Treffen
 
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
+<figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br>  AlexNet erkennt Katzen!</figcaption>
+</figure>
+
 * Datum: 11. November, 17:30
 * Ort: TBA
 * Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
 * Experte: Marvin Teichmann
 
-In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein tiefes Neuronales Netz, welches 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogleLeNet* [2], sind Weiterentwicklungen von *AlexNet*.
+
+In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein tiefes Neuronales Netz, welches 2010 überraschend die *ImageNet Classification Challenge* gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogleLeNet* [2], sind Weiterentwicklungen von *AlexNet*.
 
 In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. 
 
