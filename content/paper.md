@@ -10,13 +10,12 @@ In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich *Pixelweis
 
 * Datum: 11. November, 17:30
 * Ort: TBA
-* Thema: AlexNet: Das Netz welches die 
+* Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
 * Experte: Marvin Teichmann
 
 In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein tiefen Neuronalen Netze, welche 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogleLeNet* [2], sind Weiterentwicklungen von *AlexNet*.
 
 In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so erfolgreich macht. Ich dazu diskutieren wir die neue Ansätze zum Trainieren und evaluieren des Netzes und untersuchen die neue Netzarchitektur. 
-
 
 
 ####Vorarbeit:
