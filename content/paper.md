@@ -65,7 +65,7 @@ Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser Klassifik
 
 ## Fragen
 
-Beantworte ich gerne, sowohl Inhaltlich als auf Rund um die Diskussion Group. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com
+Beantworte ich gerne. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com
 
 
 
