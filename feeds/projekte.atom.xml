@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-10-22T13:20:00+02:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:paper-discussion-group/</id><summary type="html">&lt;p&gt;In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich &lt;em&gt;Pixelweiser Klassifikation mit tiefen Neuronalen Netzen&lt;/em&gt; diskutieren. &lt;/p&gt;
 &lt;h2&gt;Nächstes Treffen&lt;/h2&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;  AlexNet erkennt Katzen!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
 &lt;li&gt;Ort: TBA&lt;/li&gt;
 &lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
 &lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
 &lt;h3&gt;Vorarbeit:&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:&lt;/p&gt;
