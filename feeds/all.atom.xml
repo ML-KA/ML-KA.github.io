@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-10-22T13:20:00+02:00</updated><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
-&lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
-&lt;h2&gt;Organisatorisches&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Gebäude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf"&gt;Grundlagen des maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Marvin/2015-07.pdf"&gt;Pixelweise Klassifikation mit tiefen Neuronalen Netzwerken&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:paper-discussion-group/</id><summary type="html">&lt;p&gt;In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich &lt;em&gt;Pixelweiser Klassifikation mit tiefen Neuronalen Netzen&lt;/em&gt; diskutieren. &lt;/p&gt;
-&lt;h2&gt;Nächstes Treffen&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h2&gt;Nächstes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
 &lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;  AlexNet erkennt Katzen!&lt;/figcaption&gt;
@@ -26,7 +13,7 @@
 &lt;/ul&gt;
 &lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
-&lt;h3&gt;Vorarbeit:&lt;/h3&gt;
+&lt;h3&gt;Vorbereitung:&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;ul&gt;
@@ -42,15 +29,37 @@
 &lt;p&gt;Insgesammt ist der Inhalt aber natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich wenden, ich bin täglich auf dem Campus und gut über Email erreichbar. &lt;/p&gt;
 &lt;h3&gt;Ausblick:&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogleLeNet&lt;/em&gt; reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. &lt;/p&gt;
+&lt;h3&gt;Anmeldung:&lt;/h3&gt;
+&lt;p&gt;Damit ich das Treffen besser planen kann, wäre es nett wenn Ihr mir eine kurze Email mit eurem Vorwissen schickt. Mögliche Angaben sind:&lt;/p&gt;
+&lt;p&gt;a) Neuling
+b) Grundkenntnisse
+c) Vertiefende Kenntnisse
+d) Experte&lt;/p&gt;
+&lt;p&gt;Natürlich könnt Ihr auch gerne spontan vorbeikommen ohne euch anzumelden.&lt;/p&gt;
 &lt;h2&gt;Literatur zu CNNs und Deep-Learning&lt;/h2&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne Tutorial&lt;/a&gt; von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
 &lt;h2&gt;Paper Liste&lt;/h2&gt;
+&lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser Klassifikation.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;[AlexNet] ImageNet Classification with Deep Convolutional Neural Networks, &lt;em&gt;Alex Krizhevsky et. al&lt;/em&gt; (&lt;strong&gt;NIPS 2012&lt;/strong&gt;)&lt;/li&gt;
 &lt;li&gt;[GoogleLeNet] Going Deeper with Convolutions, &lt;em&gt;Szegedy et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2014&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[FCNN] Fully Convolutional Networks for Semantic Segmentation &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;) &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Fragen&lt;/h2&gt;
-&lt;p&gt;Beantworte ich gerne, sowohl Inhaltlich als auf Rund um die Diskussion Group. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com&lt;/p&gt;</summary><category term="Paper"></category><category term="Pixelweise Klassifikation"></category><category term="Autonomes Fahren"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;p&gt;Beantworte ich gerne, sowohl Inhaltlich als auf Rund um die Diskussion Group. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
+&lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Gebäude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf"&gt;Grundlagen des maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Marvin/2015-07.pdf"&gt;Pixelweise Klassifikation mit tiefen Neuronalen Netzwerken&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table&gt;
