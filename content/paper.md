@@ -1,10 +1,8 @@
 Title: Paper Discussion Group
 Category: Projekte
-Date: 2015-10-22 13:20
-Tags: Paper, Pixelweise Klassifikation, Autonomes Fahren
+Date: 2015-11-11 17:30
+Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann
-
-In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich *Pixelweiser Klassifikation mit tiefen Neuronalen Netzen* diskutieren. 
 
 ## Nächstes Treffen
 
@@ -24,7 +22,7 @@ In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über *Ale
 In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. 
 
 
-###Vorarbeit:
+###Vorbereitung:
 Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:
 
 1. Das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford. Relevante Abschnitte sind:
@@ -41,7 +39,15 @@ Insgesammt ist der Inhalt aber natürlich sehr anspruchsvoll. Lasst euch davon b
 ###Ausblick:
 Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogleLeNet* reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit *Lasagne* zu Implementieren. Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. 
 
+###Anmeldung:
+Damit ich das Treffen besser planen kann, wäre es nett wenn Ihr mir eine kurze Email mit eurem Vorwissen schickt. Mögliche Angaben sind:
 
+a) Neuling
+b) Grundkenntnisse
+c) Vertiefende Kenntnisse
+d) Experte
+
+Natürlich könnt Ihr auch gerne spontan vorbeikommen ohne euch anzumelden.
 
 ## Literatur zu CNNs und Deep-Learning
 
@@ -49,8 +55,12 @@ Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das [Lasagne 
 
 ## Paper Liste
 
+Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser Klassifikation.
+
 1. [AlexNet] ImageNet Classification with Deep Convolutional Neural Networks, *Alex Krizhevsky et. al* (**NIPS 2012**)
 2. [GoogleLeNet] Going Deeper with Convolutions, *Szegedy et. al* (**ArXiv 2014**)
+3. [FCNN] Fully Convolutional Networks for Semantic Segmentation *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
+4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation *Vijay Badrinarayanan et. al* (**ArXiv 2015**) 
 
 
 ## Fragen
