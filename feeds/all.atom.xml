@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-10-22T13:20:00+02:00</updated><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-10-22T13:20:00+02:00</updated><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
 &lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
 &lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
@@ -11,41 +11,41 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-10-22:paper-discussion-group/</id><summary type="html">&lt;p&gt;In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich &lt;em&gt;Pixelweiser Klassifikation mit tiefen Neuronalen Netzen&lt;/em&gt; diskutieren. &lt;/p&gt;
-&lt;h2&gt;Ablauf&lt;/h2&gt;
-&lt;p&gt;Für jedes Treffen gibt es einen Experten, der sich besonders gut mit dem jeweiligen Thema beschäftigt hat und die Diskussion leitet. In der Regel wird sich der Inhalt eines Treffens an einem Paper oder anderer Literatur orientieren. Ein Treffen besteht dann aus folgenden Komponenten:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strukturierten durchgehen des Papers&lt;ul&gt;
-&lt;li&gt;Beantwortung von Verständisfragen&lt;/li&gt;
-&lt;li&gt;Diskussion von einzelnen Abschnitten und Details&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Offene Diskussion&lt;ul&gt;
-&lt;li&gt;globale Einordnung des Papers&lt;/li&gt;
-&lt;li&gt;weitere Forschungs und Verbesserungsmöglichkeiten&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Planung des nächsten Treffens&lt;ul&gt;
-&lt;li&gt;Absprache von Zeit und Ort&lt;/li&gt;
-&lt;li&gt;Auswahl des Themas&lt;/li&gt;
-&lt;li&gt;Auswahl des Experten&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Voraussetzung für die Teilnahme an einem Treffen ist das jeweilige Paper im &lt;em&gt;vorfeld&lt;/em&gt; gelesen zu haben. &lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:paper-discussion-group/</id><summary type="html">&lt;p&gt;In der Projektgruppe wollen wir die neuesten Entwicklungen im Bereich &lt;em&gt;Pixelweiser Klassifikation mit tiefen Neuronalen Netzen&lt;/em&gt; diskutieren. &lt;/p&gt;
 &lt;h2&gt;Nächstes Treffen&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 11. November&lt;/li&gt;
-&lt;li&gt;Ort: SCC (Geb. 20.20 ), SR 167&lt;/li&gt;
-&lt;li&gt;Thema: TBA&lt;/li&gt;
+&lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
+&lt;li&gt;Ort: TBA&lt;/li&gt;
+&lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
 &lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefen Neuronalen Netze, welche 2010 überraschend die ImageNet Classification Challange gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Ich dazu diskutieren wir die neue Ansätze zum Trainieren und evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
+&lt;h4&gt;Vorarbeit:&lt;/h4&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/"&gt;Multi-Layer Neural Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/"&gt;Feature Extraction Using Convolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/Pooling/"&gt;Pooling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork"&gt;ConvolutionalNeuralNetwork&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Das Paper über &lt;em&gt;AlexNet&lt;/em&gt; [1]. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ich habe das Feedback erhalten, dass viele Interessenten mit dem Thema Deep Learning noch nicht vertraut sind. Daher habe ich mich entschieden, dass wir zu Begin des Treffens uns kurz mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; beschäftigen. Relevant sind die Abschnitte und . Das &lt;em&gt;AlexNet&lt;/em&gt; ist definitiv für Deep Learning Neulinge geeignet.&lt;/p&gt;
+&lt;p&gt;Insgesammt ist der Inhalt natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich Wenden, ich bin täglich auf dem Campus.&lt;/p&gt;
+&lt;h4&gt;Ausblick:&lt;/h4&gt;
+&lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogleLeNet&lt;/em&gt; reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. &lt;/p&gt;
 &lt;h2&gt;Literatur zu CNNs und Deep-Learning&lt;/h2&gt;
-&lt;p&gt;In der Paper Discussion Group setzen wir Grundkenntnisse im Bereich CNNs und Deep-Learning vorraus. Falls diese noch nicht vorhanden sind können Sie innerhalb von wenigen Stunden erworben werden. Sehr empfehlen kann ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Besonders wichtig sind die Abschnitte &lt;a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/"&gt;Supervised Neural Networks&lt;/a&gt; und &lt;a href="http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/"&gt;Supervised Convolutional Neural Network&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne Tutorial&lt;/a&gt; von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
 &lt;h2&gt;Paper Liste&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;[AlexNet] ImageNet Classification with Deep Convolutional Neural Networks, &lt;em&gt;Alex Krizhevsky et. al&lt;/em&gt; (&lt;strong&gt;NIPS 2012&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[GoogleLeNet] Going Deeper with Convolutions, &lt;em&gt;Szegedy et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2014&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;Fragen&lt;/h2&gt;
-&lt;p&gt;Beantworte ich gerne, sowohl Inhaltlich als auf Rund um die Diskussion Group. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com&lt;/p&gt;</summary><category term="Paper"></category><category term="Pixelweise Klassifikation"></category><category term="Autonomes Fahren"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;p&gt;Beantworte ich gerne, sowohl Inhaltlich als auf Rund um die Diskussion Group. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com&lt;/p&gt;</summary><category term="Paper"></category><category term="Pixelweise Klassifikation"></category><category term="Autonomes Fahren"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table&gt;
@@ -144,7 +144,7 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
 &lt;h2&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -206,7 +206,7 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;h2&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
 Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
