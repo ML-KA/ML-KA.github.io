@@ -33,7 +33,7 @@ Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:
 	* [ConvolutionalNeuralNetwork](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork)
 	* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 
-Das Stanford Tutorial ist rech anspruchsvoll. Für ML Einsteiger kann es hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel *Wikipedia*) nachzulesen. Bitte lasst euch von offenen Fragen oder Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion Group da. 
+Das Stanford Tutorial ist rech anspruchsvoll. Für ML Einsteiger kann es hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion Group da. 
 
 # weitere Treffen
 
