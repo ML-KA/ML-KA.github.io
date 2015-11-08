@@ -4,22 +4,23 @@ Date: 2015-11-11 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann
 
-## Nächstes Treffen
+# Erstes Treffen
 
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
-<figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br>  AlexNet erkennt Katzen!</figcaption>
+<img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png">
+<figcaption style="display:table-caption;caption-side:bottom">Schematische Darstellung von CNNs. <BR> Quelle: Stanford Deep Lerning Tutorial</figcaption>
 </figure>
 
 * Datum: 11. November, 17:30
-* Ort: TBA
-* Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Stanford Deep Learning Tutorial
 * Experte: Marvin Teichmann
 
+In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs. 
 
-In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein tiefes Neuronales Netz, welches 2010 überraschend die *ImageNet Classification Challenge* gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogleLeNet* [2], sind Weiterentwicklungen von *AlexNet*.
+Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende Netze, wie *AlexNet*[1] oder *GoogleLeNet* [2] diskutieren. Außerdem besteht die Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren. 
 
-In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. 
+
 
 
 ###Vorbereitung:
@@ -30,30 +31,40 @@ Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:
 	* [Feature Extraction Using Convolution](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/)
 	* [Pooling](http://ufldl.stanford.edu/tutorial/supervised/Pooling/)
 	* [ConvolutionalNeuralNetwork](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork)
-2. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) [1]. 
+	* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 
-Ich habe das Feedback erhalten, dass viele Interessenten kein Vorwissen über Deep Learning haben. Daher habe ich mich entschieden, dass wir zu Begin des Treffens uns kurz mit dem [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) beschäftigen. Das *AlexNet* Paper ist definitiv für (motivierte) Deep Learning Neulinge geeignet.
+Das Stanford Tutorial ist rech anspruchsvoll. Für ML Einsteiger kann es hilfreich sein einzelne Schlagwörter auch in externen Quellen nachzulesen. Bitte lasst euch von offenen Fragen oder Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion Group da. 
 
-Insgesammt ist der Inhalt aber natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich wenden, ich bin täglich auf dem Campus und gut über Email erreichbar. 
+# weitere Treffen
+
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
+<figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br>  AlexNet erkennt Katzen!</figcaption>
+</figure>
+
+* Datum: TBA
+* Ort:  TBA
+* Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
+* Experte: Marvin Teichmann
+
+In diesem Treffen möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein tiefes Neuronales Netz, welches 2010 überraschend die *ImageNet Classification Challenge* gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogleLeNet* [2], sind Weiterentwicklungen von *AlexNet*.
+
+In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. 
+
+
+###Vorbereitung:
+Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
+
+1. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) [1]. 
 
 ###Ausblick:
 Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogleLeNet* reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit *Lasagne* zu Implementieren. Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. 
 
-###Anmeldung:
-Damit ich das Treffen besser planen kann, wäre es nett wenn Ihr mir eine kurze Email mit eurem Vorwissen schickt. Mögliche Angaben sind:
-
-a) Neuling
-b) Grundkenntnisse
-c) Vertiefende Kenntnisse
-d) Experte
-
-Natürlich könnt Ihr auch gerne spontan vorbeikommen ohne euch anzumelden.
-
-## Literatur zu CNNs und Deep-Learning
+# Literatur zu CNNs und Deep-Learning
 
 Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das [Lasagne Tutorial](http://martin-thoma.com/lasagne-for-python-newbies/) von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.
 
-## Paper Liste
+# Paper Liste
 
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser Klassifikation.
 
@@ -63,7 +74,7 @@ Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser Klassifik
 4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation *Vijay Badrinarayanan et. al* (**ArXiv 2015**) 
 
 
-## Fragen
+# Fragen
 
 Beantworte ich gerne. Schreib mir einfach eine kurze Email: marvxx.teichmaxx@gmaxx.com
 
