@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1&gt;Nächstes Treffen&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1&gt;Erstes Treffen&lt;/h1&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;  AlexNet erkennt Katzen!&lt;/figcaption&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs. &lt;BR&gt; Quelle: Stanford Deep Lerning Tutorial&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
+&lt;li&gt;Thema: Stanford Deep Learning Tutorial&lt;/li&gt;
 &lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In dem ersten Treffen der Paper Discussion Group möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch über das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs. &lt;/p&gt;
+&lt;p&gt;Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende Netze, wie &lt;em&gt;AlexNet&lt;/em&gt;[1] oder &lt;em&gt;GoogleLeNet&lt;/em&gt; [2] diskutieren. Außerdem besteht die Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren. &lt;/p&gt;
 &lt;h3&gt;Vorbereitung:&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgenden Quellen:&lt;/p&gt;
 &lt;ol&gt;
@@ -21,21 +21,32 @@
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/"&gt;Feature Extraction Using Convolution&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/Pooling/"&gt;Pooling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork"&gt;ConvolutionalNeuralNetwork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/"&gt;Autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Das Stanford Tutorial ist rech anspruchsvoll. Für ML Einsteiger kann es hilfreich sein einzelne Schlagwörter auch in externen Quellen nachzulesen. Bitte lasst euch von offenen Fragen oder Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion Group da. &lt;/p&gt;
+&lt;h1&gt;weitere Treffen&lt;/h1&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;  AlexNet erkennt Katzen!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Datum: TBA&lt;/li&gt;
+&lt;li&gt;Ort:  TBA&lt;/li&gt;
+&lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
+&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In diesem Treffen möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogleLeNet&lt;/em&gt; [2], sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und Evaluieren des Netzes und untersuchen die neue Netzarchitektur. &lt;/p&gt;
+&lt;h3&gt;Vorbereitung:&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;Das Paper über &lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;AlexNet&lt;/a&gt; [1]. &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ich habe das Feedback erhalten, dass viele Interessenten kein Vorwissen über Deep Learning haben. Daher habe ich mich entschieden, dass wir zu Begin des Treffens uns kurz mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; beschäftigen. Das &lt;em&gt;AlexNet&lt;/em&gt; Paper ist definitiv für (motivierte) Deep Learning Neulinge geeignet.&lt;/p&gt;
-&lt;p&gt;Insgesammt ist der Inhalt aber natürlich sehr anspruchsvoll. Lasst euch davon bitte nicht davon abschrecken, wenn Ihr nicht alles versteht. Die Diskussions Gruppe dient auch dazu gemeinsam die Inhalte besser zu verstehen. Bei Fragen könnt Ihr euch gerne jederzeit an mich wenden, ich bin täglich auf dem Campus und gut über Email erreichbar. &lt;/p&gt;
 &lt;h3&gt;Ausblick:&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogleLeNet&lt;/em&gt; reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Eve Shelhamme beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. &lt;/p&gt;
-&lt;h3&gt;Anmeldung:&lt;/h3&gt;
-&lt;p&gt;Damit ich das Treffen besser planen kann, wäre es nett wenn Ihr mir eine kurze Email mit eurem Vorwissen schickt. Mögliche Angaben sind:&lt;/p&gt;
-&lt;p&gt;a) Neuling
-b) Grundkenntnisse
-c) Vertiefende Kenntnisse
-d) Experte&lt;/p&gt;
-&lt;p&gt;Natürlich könnt Ihr auch gerne spontan vorbeikommen ohne euch anzumelden.&lt;/p&gt;
 &lt;h1&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne Tutorial&lt;/a&gt; von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
 &lt;h1&gt;Paper Liste&lt;/h1&gt;
