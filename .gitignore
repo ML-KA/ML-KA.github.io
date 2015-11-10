@@ -58,3 +58,5 @@ target/
 
 output/
 cache/
+
+*.bak
