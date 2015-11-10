@@ -13,7 +13,7 @@ This page is still at a very early stage. Feel free to add pull requests
 To download this repository with submodules, you have to execute
 
 ```bash
-$ git clone git@github.com:ML-KA/presentations.git --recursive
+$ git clone git@github.com:ML-KA/ML-KA.github.io.git --recursive
 
 
 You might have to install the dependencies:
