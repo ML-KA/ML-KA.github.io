@@ -5,7 +5,6 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann
 
 # Erstes Treffen
-
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png">
 <figcaption style="display:table-caption;caption-side:bottom">Schematische Darstellung von CNNs.<br/>
@@ -17,14 +16,14 @@ Quelle: Stanford Deep Learning Tutorial</figcaption>
 * Thema: Stanford Deep Learning Tutorial
 * Experte: Marvin&nbsp;Teichmann
 
-In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs. 
+In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.
 
-Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende Netze, wie *AlexNet*[1] oder *GoogLeNet* [2] diskutieren. Außerdem besteht die Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren. 
+Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
+Netze, wie *AlexNet*[1] oder *GoogLeNet* [2] diskutieren. Außerdem besteht die
+Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.
 
 
-
-
-###Vorbereitung:
+### Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit dem [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford. Relevante Abschnitte sind:
 
 *  [Multi-Layer Neural Network](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
@@ -39,11 +38,11 @@ Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
 Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
 Group da.
 
-# weitere Treffen
-
+# Weitere Treffen
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
-<figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br>  AlexNet erkennt Katzen!</figcaption>
+<figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br/>
+AlexNet erkennt Katzen!</figcaption>
 </figure>
 
 * Datum: TBA
@@ -65,32 +64,39 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.
 ### Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
-1. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) [1]. 
+1. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) [1].
+
 
 ### Ausblick
+Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden.
+Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
+darum geht ein Netz selber mit *Lasagne* zu Implementieren. Außerdem können wir
+uns mit den neuen *FCNN* Ansatz von Jon Long und Evan Shelhamer beschäftigen.
+Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
+besprechen.
 
-Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden. Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit *Lasagne* zu Implementieren. Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Evan Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen. 
 
 # Literatur zu CNNs und Deep-Learning
+Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das [Lasagne
+Tutorial](http://martin-thoma.com/lasagne-for-python-newbies/) von Martin
+Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung
+bereits praktisch mit CNNs gearbeitet zu haben.
 
-Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das [Lasagne Tutorial](http://martin-thoma.com/lasagne-for-python-newbies/) von Martin Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung bereits praktisch mit CNNs gearbeitet zu haben.
 
 # Paper Liste
-
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.
 
 1. [AlexNet] ImageNet Classification with Deep Convolutional Neural Networks,
    *Alex Krizhevsky et. al* (**NIPS 2012**)
-2. [GoogleLeNet] Going Deeper with Convolutions, *Szegedy et. al* (**ArXiv 2014**)
-3. [FCNN] Fully Convolutional Networks for Semantic Segmentation *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
-4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation *Vijay Badrinarayanan et. al* (**ArXiv 2015**) 
+2. [GoogleLeNet] Going Deeper with Convolutions,
+   *Szegedy et. al* (**ArXiv 2014**)
+3. [FCNN] Fully Convolutional Networks for Semantic Segmentation,
+   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
+4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
+   Image Segmentation, *Vijay Badrinarayanan et. al* (**ArXiv 2015**)
 
 
 # Fragen
-
 Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com
-
-
-

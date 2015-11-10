@@ -27,7 +27,7 @@ Angenommen man hat eine [Schwertlilie](https://de.wikipedia.org/wiki/Schwertlili
 Es ist klar, dass es eine Schwertlilie ist, aber es könnte entweder eine
 Iris Setosa, eine Iris Virginica oder eine Iris Versicolor sein. Man muss nun
 ein Programm schreiben, welches die 3 Arten von einander unterscheiden kann.
-Der Einfachkeit halber werden diese im Folgenden als Klasse I, II und III
+Der Einfachheit halber werden diese im Folgenden als Klasse I, II und III
 bezeichnet.
 
 Biologen haben für je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
