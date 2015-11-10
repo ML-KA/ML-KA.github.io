@@ -23,8 +23,9 @@ AUTHOR_FEED_RSS = None
 LINKS = (('GitHub/ML-KA', 'http://127.0.0.1:8000/'),)
 
 # Social widget
-SOCIAL = None  # (('You can add links in your config file', '#'),
-               # ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'https://www.facebook.com/mlkarlsruhe'),
+          # ('Another social link', '#'),
+          )
 
 DEFAULT_PAGINATION = 10
 
