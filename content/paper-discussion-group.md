@@ -2,7 +2,7 @@ Title: Paper Discussion Group
 Category: Projekte
 Date: 2015-11-11 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
-Authors: Marvin Teichmann
+Authors: Marvin Teichmann, Martin Thoma
 
 # Erstes Treffen
 <figure style="display:table;float:right">
@@ -19,7 +19,8 @@ Quelle: Stanford Deep Learning Tutorial</figcaption>
 In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.
 
 Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
-Netze, wie *AlexNet*[1] oder *GoogLeNet* [2] diskutieren. Außerdem besteht die
+Netze, wie *AlexNet*[ref]Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "[ImageNet Classification with Deep Convolutional
+Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)", 2012.[/ref] oder *GoogLeNet* [ref]Christian Szegedy et al., "[Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842)", 2014.[/ref] diskutieren. Außerdem besteht die
 Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.
 
 
@@ -53,8 +54,7 @@ AlexNet erkennt Katzen!</figcaption>
 In diesem Treffen möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein
 tiefes Neuronales Netz, welches 2010 überraschend die *ImageNet Classification
 Challenge* gewann. Dies leitete eine Renaissance von Deep Learning ein, welche
-bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogLeNet*
-[2], sind Weiterentwicklungen von *AlexNet*.
+bis heute anhält. Viele aktuell führende Netze, wie beispielsweise *GoogLeNet*<sup id="sf-paper-discussion-group-2-back"><a class="simple-footnote" title="Christian Szegedy et al., &quot;Going Deeper with Convolutions&quot;, 2014." href="#sf-paper-discussion-group-2">2</a></sup>, sind Weiterentwicklungen von *AlexNet*.
 
 In dem ersten Treffen möchte ich mit euch verstehen was *AlexNet* so
 erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
@@ -64,7 +64,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.
 ### Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
-1. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) [1].
+1. Das Paper über AlexNet<sup id="sf-paper-discussion-group-1-back"><a class="simple-footnote" title="Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, &quot;ImageNet Classification with Deep Convolutional Neural Networks&quot;, 2012." href="#sf-paper-discussion-group-1">1</a></sup>.
 
 
 ### Ausblick
@@ -100,3 +100,5 @@ Klassifikation.
 # Fragen
 Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com
+
+# Quellen

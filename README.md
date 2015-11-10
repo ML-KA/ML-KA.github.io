@@ -14,6 +14,7 @@ This page is still at a very early stage. Feel free to add pull requests
 $ pip install pelican
 $ pip install Markdown
 $ pip install ghp-import
+$ pip install html5lib
 ```
 
 

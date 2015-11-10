@@ -41,9 +41,11 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 PLUGIN_PATHS = ['./pelican-bootstrapify',
                 './pelican_plugin-render_math',
+                './simple_footnotes',
                 './pelican-toc']
 PLUGINS = ['bootstrapify',
            'pelican_plugin-render_math',
+           'simple_footnotes',
            'toc']
 
 STATIC_PATHS = ['images', 'extra/CNAME']
