@@ -38,9 +38,11 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
-PLUGIN_PATHS = ['./pelican_plugin-render_math',
+PLUGIN_PATHS = ['./pelican-bootstrapify',
+                './pelican_plugin-render_math',
                 './pelican-toc']
-PLUGINS = ['pelican_plugin-render_math',
+PLUGINS = ['bootstrapify',
+           'pelican_plugin-render_math',
            'toc']
 
 STATIC_PATHS = ['images', 'extra/CNAME']
