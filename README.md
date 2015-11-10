@@ -22,7 +22,7 @@ To download this repository with submodules, you have to execute
 
 ```bash
 $ git clone git@github.com:ML-KA/ML-KA.github.io.git --recursive
-
+```
 
 You might have to install the dependencies:
 
@@ -35,8 +35,10 @@ $ sudo -H pip install ghp-import pelican Markdown
 Before you send me your changes as a pull request, please run
 
 ```bash
-$ make test
+$ make html-local
+$ make serve
 ```
 
-and take a look at the generated output / log messages to see if there are
-obvious problems with your changes.
+and take a look at the generated output
+([http://127.0.0.1:8000/](http://127.0.0.1:8000/)) / log messages to see if
+there are obvious problems with your changes.
