@@ -11,21 +11,21 @@
 
 <link rel="canonical" href="//ml-ka.github.io/machine-learning-grundlagen/">
 
-        <meta name="author" content="Members of the ML-KA group" />
+        <meta name="author" content="Martin Thoma" />
         <meta name="keywords" content="Allgemein,Klassifikation,Iris dataset" />
-        <meta name="description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt wird. Was &#34;möglichst ..." />
+        <meta name="description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt ..." />
 
         <meta property="og:site_name" content="Machine Learning - KIT" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="Machine Learning Grundlagen"/>
         <meta property="og:url" content="//ml-ka.github.io/machine-learning-grundlagen/"/>
-        <meta property="og:description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt wird. Was &#34;möglichst ..."/>
+        <meta property="og:description" content="Im folgenden werden Grundlagen des maschinellen Lernens erklärt. Was ist maschinelles Lernen? Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine Struktur, wo er Teile anpassen kann, sodass eine Aufgabe &#34;möglichst gut&#34; erfüllt ..."/>
         <meta property="article:published_time" content="2015-06-15" />
             <meta property="article:section" content="Allgemein" />
             <meta property="article:tag" content="Allgemein" />
             <meta property="article:tag" content="Klassifikation" />
             <meta property="article:tag" content="Iris dataset" />
-            <meta property="article:author" content="Members of the ML-KA group" />
+            <meta property="article:author" content="Martin Thoma" />
 
 
     <!-- Bootstrap -->
@@ -105,7 +105,7 @@ Machine Learning - KIT            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2015-06-15T10:20:00"> Mo 15 Juni 2015</time>
+        <i class="fa fa-calendar"></i><time datetime="2015-06-15T10:20:00+02:00"> Mo 15 Juni 2015</time>
     </span>
 
 
@@ -121,50 +121,49 @@ Machine Learning - KIT            </a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>Im folgenden werden Grundlagen des maschinellen Lernens erklärt.</p>
-<h2>Was ist maschinelles Lernen?</h2>
+                <p>Im folgenden werden Grundlagen des maschinellen Lernens erkl&auml;rt.</p>
+<h2 id="was-ist-maschinelles-lernen">Was ist maschinelles Lernen?</h2>
 <p>Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
-Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
-erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.</p>
+Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "m&ouml;glichst gut"
+erf&uuml;llt wird. Was "m&ouml;glichst gut" bedeutet, muss der Programmierer festlegen.</p>
 <p>Tom Mitchel hat maschinelles Lernen wie folgt Definiert:</p>
 <blockquote>
-<p>A computer program is said to learn from experience E with respect to some
-class of tasks T and performance measure P, if its performance at tasks in T,
-as measured by P, improves with experience E.</p>
+<p>A computer program is said to learn from experience <span class="math">\(E\)</span> with respect to some
+class of tasks <span class="math">\(T\)</span> and performance measure <span class="math">\(P\)</span>, if its performance at tasks
+in <span class="math">\(T\)</span>, as measured by <span class="math">\(P\)</span>, improves with experience <span class="math">\(E\)</span>.</p>
 </blockquote>
-<h2>Ein Beispiel</h2>
+<h2 id="ein-beispiel">Ein Beispiel</h2>
 <p>Angenommen man hat eine <a href="https://de.wikipedia.org/wiki/Schwertlilien">Schwertlilie</a>.
-Es ist klar, dass es eine Schwertlilie ist, aber es könnte entweder eine
+Es ist klar, dass es eine Schwertlilie ist, aber es k&ouml;nnte entweder eine
 Iris Setosa, eine Iris Virginica oder eine Iris Versicolor sein. Man muss nun
 ein Programm schreiben, welches die 3 Arten von einander unterscheiden kann.
-Der Einfachkeit halber werden diese im Folgenden als Klasse I, II und III
+Der Einfachheit halber werden diese im Folgenden als Klasse I, II und III
 bezeichnet.</p>
-<p>Biologen haben für je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
-Größen gemessen:</p>
+<p>Biologen haben f&uuml;r je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
+Gr&ouml;&szlig;en gemessen:</p>
 <ul>
-<li><a href="https://de.wikipedia.org/wiki/Kelchblatt">Kelchblatt</a>: Länge und Höhe, in cm.</li>
-<li><a href="https://de.wikipedia.org/wiki/Kronblatt">Kronblatt</a>: Länge und Höhe, in cm.</li>
+<li><a href="https://de.wikipedia.org/wiki/Kelchblatt">Kelchblatt</a>: L&auml;nge und H&ouml;he, in cm.</li>
+<li><a href="https://de.wikipedia.org/wiki/Kronblatt">Kronblatt</a>: L&auml;nge und H&ouml;he, in cm.</li>
 </ul>
 <p>Wie kann man diese Information nun nutzen um zu lernen, was eine Iris
 Versicolor von einer Iris Virginica unterscheidet?</p>
-<p>Der einfachste Ansatz wäre die Daten für einfache Klassifikatoren zu
+<p>Der einfachste Ansatz w&auml;re die Daten f&uuml;r einfache Klassifikatoren zu
 betrachten. Vielleicht hat Klasse I ja immer eine deutlich kleinere
-Kelchblattgröße. Oder vielleicht ist das Verhältnis zwischen Kelchblattlänge
+Kelchblattgr&ouml;&szlig;e. Oder vielleicht ist das Verh&auml;ltnis zwischen Kelchblattl&auml;nge
 und Kelchblattbreite deutlich unterschiedlich bei den Arten.</p>
-<p>Das wäre eine einfache Lösung für dieses Klassifikationsproblem.</p>
+<p>Das w&auml;re eine einfache L&ouml;sung f&uuml;r dieses Klassifikationsproblem.</p>
 <!-- ## Klassifikatoren vergleichen
 
 Natürlich gibt es viele weitere Möglichkeiten das Klassifikationsproblem zu
 lösen. Und wir wollen die beste finden. Aber was ist die beste Möglichkeit?
 Dafür muss man eine Fehlerfunktion haben.  -->
-
-<h2>Decision Trees</h2>
-<p>TODO: Kurz erklären, damit es später verwendet werden kann.</p>
-<h2>Vorgehen</h2>
-<p>Es gibt jedoch auch kompliziertere Lösungen wie decision trees, Support Vector
+<h2 id="decision-trees">Decision Trees</h2>
+<p>TODO: Kurz erkl&auml;ren, damit es sp&auml;ter verwendet werden kann.</p>
+<h2 id="vorgehen">Vorgehen</h2>
+<p>Es gibt jedoch auch kompliziertere L&ouml;sungen wie decision trees, Support Vector
 Machines (SVMs) und neuronale Netze. Diese haben interne Parameter, welche
-angepasst werden um eine Lösung zu finden. Bei allen diesen Klassifikatoren
+angepasst werden um eine L&ouml;sung zu finden. Bei allen diesen Klassifikatoren
 kann man zwischen <em>Training</em> und <em>Evaluation</em> unterscheiden. Beim Training
 lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.</p>
 <ul>
@@ -175,15 +174,72 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.</
 <li>Supervised &lt;-&gt; unsupervised</li>
 <li>Classification, Regression</li>
 </ul>
-<h2>Abgrenzung</h2>
+<h2 id="abgrenzung">Abgrenzung</h2>
 <ul>
 <li>Machine Learning &lt;-&gt; A.I. &lt;-&gt; Data science &lt;-&gt; Statistik &lt;-&gt; Big Data</li>
 </ul>
 <p>Als </p>
-<h2>Siehe auch</h2>
+<h2 id="siehe-auch">Siehe auch</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Statistical_classification">Statistical classification</a></li>
 </ul>
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width < 768) ? "left" : align;
+        indent = (screen.width < 768) ? "0em" : indent;
+        linebreak = (screen.width < 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -198,50 +254,6 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.</
 
 
 
-            <li class="list-group-item"><a href="//ml-ka.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="//ml-ka.github.io/tag/allgemein.html">
-                            Allgemein
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/deep-learning.html">
-                            Deep Learning
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/paper.html">
-                            Paper
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/lectures.html">
-                            Lectures
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/iris-dataset.html">
-                            Iris dataset
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/veranstaltung.html">
-                            Veranstaltung
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/klassifikation.html">
-                            Klassifikation
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="//ml-ka.github.io/tag/autonomes-fahren.html">
-                            Autonomes Fahren
-                        </a>
-                    </li>
-                </ul>
-            </li>
 
 
     <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
