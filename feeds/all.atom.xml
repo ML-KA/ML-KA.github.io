@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1 id="erstes-treffen"&gt;Erstes Treffen&lt;/h1&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" src="../images/Cnn_layer.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="../images/Cnn_layer.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -31,7 +31,7 @@ Verst&amp;auml;ndnisschwierigkeiten nicht abschrecken. Hierf&amp;uuml;r ist auch
 Group da.&lt;/p&gt;
 &lt;h1 id="weitere-treffen_1"&gt;Weitere Treffen&lt;/h1&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" src="../images/imagenet.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="../images/imagenet.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -96,7 +96,7 @@ marvxx.teichmaxx@gmaxx.com&lt;/p&gt;</summary><category term="Paper"></category>
 &lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
-&lt;table&gt;
+&lt;table class="table table-hover table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -145,7 +145,7 @@ learning.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="applications"&gt;Applications&lt;/h2&gt;
-&lt;table&gt;
+&lt;table class="table table-hover table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -166,7 +166,7 @@ learning.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="hands-on-courses"&gt;Hands on Courses&lt;/h2&gt;
-&lt;table&gt;
+&lt;table class="table table-hover table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
