@@ -8,6 +8,14 @@ This page is still at a very early stage. Feel free to add pull requests
 (even for minor changes) or send me an email (info@martin-thoma.de).
 
 
+## Install Requirements
+
+```
+$ sudo pip install pelican
+$ sudo pip install Markdown
+```
+
+
 ## Get repository
 
 To download this repository with submodules, you have to execute
