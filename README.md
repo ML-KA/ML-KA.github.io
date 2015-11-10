@@ -42,3 +42,19 @@ $ make serve
 and take a look at the generated output
 ([http://127.0.0.1:8000/](http://127.0.0.1:8000/)) / log messages to see if
 there are obvious problems with your changes.
+
+## Check spelling
+
+Please check your spelling with `aspell` before you commit it.
+
+Installation on Debian-based systems:
+
+```bash
+$ sudo apt-get install aspell aspell-de
+```
+
+Checking:
+
+```bash
+$ aspell --lang=de_DE check paper-discussion-group.md
+```
