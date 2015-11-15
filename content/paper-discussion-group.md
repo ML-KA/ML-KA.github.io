@@ -4,49 +4,16 @@ Date: 2015-11-11 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# Erstes Treffen
-<figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png">
-<figcaption style="display:table-caption;caption-side:bottom">Schematische Darstellung von CNNs.<br/>
-Quelle: Stanford Deep Learning Tutorial</figcaption>
-</figure>
-
-* Datum: 11. November, 17:30
-* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: Stanford Deep Learning Tutorial
-* Experte: Marvin&nbsp;Teichmann
-
-In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.
-
-Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
-Netze, wie *AlexNet*[ref]Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "[ImageNet Classification with Deep Convolutional
-Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)", 2012.[/ref] oder *GoogLeNet* [ref]Christian Szegedy et al., "[Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842)", 2014.[/ref] diskutieren. Außerdem besteht die
-Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.
 
 
-### Vorbereitung
-Beschäftigt euch bitte im Vorfeld mit dem [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford. Relevante Abschnitte sind:
-
-*  [Multi-Layer Neural Network](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
-* [Feature Extraction Using Convolution](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/)
-* [Pooling](http://ufldl.stanford.edu/tutorial/supervised/Pooling/)
-* [ConvolutionalNeuralNetwork](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork)
-* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
-
-Das Stanford Tutorial ist recht anspruchsvoll. Für ML Einsteiger kann es
-hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel
-Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
-Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
-Group da.
-
-# Weitere Treffen
+# Nächstes Treffen
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
 <figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br/>
 AlexNet erkennt Katzen!</figcaption>
 </figure>
 
-* Datum: TBA
+* Datum: 25.11.2015
 * Ort:  TBA
 * Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
 * Experte: Marvin Teichmann
@@ -100,5 +67,43 @@ Klassifikation.
 # Fragen
 Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com
+
+# Vergangene Treffen
+
+## Erstes Treffen
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png">
+<figcaption style="display:table-caption;caption-side:bottom">Schematische Darstellung von CNNs.<br/>
+Quelle: Stanford Deep Learning Tutorial</figcaption>
+</figure>
+
+* Datum: 11. November, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Stanford Deep Learning Tutorial
+* Experte: Marvin&nbsp;Teichmann
+
+In dem ersten Treffen möchte ich mit euch über das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.
+
+Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
+Netze, wie *AlexNet*[ref]Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "[ImageNet Classification with Deep Convolutional
+Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)", 2012.[/ref] oder *GoogLeNet* [ref]Christian Szegedy et al., "[Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842)", 2014.[/ref] diskutieren. Außerdem besteht die
+Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.
+
+
+### Vorbereitung
+Beschäftigt euch bitte im Vorfeld mit dem [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) der Universität Stanford. Relevante Abschnitte sind:
+
+*  [Multi-Layer Neural Network](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+* [Feature Extraction Using Convolution](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/)
+* [Pooling](http://ufldl.stanford.edu/tutorial/supervised/Pooling/)
+* [ConvolutionalNeuralNetwork](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork)
+* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
+
+Das Stanford Tutorial ist recht anspruchsvoll. Für ML Einsteiger kann es
+hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel
+Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
+Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
+Group da.
+
 
 # Quellen
