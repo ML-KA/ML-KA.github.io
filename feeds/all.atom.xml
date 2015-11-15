@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1 id="erstes-treffen"&gt;Erstes Treffen&lt;/h1&gt;
-&lt;p&gt;&lt;/p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img class="img-responsive" align="middle" width="256" src="../images/Cnn_layer.png" style="float:right;"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1&gt;Nächstes Treffen&lt;/h1&gt;
+&lt;p&gt;&lt;figure style="display:table;float:right"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
+AlexNet erkennt Katzen!&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: 25.11.2015&lt;/li&gt;
+&lt;li&gt;Ort:  TBA&lt;/li&gt;
+&lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
+&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In diesem Treffen möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
+tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification
+Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche
+bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title="Christian Szegedy et al., &amp;quot;Going Deeper with Convolutions&amp;quot;, 2014." href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
+erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
+Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Das Paper über AlexNet&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title="Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, &amp;quot;ImageNet Classification with Deep Convolutional Neural Networks&amp;quot;, 2012." href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Ausblick&lt;/h3&gt;
+&lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
+Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
+darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir
+uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer beschäftigen.
+Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
+besprechen.&lt;/p&gt;
+&lt;h1&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
+&lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
+Tutorial&lt;/a&gt; von Martin
+Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung
+bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
+&lt;h1&gt;Paper Liste&lt;/h1&gt;
+&lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
+Klassifikation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[AlexNet] ImageNet Classification with Deep Convolutional Neural Networks,
+   &lt;em&gt;Alex Krizhevsky et. al&lt;/em&gt; (&lt;strong&gt;NIPS 2012&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[GoogleLeNet] Going Deeper with Convolutions,
+   &lt;em&gt;Szegedy et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2014&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[FCNN] Fully Convolutional Networks for Semantic Segmentation,
+   &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
+   Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Fragen&lt;/h1&gt;
+&lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
+marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
+&lt;h1&gt;Vergangene Treffen&lt;/h1&gt;
+&lt;h2&gt;Erstes Treffen&lt;/h2&gt;
+&lt;p&gt;&lt;figure style="display:table;float:right"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Stanford Deep Learning Tutorial&lt;/li&gt;
-&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
+&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch über das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.&lt;/p&gt;
 &lt;p&gt;Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
-Netze, wie &lt;em&gt;AlexNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt; oder &lt;em&gt;GoogLeNet&lt;/em&gt; &lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title='Christian Szegedy et al., "Going Deeper with Convolutions", 2014.' href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt; diskutieren. Außerdem besteht die
+Netze, wie &lt;em&gt;AlexNet&lt;/em&gt;[ref]Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional
+Neural Networks&lt;/a&gt;", 2012.[/ref] oder &lt;em&gt;GoogLeNet&lt;/em&gt; [ref]Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014.[/ref] diskutieren. Außerdem besteht die
 Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.&lt;/p&gt;
-&lt;h3 id="vorbereitung"&gt;Vorbereitung&lt;/h3&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/"&gt;Multi-Layer Neural Network&lt;/a&gt;&lt;/li&gt;
@@ -29,75 +83,22 @@ hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel
 Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
 Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
 Group da.&lt;/p&gt;
-&lt;h1 id="weitere-treffen_1"&gt;Weitere Treffen&lt;/h1&gt;
-&lt;p&gt;&lt;/p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img class="img-responsive" align="middle" width="256" src="../images/imagenet.png" style="float:right;"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;
-AlexNet erkennt Katzen!&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Datum: TBA&lt;/li&gt;
-&lt;li&gt;Ort:  TBA&lt;/li&gt;
-&lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
-&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In diesem Treffen möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
-tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification
-Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche
-bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title='Christian Szegedy et al., "Going Deeper with Convolutions", 2014.' href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
-erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
-Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
-&lt;h3 id="vorbereitung_1"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Das Paper über AlexNet&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id="ausblick"&gt;Ausblick&lt;/h3&gt;
-&lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
-Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
-darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir
-uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer beschäftigen.
-Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
-besprechen.&lt;/p&gt;
-&lt;h1 id="literatur-zu-cnns-und-deep-learning_1"&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
-&lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
-Tutorial&lt;/a&gt; von Martin
-Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung
-bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
-&lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
-&lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
-Klassifikation.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;[AlexNet] ImageNet Classification with Deep Convolutional Neural Networks,
-   &lt;em&gt;Alex Krizhevsky et. al&lt;/em&gt; (&lt;strong&gt;NIPS 2012&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;[GoogleLeNet] Going Deeper with Convolutions,
-   &lt;em&gt;Szegedy et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2014&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;[FCNN] Fully Convolutional Networks for Semantic Segmentation,
-   &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;[SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
-   Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id="fragen"&gt;Fragen&lt;/h1&gt;
-&lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
-marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
-&lt;h1 id="quellen"&gt;Quellen&lt;/h1&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-paper-discussion-group-1"&gt;Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional
-Neural Networks&lt;/a&gt;", 2012. &lt;a class="simple-footnote-back" href="#sf-paper-discussion-group-1-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-paper-discussion-group-2"&gt;Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014. &lt;a class="simple-footnote-back" href="#sf-paper-discussion-group-2-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
-&lt;p&gt;Im Anschluss wollen wir uns &amp;uuml;ber Projektideen und m&amp;ouml;gliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;h1&gt;Quellen&lt;/h1&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Grundlagen des maschinellen Lernens und pixelweise Klassifikation</title><link href="//ml-ka.github.io/grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-10-22:grundlagen-des-maschinellen-lernens-und-pixelweise-klassifikation/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
+&lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Geb&amp;auml;ude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Gebäude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf"&gt;Grundlagen des maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Marvin/2015-07.pdf"&gt;Pixelweise Klassifikation mit tiefen Neuronalen Netzwerken&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
-&lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+&lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -118,14 +119,14 @@ learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Maschinelles Lernen 1&lt;/td&gt;
 &lt;td&gt;[24150]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. Z&amp;ouml;llner, Prof. Dr. Dillmann&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Zöllner, Prof. Dr. Dillmann&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Maschinelles Lernen 2&lt;/td&gt;
 &lt;td&gt;[24620]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. Z&amp;ouml;llner, Prof. Dr. Dillmann&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Zöllner, Prof. Dr. Dillmann&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
@@ -137,16 +138,16 @@ learning.&lt;/p&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Analysetechniken f&amp;uuml;r gro&amp;szlig;e Datenbest&amp;auml;nde&lt;/td&gt;
+&lt;td&gt;Analysetechniken für große Datenbestände&lt;/td&gt;
 &lt;td&gt;[24114]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. B&amp;ouml;hm&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Böhm&lt;/td&gt;
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;2+1&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id="applications"&gt;Applications&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+&lt;h2&gt;Applications&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -160,14 +161,14 @@ learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Grundlagen der Automatischen Spracherkennung&lt;/td&gt;
 &lt;td&gt;[24145]&lt;/td&gt;
-&lt;td&gt;Dr. St&amp;uuml;ker&lt;/td&gt;
+&lt;td&gt;Dr. Stüker&lt;/td&gt;
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id="hands-on-courses"&gt;Hands on Courses&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+&lt;h2&gt;Hands on Courses&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -193,49 +194,50 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
-&lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
+&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+&lt;h2&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
-Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "m&amp;ouml;glichst gut"
-erf&amp;uuml;llt wird. Was "m&amp;ouml;glichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
+Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
+erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
 &lt;p&gt;Tom Mitchel hat maschinelles Lernen wie folgt Definiert:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A computer program is said to learn from experience &lt;span class="math"&gt;\(E\)&lt;/span&gt; with respect to some
-class of tasks &lt;span class="math"&gt;\(T\)&lt;/span&gt; and performance measure &lt;span class="math"&gt;\(P\)&lt;/span&gt;, if its performance at tasks
-in &lt;span class="math"&gt;\(T\)&lt;/span&gt;, as measured by &lt;span class="math"&gt;\(P\)&lt;/span&gt;, improves with experience &lt;span class="math"&gt;\(E\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;A computer program is said to learn from experience $E$ with respect to some
+class of tasks $T$ and performance measure $P$, if its performance at tasks
+in $T$, as measured by $P$, improves with experience $E$.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id="ein-beispiel"&gt;Ein Beispiel&lt;/h2&gt;
+&lt;h2&gt;Ein Beispiel&lt;/h2&gt;
 &lt;p&gt;Angenommen man hat eine &lt;a href="https://de.wikipedia.org/wiki/Schwertlilien"&gt;Schwertlilie&lt;/a&gt;.
-Es ist klar, dass es eine Schwertlilie ist, aber es k&amp;ouml;nnte entweder eine
+Es ist klar, dass es eine Schwertlilie ist, aber es könnte entweder eine
 Iris Setosa, eine Iris Virginica oder eine Iris Versicolor sein. Man muss nun
 ein Programm schreiben, welches die 3 Arten von einander unterscheiden kann.
 Der Einfachheit halber werden diese im Folgenden als Klasse I, II und III
 bezeichnet.&lt;/p&gt;
-&lt;p&gt;Biologen haben f&amp;uuml;r je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
-Gr&amp;ouml;&amp;szlig;en gemessen:&lt;/p&gt;
+&lt;p&gt;Biologen haben für je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
+Größen gemessen:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kelchblatt"&gt;Kelchblatt&lt;/a&gt;: L&amp;auml;nge und H&amp;ouml;he, in cm.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kronblatt"&gt;Kronblatt&lt;/a&gt;: L&amp;auml;nge und H&amp;ouml;he, in cm.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kelchblatt"&gt;Kelchblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kronblatt"&gt;Kronblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Wie kann man diese Information nun nutzen um zu lernen, was eine Iris
 Versicolor von einer Iris Virginica unterscheidet?&lt;/p&gt;
-&lt;p&gt;Der einfachste Ansatz w&amp;auml;re die Daten f&amp;uuml;r einfache Klassifikatoren zu
+&lt;p&gt;Der einfachste Ansatz wäre die Daten für einfache Klassifikatoren zu
 betrachten. Vielleicht hat Klasse I ja immer eine deutlich kleinere
-Kelchblattgr&amp;ouml;&amp;szlig;e. Oder vielleicht ist das Verh&amp;auml;ltnis zwischen Kelchblattl&amp;auml;nge
+Kelchblattgröße. Oder vielleicht ist das Verhältnis zwischen Kelchblattlänge
 und Kelchblattbreite deutlich unterschiedlich bei den Arten.&lt;/p&gt;
-&lt;p&gt;Das w&amp;auml;re eine einfache L&amp;ouml;sung f&amp;uuml;r dieses Klassifikationsproblem.&lt;/p&gt;
+&lt;p&gt;Das wäre eine einfache Lösung für dieses Klassifikationsproblem.&lt;/p&gt;
 &lt;!-- ## Klassifikatoren vergleichen
 
 Natürlich gibt es viele weitere Möglichkeiten das Klassifikationsproblem zu
 lösen. Und wir wollen die beste finden. Aber was ist die beste Möglichkeit?
 Dafür muss man eine Fehlerfunktion haben.  --&gt;
-&lt;h2 id="decision-trees"&gt;Decision Trees&lt;/h2&gt;
-&lt;p&gt;TODO: Kurz erkl&amp;auml;ren, damit es sp&amp;auml;ter verwendet werden kann.&lt;/p&gt;
-&lt;h2 id="vorgehen"&gt;Vorgehen&lt;/h2&gt;
-&lt;p&gt;Es gibt jedoch auch kompliziertere L&amp;ouml;sungen wie decision trees, Support Vector
+
+&lt;h2&gt;Decision Trees&lt;/h2&gt;
+&lt;p&gt;TODO: Kurz erklären, damit es später verwendet werden kann.&lt;/p&gt;
+&lt;h2&gt;Vorgehen&lt;/h2&gt;
+&lt;p&gt;Es gibt jedoch auch kompliziertere Lösungen wie decision trees, Support Vector
 Machines (SVMs) und neuronale Netze. Diese haben interne Parameter, welche
-angepasst werden um eine L&amp;ouml;sung zu finden. Bei allen diesen Klassifikatoren
+angepasst werden um eine Lösung zu finden. Bei allen diesen Klassifikatoren
 kann man zwischen &lt;em&gt;Training&lt;/em&gt; und &lt;em&gt;Evaluation&lt;/em&gt; unterscheiden. Beim Training
 lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&lt;/p&gt;
 &lt;ul&gt;
@@ -246,118 +248,61 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;li&gt;Supervised &amp;lt;-&amp;gt; unsupervised&lt;/li&gt;
 &lt;li&gt;Classification, Regression&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="abgrenzung"&gt;Abgrenzung&lt;/h2&gt;
+&lt;h2&gt;Abgrenzung&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning &amp;lt;-&amp;gt; A.I. &amp;lt;-&amp;gt; Data science &amp;lt;-&amp;gt; Statistik &amp;lt;-&amp;gt; Big Data&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Als &lt;/p&gt;
-&lt;h2 id="siehe-auch"&gt;Siehe auch&lt;/h2&gt;
+&lt;h2&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    var location_protocol = (false) ? 'https' : document.location.protocol;
-    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
-sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
-Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
+&lt;/ul&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
+sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
+Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
-&lt;h2 id="artikel"&gt;Artikel&lt;/h2&gt;
+&lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"&gt;Using convolutional neural nets to detect facial keypoints tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://hunch.net/?p=22"&gt;Clever Methods of Overfitting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://scott.fortmann-roe.com/docs/BiasVariance.html"&gt;Understanding the Bias-Variance Tradeoff&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="bucher"&gt;B&amp;uuml;cher&lt;/h2&gt;
+&lt;h2&gt;Bücher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://neuralnetworksanddeeplearning.com/"&gt;Neural Networks and Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="moocs"&gt;MOOCs&lt;/h2&gt;
+&lt;h2&gt;MOOCs&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Coursera: &lt;a href="https://www.coursera.org/learn/machine-learning"&gt;Machine Learning&lt;/a&gt; by Andrew Ng&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;CS224d: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universit&amp;auml;t Oxford&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universität Oxford&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;Convolutional Neural Networks for Visual Recognition&lt;/a&gt;: Kurs von Stanford&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tools"&gt;Tools&lt;/h2&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://caffe.berkeleyvision.org/"&gt;Caffe&lt;/a&gt;: C++ and Python, supports nVidia GPU training of neural networks&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/Lasagne/Lasagne"&gt;Lasagne&lt;/a&gt;: Python, supports nVidia GPU training of neural networks&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://scikit-learn.org/stable/"&gt;sklearn&lt;/a&gt;: Python Machine learning toolkit&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="datensatze"&gt;Datens&amp;auml;tze&lt;/h2&gt;
+&lt;h2&gt;Datensätze&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST&lt;/a&gt;: 70 000 Bilder der Gr&amp;ouml;&amp;szlig;e 28x28 mit Labels (Ziffern 0-9)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;IRIS&lt;/a&gt;: 3 Klassen, 50 Datens&amp;auml;tze pro Klasse, 3 Features pro Datensatz&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST&lt;/a&gt;: 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;IRIS&lt;/a&gt;: 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.martin-thoma.de/write-math/data/"&gt;HWRT&lt;/a&gt;: Handgeschriebene Symbole&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.cvlibs.net/datasets/kitti/"&gt;KITTI&lt;/a&gt;: Road vision dataset&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Listen:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.computervisiononline.com/datasets"&gt;computervisiononline.com&lt;/a&gt;: Eine Liste sehr vieler Datens&amp;auml;tze&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.computervisiononline.com/datasets"&gt;computervisiononline.com&lt;/a&gt;: Eine Liste sehr vieler Datensätze&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://riemenschneider.hayko.at/vision/dataset/"&gt;YACVID&lt;/a&gt;: Computer Vision Index To Datasets&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/"&gt;dmoz.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="cheat-cheats"&gt;Cheat Cheats&lt;/h2&gt;
+&lt;h2&gt;Cheat Cheats&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/"&gt;Choosing the right estimator&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/"&gt;Machine learning algorithm cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="sonstiges"&gt;Sonstiges&lt;/h2&gt;
+&lt;h2&gt;Sonstiges&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt;: Machine Learning Wettbewerbe&lt;/li&gt;
 &lt;li&gt;Stack Exchange&lt;/li&gt;
@@ -365,6 +310,6 @@ tun.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://stats.stackexchange.com/"&gt;stats.stackexchange.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/josephmisiti/awesome-machine-learning"&gt;awesome-machine-learning&lt;/a&gt;: Eine Liste mit VIELEN Links zu Machine Learning Tools.&lt;/li&gt;
 &lt;li&gt;Demos:&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://104.131.78.120/"&gt;Neural Machine Translation&lt;/a&gt;: Englisch &amp;rarr; Deutsch, Franz&amp;ouml;sisch&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://104.131.78.120/"&gt;Neural Machine Translation&lt;/a&gt;: Englisch → Deutsch, Französisch&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://write-math.com"&gt;write-math.com&lt;/a&gt;: Symbolerkennung&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>
