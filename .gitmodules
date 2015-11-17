@@ -10,6 +10,3 @@
 [submodule "pelican-bootstrapify"]
 	path = pelican-bootstrapify
 	url = https://github.com/ingwinlu/pelican-bootstrapify.git
-[submodule "simple_footnotes"]
-	path = simple_footnotes
-	url = https://github.com/getpelican-plugins/simple_footnotes.git
