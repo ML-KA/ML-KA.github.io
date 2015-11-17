@@ -1,4 +1,4 @@
-Title: Grundlagen des maschinellen Lernens und pixelweise Klassifikation
+Title: Veranstaltung 1
 Date: 2015-10-22 13:20
 Category: Veranstaltungen
 Tags: Veranstaltung
