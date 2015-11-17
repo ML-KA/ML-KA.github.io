@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Members of the ML-KA group</name></author><id>tag://ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1&gt;Nächstes Treffen&lt;/h1&gt;
-&lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img style="float:right;" align="middle"  width="256" src="../images/imagenet.png"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-11T17:30:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-11T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-11:paper-discussion-group/</id><summary type="html">&lt;h1 id="nachstes-treffen"&gt;Nächstes Treffen&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figure style="display:table;float:right"&gt;
+&lt;img class="img-responsive" align="middle" width="256" src="../images/imagenet.png" style="float:right;"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 25.11.2015&lt;/li&gt;
 &lt;li&gt;Ort:  TBA&lt;/li&gt;
@@ -14,28 +14,28 @@ AlexNet erkennt Katzen!&lt;/figcaption&gt;
 &lt;p&gt;In diesem Treffen möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
 tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification
 Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche
-bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title="Christian Szegedy et al., &amp;quot;Going Deeper with Convolutions&amp;quot;, 2014." href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title='Christian Szegedy et al., "Going Deeper with Convolutions", 2014.' href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
 erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
 Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
-&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;h3 id="vorbereitung"&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Das Paper über AlexNet&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title="Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, &amp;quot;ImageNet Classification with Deep Convolutional Neural Networks&amp;quot;, 2012." href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Das Paper über AlexNet&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Ausblick&lt;/h3&gt;
+&lt;h3 id="ausblick"&gt;Ausblick&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
 darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir
 uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer beschäftigen.
 Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
 besprechen.&lt;/p&gt;
-&lt;h1&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
+&lt;h1 id="literatur-zu-cnns-und-deep-learning_1"&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
 Tutorial&lt;/a&gt; von Martin
 Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung
 bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
-&lt;h1&gt;Paper Liste&lt;/h1&gt;
+&lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.&lt;/p&gt;
 &lt;ol&gt;
@@ -48,28 +48,27 @@ Klassifikation.&lt;/p&gt;
 &lt;li&gt;[SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
    Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1&gt;Fragen&lt;/h1&gt;
+&lt;h1 id="fragen"&gt;Fragen&lt;/h1&gt;
 &lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
-&lt;h1&gt;Vergangene Treffen&lt;/h1&gt;
-&lt;h2&gt;Erstes Treffen&lt;/h2&gt;
-&lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
+&lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
+&lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figure style="display:table;float:right"&gt;
+&lt;img class="img-responsive" align="middle" width="256" src="../images/Cnn_layer.png" style="float:right;"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Stanford Deep Learning Tutorial&lt;/li&gt;
-&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
+&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch über das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.&lt;/p&gt;
 &lt;p&gt;Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
-Netze, wie &lt;em&gt;AlexNet&lt;/em&gt;[ref]Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional
-Neural Networks&lt;/a&gt;", 2012.[/ref] oder &lt;em&gt;GoogLeNet&lt;/em&gt; [ref]Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014.[/ref] diskutieren. Außerdem besteht die
+Netze, wie &lt;em&gt;AlexNet&lt;/em&gt;&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt; oder &lt;em&gt;GoogLeNet&lt;/em&gt; &lt;sup id="sf-paper-discussion-group-2-back"&gt;&lt;a class="simple-footnote" title='Christian Szegedy et al., "Going Deeper with Convolutions", 2014.' href="#sf-paper-discussion-group-2"&gt;2&lt;/a&gt;&lt;/sup&gt; diskutieren. Außerdem besteht die
 Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.&lt;/p&gt;
-&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;h3 id="vorbereitung_1"&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/"&gt;Multi-Layer Neural Network&lt;/a&gt;&lt;/li&gt;
@@ -83,4 +82,5 @@ hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel
 Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
 Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
 Group da.&lt;/p&gt;
-&lt;h1&gt;Quellen&lt;/h1&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry></feed>
+&lt;h1 id="quellen_2"&gt;Quellen&lt;/h1&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-paper-discussion-group-1"&gt;Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional
+Neural Networks&lt;/a&gt;", 2012. &lt;a class="simple-footnote-back" href="#sf-paper-discussion-group-1-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-paper-discussion-group-2"&gt;Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014. &lt;a class="simple-footnote-back" href="#sf-paper-discussion-group-2-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry></feed>
