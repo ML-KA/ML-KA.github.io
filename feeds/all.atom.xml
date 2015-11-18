@@ -31,7 +31,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;h3 id="vorbereitung"&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Das Paper über AlexNet&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Das Paper über &lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;AlexNet&lt;/a&gt;&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.' href="#sf-paper-discussion-group-1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="ausblick"&gt;Ausblick&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
