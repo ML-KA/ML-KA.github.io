@@ -1,7 +1,7 @@
-Title: Veranstaltung 2
+Title: Monatstreffen 2
 Date: 2015-11-17 10:26
 Category: Veranstaltungen
-Tags: Veranstaltung
+Tags: Monatstreffen
 Authors: Martin Thoma
 
 Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse

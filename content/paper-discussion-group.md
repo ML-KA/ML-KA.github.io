@@ -1,6 +1,6 @@
 Title: Paper Discussion Group
 Category: Projekte
-Date: 2015-11-11 17:30
+Date: 2015-11-25 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 

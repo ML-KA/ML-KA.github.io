@@ -1,7 +1,7 @@
-Title: Veranstaltung 1
+Title: Monatstreffen 1
 Date: 2015-10-22 13:20
 Category: Veranstaltungen
-Tags: Veranstaltung
+Tags: Monatstreffen
 Authors: Martin Thoma
 
 Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.
