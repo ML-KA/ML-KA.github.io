@@ -14,7 +14,7 @@ AlexNet erkennt Katzen!</figcaption>
 </figure>
 
 * Datum: 25.11.2015
-* Ort:  TBA
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
 * Experte: Marvin Teichmann
 
