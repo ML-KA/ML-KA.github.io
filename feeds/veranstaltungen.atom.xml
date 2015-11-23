@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/veranstaltungen.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-17T10:26:00+01:00</updated><entry><title>Veranstaltung 2</title><link href="//ml-ka.github.io/veranstaltung-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:veranstaltung-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - KIT</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/veranstaltungen.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-11-17T10:26:00+01:00</updated><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der AG DANK (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
 &lt;p&gt;Im Anschluss findet wieder eine freie Diskussion statt, wo ihr auch neue Ideen
 vorstellen k&amp;ouml;nnt.&lt;/p&gt;
@@ -9,7 +9,7 @@ vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest, wird aber rechtzeitig hier stehen.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt; Liegen noch keine vor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Wird nicht gemacht.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry><entry><title>Veranstaltung 1</title><link href="//ml-ka.github.io/veranstaltung-1/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:veranstaltung-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.github.io/monatstreffen-1/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:monatstreffen-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
 &lt;p&gt;Im Anschluss wollen wir uns &amp;uuml;ber Projektideen und m&amp;ouml;gliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
 &lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
@@ -21,4 +21,4 @@ vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltung"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry></feed>
