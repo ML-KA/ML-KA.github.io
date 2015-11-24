@@ -27,7 +27,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
 darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl.
-&lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;.
+&lt;a href="http://ml-ka.de/training-your-first-neural-network/"&gt;Training your first Neural Network&lt;/a&gt;.
 Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan
 Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten
 Treffens mit euch besprechen.&lt;/p&gt;
