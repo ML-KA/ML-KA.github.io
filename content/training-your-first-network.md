@@ -18,6 +18,11 @@ of my choice when it comes to quickly trying some ideas.
 
 ## What is MNIST?
 
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256px" src="../images/mnist-2.png">
+<figcaption style="display:table-caption;caption-side:bottom">One example of an item in the MNIST dataset - the digit 2</figcaption>
+</figure>
+
 MNIST is a dataset of 28px&nbsp;×&nbsp;28px digits. The training set contains
 60,000 examples and the test set contains 10,000 examples. If you want to know
 more, you can read the [official Website](http://yann.lecun.com/exdb/mnist/).
@@ -28,6 +33,23 @@ more, you can read the [official Website](http://yann.lecun.com/exdb/mnist/).
 Tensor Flow is a framework which allows you to train neural networks with GPU,
 but also with CPU. I've wrote a couple of words in a blog post:
 [Tensor Flow - A quick impression](http://martin-thoma.com/tensor-flow-quick/)
+
+### Using GPU at ATIS
+
+KIT students have the possibility to use the ATIS computer pool. They have
+some computers at the very end of the room which have GPUs.
+
+Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
+to add the following lines to your `~/.bashrc` file:
+
+```text
+export PATH=$PATH:"/opt/cuda-7.5/bin"
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
+```
+
+Make sure it appears when you execute `echo $PATH` and `echo LD_LIBRARY_PATH`.
+If it doesn't, execute `source ~/.bashrc`. Depending on your configuration,
+you might have to do this every time when you start a new console session.
 
 
 ## What is Kaggle?
