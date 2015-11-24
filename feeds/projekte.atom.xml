@@ -18,18 +18,19 @@ bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;G
 &lt;p&gt;In dem ersten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
 erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
 Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
-&lt;h3 id="vorbereitung"&gt;Vorbereitung&lt;/h3&gt;
+&lt;h2 id="vorbereitung"&gt;Vorbereitung&lt;/h2&gt;
 &lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Das Paper über &lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;AlexNet&lt;/a&gt;&lt;sup id="sf-paper-discussion-group-1-back"&gt;&lt;a href="#sf-paper-discussion-group-1" class="simple-footnote" title='Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", 2012.'&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="ausblick"&gt;Ausblick&lt;/h3&gt;
+&lt;h2 id="ausblick"&gt;Ausblick&lt;/h2&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; können wir im folgenden Treffen über &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
-darum geht ein Netz selber mit &lt;em&gt;Lasagne&lt;/em&gt; zu Implementieren. Außerdem können wir
-uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer beschäftigen.
-Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
-besprechen.&lt;/p&gt;
+darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl.
+&lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;.
+Außerdem können wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan
+Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten
+Treffens mit euch besprechen.&lt;/p&gt;
 &lt;h1 id="literatur-zu-cnns-und-deep-learning_1"&gt;Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
 Tutorial&lt;/a&gt; von Martin
@@ -51,6 +52,7 @@ Klassifikation.&lt;/p&gt;
 &lt;h1 id="fragen"&gt;Fragen&lt;/h1&gt;
 &lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
+&lt;p&gt;Fragen zu Frameworks könnt ihr Martin stellen: &lt;code&gt;info@martin-thoma.de&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
 &lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;&lt;figure style="display:table;float:right"&gt;
@@ -83,4 +85,93 @@ Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
 Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
 Group da.&lt;/p&gt;
 &lt;h1 id="quellen_2"&gt;Quellen&lt;/h1&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-paper-discussion-group-1"&gt;Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional
-Neural Networks&lt;/a&gt;", 2012. &lt;a href="#sf-paper-discussion-group-1-back" class="simple-footnote-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-paper-discussion-group-2"&gt;Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014. &lt;a href="#sf-paper-discussion-group-2-back" class="simple-footnote-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry></feed>
+Neural Networks&lt;/a&gt;", 2012. &lt;a href="#sf-paper-discussion-group-1-back" class="simple-footnote-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-paper-discussion-group-2"&gt;Christian Szegedy et al., "&lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;", 2014. &lt;a href="#sf-paper-discussion-group-2-back" class="simple-footnote-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-11-24T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-24:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+neural network to solve the MNIST task on Kaggle. You will get three
+interesting abilities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Working with Tensor Flow&lt;/li&gt;
+&lt;li&gt;Working with medium-sized datasets&lt;/li&gt;
+&lt;li&gt;Using Kaggle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Additionally, you will get some knowledge about Python. Python is the language
+of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
+&lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
+&lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
+60,000 examples and the test set contains 10,000 examples. If you want to know
+more, you can read the &lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;official Website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="the-framework-tensor-flow"&gt;The Framework: Tensor Flow&lt;/h2&gt;
+&lt;p&gt;Tensor Flow is a framework which allows you to train neural networks with GPU,
+but also with CPU. I've wrote a couple of words in a blog post:
+&lt;a href="http://martin-thoma.com/tensor-flow-quick/"&gt;Tensor Flow - A quick impression&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="what-is-kaggle"&gt;What is Kaggle?&lt;/h2&gt;
+&lt;p&gt;Kaggle is a Machine Learning competition website. It describes tasks in a very
+simple way, provides the data and lets you instantly compare yourself (or
+rather your results) with others. With this article, you should be able to make
+a decent submission for the
+&lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer&lt;/a&gt; task.&lt;/p&gt;
+&lt;h2 id="what-to-do"&gt;What to do&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Get a Python installation and get a feeling how Python works. If you didn't
+   use Python before, I suggest reading chapters 1-5 of the
+   &lt;a href="https://docs.python.org/2/tutorial/"&gt;official Python 2 tutorial&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tensorflow.org/get_started/os_setup.html"&gt;Install Tensor Flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make sure Tensor Flow works&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href="http://www.tensorflow.org/tutorials/mnist/beginners/index.html"&gt;MNIST For ML Beginners&lt;/a&gt; tutorial&lt;/li&gt;
+&lt;li&gt;Register at Kaggle, download the data for the
+   &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer task&lt;/a&gt;, adjust
+   your implementation from step&amp;nbsp;5 and make a submission to Kaggle.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="questions"&gt;Questions&lt;/h2&gt;
+&lt;h3 id="how-do-i-get-python"&gt;How do I get Python?&lt;/h3&gt;
+&lt;p&gt;I have to admit that I always worked on systems which already had a running
+Python installation. This is one reason why I really like working with
+Ubuntu (Linux). You only have to execute &lt;code&gt;sudo apt-get install python-pip&lt;/code&gt; and
+you're ready to go.&lt;/p&gt;
+&lt;p&gt;The official page is &lt;a href="https://www.python.org/downloads/"&gt;www.python.org/downloads&lt;/a&gt;.
+If you're having trouble getting a working Python installation, don't hesitate
+to ask for help.&lt;/p&gt;
+&lt;h3 id="how-do-i-check-if-my-python-installation-is-working"&gt;How do I check if my Python installation is working?&lt;/h3&gt;
+&lt;p&gt;Go to the command line and execute &lt;code&gt;python --version&lt;/code&gt;. My output is &lt;code&gt;Python 2.7.6&lt;/code&gt;.
+As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
+only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
+&lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
+&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;pip is a package manager for Python. You might need it to install several
+packages, including Tensor Flow.&lt;/p&gt;
+&lt;h3 id="how-do-i-make-sure-tensor-flow-works"&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
+&lt;p&gt;Create a &lt;code&gt;testtf.py&lt;/code&gt; with the following content:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#!/usr/bin/env python&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;tensorflow&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;tf&lt;/span&gt;
+&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;sess&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Session&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+
+&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Execute it with the command &lt;code&gt;python testtf.py&lt;/code&gt;. For me, the output is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:88] Found device 0 with properties: 
+name: GeForce GTX TITAN Black
+major: 3 minor: 5 memoryClockRate (GHz) 0.98
+pciBusID 0000:01:00.0
+Total memory: 6.00GiB
+Free memory: 5.77GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:112] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:122] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:643] Creating TensorFlow device (/gpu:0) -&amp;gt; (device: 0, name: GeForce GTX TITAN Black, pci bus id: 0000:01:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_region_allocator.cc:47] Setting region size to 5884919808
+I tensorflow/core/common_runtime/local_session.cc:45] Local session inter op parallelism threads: 12
+Hello, TensorFlow!
+42
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The important part is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;Hello, TensorFlow!
+42
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry></feed>

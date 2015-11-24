@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Training your first Neural Network - Machine Learning - KIT</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="//ml-ka.github.io/training-your-first-neural-network/">
+
+        <meta name="author" content="Martin Thoma" />
+        <meta name="keywords" content="Deep Learning,MNIST,Tensor Flow" />
+        <meta name="description" content="The following article gives you the necessary knowledge to train and evaluate a neural network to solve the MNIST task on Kaggle. You will get three interesting abilities: Working with Tensor Flow Working with medium-sized datasets Using Kaggle Additionally, you will get some knowledge about Python. Python is the language ..." />
+
+        <meta property="og:site_name" content="Machine Learning - KIT" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Training your first Neural Network"/>
+        <meta property="og:url" content="//ml-ka.github.io/training-your-first-neural-network/"/>
+        <meta property="og:description" content="The following article gives you the necessary knowledge to train and evaluate a neural network to solve the MNIST task on Kaggle. You will get three interesting abilities: Working with Tensor Flow Working with medium-sized datasets Using Kaggle Additionally, you will get some knowledge about Python. Python is the language ..."/>
+        <meta property="article:published_time" content="2015-11-24" />
+            <meta property="article:section" content="Projekte" />
+            <meta property="article:tag" content="Deep Learning" />
+            <meta property="article:tag" content="MNIST" />
+            <meta property="article:tag" content="Tensor Flow" />
+            <meta property="article:author" content="Martin Thoma" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="//ml-ka.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="//ml-ka.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="//ml-ka.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="//ml-ka.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="//ml-ka.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Machine Learning - KIT ATOM Feed"/>
+
+
+
+        <link href="//ml-ka.github.io/feeds/projekte.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Machine Learning - KIT Projekte ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="//ml-ka.github.io/" class="navbar-brand">
+Machine Learning - KIT            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="//ml-ka.github.io/pages/about/">
+                             About
+                          </a></li>
+                        <li >
+                            <a href="//ml-ka.github.io/category/allgemein/">Allgemein</a>
+                        </li>
+                        <li >
+                            <a href="//ml-ka.github.io/category/kit/">Kit</a>
+                        </li>
+                        <li class="active">
+                            <a href="//ml-ka.github.io/category/projekte/">Projekte</a>
+                        </li>
+                        <li >
+                            <a href="//ml-ka.github.io/category/veranstaltungen/">Veranstaltungen</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="//ml-ka.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="//ml-ka.github.io/training-your-first-neural-network/"
+                       rel="bookmark"
+                       title="Permalink to Training your first Neural Network">
+                        Training your first Neural Network
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2015-11-24T21:10:00+01:00"> Di 24 November 2015</time>
+    </span>
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="//ml-ka.github.io/tag/deep-learning/">Deep Learning</a>
+        /
+	<a href="//ml-ka.github.io/tag/mnist/">MNIST</a>
+        /
+	<a href="//ml-ka.github.io/tag/tensor-flow/">Tensor Flow</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>The following article gives you the necessary knowledge to train and evaluate a
+neural network to solve the MNIST task on Kaggle. You will get three
+interesting abilities:</p>
+<ol>
+<li>Working with Tensor Flow</li>
+<li>Working with medium-sized datasets</li>
+<li>Using Kaggle</li>
+</ol>
+<p>Additionally, you will get some knowledge about Python. Python is the language
+of my choice when it comes to quickly trying some ideas.</p>
+<h2 id="what-is-mnist">What is MNIST?</h2>
+<p>MNIST is a dataset of 28px&nbsp;&times;&nbsp;28px digits. The training set contains
+60,000 examples and the test set contains 10,000 examples. If you want to know
+more, you can read the <a href="http://yann.lecun.com/exdb/mnist/">official Website</a>.</p>
+<h2 id="the-framework-tensor-flow">The Framework: Tensor Flow</h2>
+<p>Tensor Flow is a framework which allows you to train neural networks with GPU,
+but also with CPU. I've wrote a couple of words in a blog post:
+<a href="http://martin-thoma.com/tensor-flow-quick/">Tensor Flow - A quick impression</a></p>
+<h2 id="what-is-kaggle">What is Kaggle?</h2>
+<p>Kaggle is a Machine Learning competition website. It describes tasks in a very
+simple way, provides the data and lets you instantly compare yourself (or
+rather your results) with others. With this article, you should be able to make
+a decent submission for the
+<a href="https://www.kaggle.com/c/digit-recognizer">Digit Recognizer</a> task.</p>
+<h2 id="what-to-do">What to do</h2>
+<ol>
+<li>Get a Python installation and get a feeling how Python works. If you didn't
+   use Python before, I suggest reading chapters 1-5 of the
+   <a href="https://docs.python.org/2/tutorial/">official Python 2 tutorial</a>.</li>
+<li><a href="http://www.tensorflow.org/get_started/os_setup.html">Install Tensor Flow</a></li>
+<li>Make sure Tensor Flow works</li>
+<li>Read the <a href="http://www.tensorflow.org/tutorials/mnist/beginners/index.html">MNIST For ML Beginners</a> tutorial</li>
+<li>Register at Kaggle, download the data for the
+   <a href="https://www.kaggle.com/c/digit-recognizer">Digit Recognizer task</a>, adjust
+   your implementation from step&nbsp;5 and make a submission to Kaggle.</li>
+</ol>
+<h2 id="questions">Questions</h2>
+<h3 id="how-do-i-get-python">How do I get Python?</h3>
+<p>I have to admit that I always worked on systems which already had a running
+Python installation. This is one reason why I really like working with
+Ubuntu (Linux). You only have to execute <code>sudo apt-get install python-pip</code> and
+you're ready to go.</p>
+<p>The official page is <a href="https://www.python.org/downloads/">www.python.org/downloads</a>.
+If you're having trouble getting a working Python installation, don't hesitate
+to ask for help.</p>
+<h3 id="how-do-i-check-if-my-python-installation-is-working">How do I check if my Python installation is working?</h3>
+<p>Go to the command line and execute <code>python --version</code>. My output is <code>Python 2.7.6</code>.
+As long as you get something like <code>Python 2.7.X</code> it is ok. Tensor Flow works
+only with Python&nbsp;2, not with Python&nbsp;3.</p>
+<p>Then execute <code>pip --version</code>. It should output something like</p>
+<div class="highlight"><pre><span class="err">$</span> <span class="n">pip</span> <span class="o">--</span><span class="n">version</span>
+<span class="n">pip</span> <span class="mf">6.0.6</span> <span class="n">from</span> <span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">local</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python2</span><span class="mf">.7</span><span class="o">/</span><span class="n">dist</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">pip</span><span class="o">-</span><span class="mf">6.0.6</span><span class="o">-</span><span class="n">py2</span><span class="mf">.7</span><span class="p">.</span><span class="n">egg</span> <span class="p">(</span><span class="n">python</span> <span class="mf">2.7</span><span class="p">)</span>
+</pre></div>
+<p>pip is a package manager for Python. You might need it to install several
+packages, including Tensor Flow.</p>
+<h3 id="how-do-i-make-sure-tensor-flow-works">How do I make sure Tensor Flow works?</h3>
+<p>Create a <code>testtf.py</code> with the following content:</p>
+<div class="highlight"><pre><span class="c">#!/usr/bin/env python</span>
+
+<span class="kn">import</span> <span class="nn">tensorflow</span> <span class="kn">as</span> <span class="nn">tf</span>
+<span class="n">hello</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="s">'Hello, TensorFlow!'</span><span class="p">)</span>
+<span class="n">sess</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">hello</span><span class="p">))</span>
+
+<span class="n">a</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mi">32</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">))</span>
+</pre></div>
+<p>Execute it with the command <code>python testtf.py</code>. For me, the output is</p>
+<div class="highlight"><pre>I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:88] Found device 0 with properties: 
+name: GeForce GTX TITAN Black
+major: 3 minor: 5 memoryClockRate (GHz) 0.98
+pciBusID 0000:01:00.0
+Total memory: 6.00GiB
+Free memory: 5.77GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:112] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:122] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:643] Creating TensorFlow device (/gpu:0) -&gt; (device: 0, name: GeForce GTX TITAN Black, pci bus id: 0000:01:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_region_allocator.cc:47] Setting region size to 5884919808
+I tensorflow/core/common_runtime/local_session.cc:45] Local session inter op parallelism threads: 12
+Hello, TensorFlow!
+42
+</pre></div>
+<p>The important part is</p>
+<div class="highlight"><pre>Hello, TensorFlow!
+42
+</pre></div>
+<p>if you don't get that, there is something wrong.</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://www.facebook.com/mlkarlsruhe"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="//ml-ka.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                </ul>
+            </li>
+
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="https://github.com/ML-KA/" target="_blank">
+                GitHub/ML-KA
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Members of the ML-KA group
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="//ml-ka.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="//ml-ka.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="//ml-ka.github.io/theme/js/respond.min.js"></script>
+
+
+</body>
+</html>
