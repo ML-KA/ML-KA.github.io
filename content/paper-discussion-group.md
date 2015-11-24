@@ -38,7 +38,7 @@ Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
 darum geht ein Netz selber mit *Tensor Flow* zu implementieren (vgl.
-[Training your first Neural Network](http://ml-ka.de/training-your-first-network/).
+[Training your first Neural Network](http://ml-ka.de/training-your-first-neural-network/).
 Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Evan
 Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten
 Treffens mit euch besprechen.
