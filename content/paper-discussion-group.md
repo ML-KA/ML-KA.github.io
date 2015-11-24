@@ -28,19 +28,20 @@ erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
 Evaluieren des Netzes und untersuchen die neue Netzarchitektur.
 
 
-### Vorbereitung
+## Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
 1. Das Paper über [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)<sup id="sf-paper-discussion-group-1-back"><a class="simple-footnote" title="Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, &quot;ImageNet Classification with Deep Convolutional Neural Networks&quot;, 2012." href="#sf-paper-discussion-group-1">1</a></sup>.
 
 
-### Ausblick
+## Ausblick
 Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es
-darum geht ein Netz selber mit *Lasagne* zu Implementieren. Außerdem können wir
-uns mit den neuen *FCNN* Ansatz von Jon Long und Evan Shelhamer beschäftigen.
-Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch
-besprechen.
+darum geht ein Netz selber mit *Tensor Flow* zu implementieren (vgl.
+[Training your first Neural Network](http://ml-ka.de/training-your-first-network/).
+Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Evan
+Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten
+Treffens mit euch besprechen.
 
 
 # Literatur zu CNNs und Deep-Learning
@@ -67,6 +68,9 @@ Klassifikation.
 # Fragen
 Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com
+
+Fragen zu Frameworks könnt ihr Martin stellen: `info@martin-thoma.de`
+
 
 # Vergangene Treffen
 
