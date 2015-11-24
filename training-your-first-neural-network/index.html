@@ -132,6 +132,10 @@ interesting abilities:</p>
 <p>Additionally, you will get some knowledge about Python. Python is the language
 of my choice when it comes to quickly trying some ideas.</p>
 <h2 id="what-is-mnist">What is MNIST?</h2>
+<figure style="display:table;float:right">
+<img align="middle" class="img-responsive" src="../images/mnist-2.png" style="float:right;" width="256px">
+<figcaption style="display:table-caption;caption-side:bottom">One example of an item in the MNIST dataset - the digit 2</figcaption>
+</img></figure>
 <p>MNIST is a dataset of 28px&nbsp;&times;&nbsp;28px digits. The training set contains
 60,000 examples and the test set contains 10,000 examples. If you want to know
 more, you can read the <a href="http://yann.lecun.com/exdb/mnist/">official Website</a>.</p>
@@ -139,7 +143,18 @@ more, you can read the <a href="http://yann.lecun.com/exdb/mnist/">official Webs
 <p>Tensor Flow is a framework which allows you to train neural networks with GPU,
 but also with CPU. I've wrote a couple of words in a blog post:
 <a href="http://martin-thoma.com/tensor-flow-quick/">Tensor Flow - A quick impression</a></p>
-<h2 id="what-is-kaggle">What is Kaggle?</h2>
+<h3 id="using-gpu-at-atis">Using GPU at ATIS</h3>
+<p>KIT students have the possibility to use the ATIS computer pool. They have
+some computers at the very end of the room which have GPUs.</p>
+<p>Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
+to add the following lines to your <code>~/.bashrc</code> file:</p>
+<div class="highlight"><pre>export PATH=$PATH:"/opt/cuda-7.5/bin"
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
+</pre></div>
+<p>Make sure it appears when you execute <code>echo $PATH</code> and <code>echo LD_LIBRARY_PATH</code>.
+If it doesn't, execute <code>source ~/.bashrc</code>. Depending on your configuration,
+you might have to do this every time when you start a new console session.</p>
+<h2 id="what-is-kaggle_1">What is Kaggle?</h2>
 <p>Kaggle is a Machine Learning competition website. It describes tasks in a very
 simple way, provides the data and lets you instantly compare yourself (or
 rather your results) with others. With this article, you should be able to make
