@@ -13,7 +13,7 @@ Authors: Marvin Teichmann, Martin Thoma
 AlexNet erkennt Katzen!</figcaption>
 </figure>
 
-* Datum: 25.11.2015
+* Datum: 25.11.2015, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
 * Experte: Marvin Teichmann
