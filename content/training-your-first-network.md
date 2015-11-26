@@ -1,6 +1,6 @@
 Title: Training your first Neural Network
 Category: Projekte
-Date: 2015-11-24 21:10
+Date: 2015-12-02 21:10
 Tags: Deep Learning, MNIST, Tensor Flow
 Authors: Martin Thoma
 
