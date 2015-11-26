@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Members of the ML-KA group'
-SITENAME = u'Machine Learning - KIT'
+SITENAME = u'Machine Learning - Karlsruhe'
 SITEURL = '//127.0.0.1:8000'
 
 PATH = 'content'
