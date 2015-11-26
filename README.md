@@ -17,6 +17,8 @@ $ pip install ghp-import
 $ pip install html5lib
 ```
 
+Additionally, you need to [install Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup).
+
 
 ## Get repository
 
