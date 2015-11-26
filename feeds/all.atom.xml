@@ -103,23 +103,23 @@ Hello, TensorFlow!
 &lt;div class="highlight"&gt;&lt;pre&gt;Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-11-25T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-25:paper-discussion-group/</id><summary type="html">&lt;h1 id="drittes-treffen"&gt;Drittes Treffen&lt;/h1&gt;
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-02T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-02:paper-discussion-group/</id><summary type="html">&lt;h1 id="drittes-treffen"&gt;Drittes Treffen&lt;/h1&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="../images/googleLeNet.png" style="float:right;" width="256"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein Feature von GoogleLeNet&lt;/figcaption&gt;
+&lt;img align="middle" class="img-responsive" src="../images/googLeNet.png" style="float:right;" width="256"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein Feature von GoogLeNet&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 02.12.2015&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: GoogleLeNet: Going Deeper with Convolutions&lt;/li&gt;
+&lt;li&gt;Thema: GoogLeNet: Going Deeper with Convolutions&lt;/li&gt;
 &lt;li&gt;Experte: &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In diesem Treffen schauen wir uns &lt;em&gt;GoogleLeNet&lt;/em&gt; an. &lt;em&gt;GoogleLeNet&lt;/em&gt; basiert auf &lt;em&gt;AlexNet&lt;/em&gt; und enth&amp;auml;lt einige Verbesserungen, die es Google erm&amp;ouml;glicht haben in der ImageNet Challenge 2014 zu f&amp;uuml;hren.&lt;/p&gt;
+&lt;p&gt;In diesem Treffen schauen wir uns &lt;em&gt;GoogLeNet&lt;/em&gt; an. &lt;em&gt;GoogLeNet&lt;/em&gt; basiert auf &lt;em&gt;AlexNet&lt;/em&gt; und enth&amp;auml;lt einige Verbesserungen, die es Google erm&amp;ouml;glicht haben in der ImageNet Challenge 2014 zu f&amp;uuml;hren.&lt;/p&gt;
 &lt;p&gt;Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.&lt;/p&gt;
 &lt;h2 id="vorbereitung"&gt;Vorbereitung&lt;/h2&gt;
 &lt;p&gt;Besch&amp;auml;ftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href="http://arxiv.org/abs/1409.4842"&gt;GoogleLeNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1409.4842"&gt;GoogLeNet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ml-ka.de/training-your-first-neural-network/"&gt;Tensorflow Tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="ausblick"&gt;Ausblick&lt;/h2&gt;
@@ -130,7 +130,7 @@ Klassifikation.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;[AlexNet] ImageNet Classification with Deep Convolutional Neural Networks,
    &lt;em&gt;Alex Krizhevsky et. al&lt;/em&gt; (&lt;strong&gt;NIPS 2012&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;[GoogleLeNet] Going Deeper with Convolutions,
+&lt;li&gt;[GoogLeNet] Going Deeper with Convolutions,
    &lt;em&gt;Szegedy et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2014&lt;/strong&gt;)&lt;/li&gt;
 &lt;li&gt;[FCNN] Fully Convolutional Networks for Semantic Segmentation,
    &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
@@ -205,7 +205,13 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h3 id="ausblick_1"&gt;Ausblick&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; k&amp;ouml;nnen wir im folgenden Treffen &amp;uuml;ber &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
-Alternativ ist es m&amp;ouml;glich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl. &lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;. Au&amp;szlig;erdem k&amp;ouml;nnen wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer besch&amp;auml;ftigen. Wie es konkret weitergeht m&amp;ouml;chte ich am Ende des ersten Treffens mit euch besprechen.&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+Alternativ ist es m&amp;ouml;glich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl. &lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;. Au&amp;szlig;erdem k&amp;ouml;nnen wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer besch&amp;auml;ftigen. Wie es konkret weitergeht m&amp;ouml;chte ich am Ende des ersten Treffens mit euch besprechen.&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.github.io/medientreffen-1/" rel="alternate"></link><updated>2015-11-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-30:medientreffen-1/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsering und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
+&lt;p&gt;Hierzu wollen wir uns n&amp;auml;chsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen m&amp;ouml;chte. &lt;/p&gt;
+&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 30. November um 20:00 Uhr&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Oxford Pub&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der &lt;strong&gt;AG DANK&lt;/strong&gt; (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
 &lt;p&gt;Marvin Teichmann wird kurz &amp;uuml;ber die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
 erz&amp;auml;hlen.&lt;/p&gt;
