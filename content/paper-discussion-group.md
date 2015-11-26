@@ -1,6 +1,6 @@
 Title: Paper Discussion Group
 Category: Projekte
-Date: 2015-11-25 17:30
+Date: 2015-12-02 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
@@ -8,16 +8,16 @@ Authors: Marvin Teichmann, Martin Thoma
 
 # Drittes Treffen
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/googleLeNet.png">
-<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein Feature von GoogleLeNet</figcaption>
+<img style="float:right;" align="middle"  width="256" src="../images/googLeNet.png">
+<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein Feature von GoogLeNet</figcaption>
 </figure>
 
 * Datum: 02.12.2015
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: GoogleLeNet: Going Deeper with Convolutions
+* Thema: GoogLeNet: Going Deeper with Convolutions
 * Experte: 
 
-In diesem Treffen schauen wir uns *GoogleLeNet* an. *GoogleLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
+In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
 
 Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.
 
@@ -25,7 +25,7 @@ Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arb
 ## Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
-1. [GoogleLeNet](http://arxiv.org/abs/1409.4842)
+1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
 2. [Tensorflow Tutorial](http://ml-ka.de/training-your-first-neural-network/)
 
 
@@ -38,7 +38,7 @@ Klassifikation.
 
 1. [AlexNet] ImageNet Classification with Deep Convolutional Neural Networks,
    *Alex Krizhevsky et. al* (**NIPS 2012**)
-2. [GoogleLeNet] Going Deeper with Convolutions,
+2. [GoogLeNet] Going Deeper with Convolutions,
    *Szegedy et. al* (**ArXiv 2014**)
 3. [FCNN] Fully Convolutional Networks for Semantic Segmentation,
    *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
