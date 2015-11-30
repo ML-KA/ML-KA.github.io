@@ -1,4 +1,4 @@
-Title: Außerordentliche Mitgliederversammlung am 16.12.2015
+Title: Außerordentliche Mitgliederversammlung - 1
 Date: 2015-11-30 09:00
 Category: Veranstaltungen
 Tags: Mitgliederversammlung
