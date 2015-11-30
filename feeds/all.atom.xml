@@ -23,7 +23,8 @@ but also with CPU. I've wrote a couple of words in a blog post:
 &lt;a href="http://martin-thoma.com/tensor-flow-quick/"&gt;Tensor Flow - A quick impression&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="using-gpu-at-atis"&gt;Using GPU at ATIS&lt;/h3&gt;
 &lt;p&gt;KIT students have the possibility to use the ATIS computer pool. They have
-some computers at the very end of the room which have GPUs.&lt;/p&gt;
+some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
+GeForce GTX 560 Ti 448 Cores).&lt;/p&gt;
 &lt;p&gt;Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
 to add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
@@ -32,6 +33,26 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
 &lt;p&gt;Make sure it appears when you execute &lt;code&gt;echo $PATH&lt;/code&gt; and &lt;code&gt;echo LD_LIBRARY_PATH&lt;/code&gt;.
 If it doesn't, execute &lt;code&gt;source ~/.bashrc&lt;/code&gt;. Depending on your configuration,
 you might have to do this every time when you start a new console session.&lt;/p&gt;
+&lt;p&gt;UPDATE: I've tried it very quickly and it seems not to work out of the box in
+ATIS. However, you can sill use your personal computer.&lt;/p&gt;
+&lt;p&gt;The error I get is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
+  File &lt;span class="s2"&gt;"tftest.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+    import tensorflow as tf
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+    from tensorflow.python import *
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py"&lt;/span&gt;, line 22, in &amp;lt;module&amp;gt;
+    from tensorflow.python.client.client_lib import *
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py"&lt;/span&gt;, line 35, in &amp;lt;module&amp;gt;
+    from tensorflow.python.client.session import InteractiveSession
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py"&lt;/span&gt;, line 11, in &amp;lt;module&amp;gt;
+    from tensorflow.python import pywrap_tensorflow as tf_session
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 28, in &amp;lt;module&amp;gt;
+    &lt;span class="nv"&gt;_pywrap_tensorflow&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; swig_import_helper&lt;span class="o"&gt;()&lt;/span&gt;
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 24, in swig_import_helper
+    &lt;span class="nv"&gt;_mod&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; imp.load_module&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'_pywrap_tensorflow'&lt;/span&gt;, fp, pathname, description&lt;span class="o"&gt;)&lt;/span&gt;
+ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
+&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id="what-is-kaggle_1"&gt;What is Kaggle?&lt;/h2&gt;
 &lt;p&gt;Kaggle is a Machine Learning competition website. It describes tasks in a very
 simple way, provides the data and lets you instantly compare yourself (or

@@ -145,7 +145,8 @@ but also with CPU. I've wrote a couple of words in a blog post:
 <a href="http://martin-thoma.com/tensor-flow-quick/">Tensor Flow - A quick impression</a></p>
 <h3 id="using-gpu-at-atis">Using GPU at ATIS</h3>
 <p>KIT students have the possibility to use the ATIS computer pool. They have
-some computers at the very end of the room which have GPUs.</p>
+some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
+GeForce GTX 560 Ti 448 Cores).</p>
 <p>Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
 to add the following lines to your <code>~/.bashrc</code> file:</p>
 <div class="highlight"><pre>export PATH=$PATH:"/opt/cuda-7.5/bin"
@@ -154,6 +155,26 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
 <p>Make sure it appears when you execute <code>echo $PATH</code> and <code>echo LD_LIBRARY_PATH</code>.
 If it doesn't, execute <code>source ~/.bashrc</code>. Depending on your configuration,
 you might have to do this every time when you start a new console session.</p>
+<p>UPDATE: I've tried it very quickly and it seems not to work out of the box in
+ATIS. However, you can sill use your personal computer.</p>
+<p>The error I get is</p>
+<div class="highlight"><pre>Traceback <span class="o">(</span>most recent call last<span class="o">)</span>:
+  File <span class="s2">"tftest.py"</span>, line 4, in &lt;module&gt;
+    import tensorflow as tf
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"</span>, line 4, in &lt;module&gt;
+    from tensorflow.python import *
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py"</span>, line 22, in &lt;module&gt;
+    from tensorflow.python.client.client_lib import *
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py"</span>, line 35, in &lt;module&gt;
+    from tensorflow.python.client.session import InteractiveSession
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py"</span>, line 11, in &lt;module&gt;
+    from tensorflow.python import pywrap_tensorflow as tf_session
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"</span>, line 28, in &lt;module&gt;
+    <span class="nv">_pywrap_tensorflow</span> <span class="o">=</span> swig_import_helper<span class="o">()</span>
+  File <span class="s2">"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"</span>, line 24, in swig_import_helper
+    <span class="nv">_mod</span> <span class="o">=</span> imp.load_module<span class="o">(</span><span class="s1">'_pywrap_tensorflow'</span>, fp, pathname, description<span class="o">)</span>
+ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
+</pre></div>
 <h2 id="what-is-kaggle_1">What is Kaggle?</h2>
 <p>Kaggle is a Machine Learning competition website. It describes tasks in a very
 simple way, provides the data and lets you instantly compare yourself (or
