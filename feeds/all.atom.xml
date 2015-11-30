@@ -109,10 +109,10 @@ Hello, TensorFlow!
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein Feature von GoogLeNet&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 02.12.2015&lt;/li&gt;
+&lt;li&gt;Datum: 02.12.2015, 17:30 - 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: GoogLeNet: Going Deeper with Convolutions&lt;/li&gt;
-&lt;li&gt;Experte: &lt;/li&gt;
+&lt;li&gt;Experte:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In diesem Treffen schauen wir uns &lt;em&gt;GoogLeNet&lt;/em&gt; an. &lt;em&gt;GoogLeNet&lt;/em&gt; basiert auf &lt;em&gt;AlexNet&lt;/em&gt; und enth&amp;auml;lt einige Verbesserungen, die es Google erm&amp;ouml;glicht haben in der ImageNet Challenge 2014 zu f&amp;uuml;hren.&lt;/p&gt;
 &lt;p&gt;Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.&lt;/p&gt;
@@ -120,10 +120,11 @@ Hello, TensorFlow!
 &lt;p&gt;Besch&amp;auml;ftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1409.4842"&gt;GoogLeNet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ml-ka.de/training-your-first-neural-network/"&gt;Tensorflow Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ml-ka.de/training-your-first-neural-network/"&gt;Tensorflow Session Vorbereitung&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="ausblick"&gt;Ausblick&lt;/h2&gt;
-&lt;p&gt;Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit Tensorflow arbeiten.&lt;/p&gt;
+&lt;p&gt;Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit
+Tensorflow arbeiten.&lt;/p&gt;
 &lt;h1 id="paper-liste_1"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.&lt;/p&gt;
@@ -138,7 +139,7 @@ Klassifikation.&lt;/p&gt;
    Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id="weitere-literatur-zu-cnns-und-deep-learning"&gt;Weitere Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
-&lt;p&gt;Einsteigern empfehle ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;der Universit&amp;auml;t Stanford. &lt;/p&gt;
+&lt;p&gt;Einsteigern empfehle ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;der Universit&amp;auml;t Stanford.&lt;/p&gt;
 &lt;p&gt;Wer selber mal gerne ein Netz trainieren m&amp;ouml;chte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
 Tutorial&lt;/a&gt; von Martin
 Thoma. F&amp;uuml;r die Paper-Discussion Group ist es allerdings nicht Voraussetzung
@@ -156,7 +157,7 @@ marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 11. November, 17:30&lt;/li&gt;
+&lt;li&gt;Datum: 11.11.2015, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Stanford Deep Learning Tutorial&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
@@ -186,10 +187,10 @@ Group da.&lt;/p&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 25.11.2015&lt;/li&gt;
-&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Datum: 25.11.2015, 17:30 - 19:00 Uhr&lt;/li&gt;
+&lt;li&gt;Ort: Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
-&lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
+&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In diesem Treffen m&amp;ouml;chte ich mit euch &amp;uuml;ber &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
 tiefes Neuronales Netz, welches 2010 &amp;uuml;berraschend die &lt;em&gt;ImageNet Classification
