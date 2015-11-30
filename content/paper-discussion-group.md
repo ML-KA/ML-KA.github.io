@@ -12,10 +12,10 @@ Authors: Marvin Teichmann, Martin Thoma
 <figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein Feature von GoogLeNet</figcaption>
 </figure>
 
-* Datum: 02.12.2015
+* Datum: 02.12.2015, 17:30 - 19:00 Uhr
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: GoogLeNet: Going Deeper with Convolutions
-* Experte: 
+* Experte:
 
 In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
 
@@ -26,11 +26,12 @@ Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arb
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
 1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
-2. [Tensorflow Tutorial](http://ml-ka.de/training-your-first-neural-network/)
+2. [Tensorflow Session Vorbereitung](http://ml-ka.de/training-your-first-neural-network/)
 
 
 ## Ausblick
-Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit Tensorflow arbeiten.
+Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit
+Tensorflow arbeiten.
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -46,7 +47,7 @@ Klassifikation.
    Image Segmentation, *Vijay Badrinarayanan et. al* (**ArXiv 2015**)
 
 # Weitere Literatur zu CNNs und Deep-Learning
-Einsteigern empfehle ich das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)der Universität Stanford. 
+Einsteigern empfehle ich das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)der Universität Stanford.
 
 Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das [Lasagne
 Tutorial](http://martin-thoma.com/lasagne-for-python-newbies/) von Martin
@@ -71,7 +72,7 @@ _________________________________________________________________________
 Quelle: Stanford Deep Learning Tutorial</figcaption>
 </figure>
 
-* Datum: 11. November, 17:30
+* Datum: 11.11.2015, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: Stanford Deep Learning Tutorial
 * Experte: Marvin&nbsp;Teichmann
@@ -105,10 +106,10 @@ Group da.
 AlexNet erkennt Katzen!</figcaption>
 </figure>
 
-* Datum: 25.11.2015
-* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Datum: 25.11.2015, 17:30 - 19:00 Uhr
+* Ort: Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz
-* Experte: Marvin Teichmann
+* Experte: Marvin&nbsp;Teichmann
 
 In diesem Treffen möchte ich mit euch über *AlexNet* reden. *AlexNet* ist ein
 tiefes Neuronales Netz, welches 2010 überraschend die *ImageNet Classification
