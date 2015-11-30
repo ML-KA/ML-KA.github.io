@@ -64,8 +64,8 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
-&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;

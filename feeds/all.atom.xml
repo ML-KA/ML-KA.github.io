@@ -64,8 +64,8 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
-&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
@@ -211,7 +211,32 @@ Alternativ ist es m&amp;ouml;glich ein praktisches Treffen zu organisieren bei d
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 30. November um 20:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Oxford Pub&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung am 16.12.2015</title><link href="//ml-ka.github.io/ausserordentliche-mitgliederversammlung-am-16122015/" rel="alternate"></link><updated>2015-11-30T09:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-30:ausserordentliche-mitgliederversammlung-am-16122015/</id><summary type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
+wird es eine au&amp;szlig;erordentliche Mitgliederversammlung geben. Der Grund daf&amp;uuml;r ist
+unser Status als Hochschulgruppe.&lt;/p&gt;
+&lt;p&gt;Am 21. November habe ich vom AStA folgende E-Mail bekommen:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hallo Martin,&lt;/p&gt;
+&lt;p&gt;ich habe euren Antrag zur Registrierung als Hochschulgruppe gepr&amp;uuml;ft. Dabei
+ist mir aufgefallen, dass bei euch ein Passus zur ehrenamtlichen Arbeit
+fehlt.&lt;/p&gt;
+&lt;p&gt;Paragraph 2 der Hochschulgruppenordnung: (3) Die Hochschulgruppe darf nicht
+gewerblich oder eigenwirtschaftlich arbeiten. Die Mitglieder der
+Hochschulgruppe arbeiten als solche ehrenamtlich.&lt;/p&gt;
+&lt;p&gt;Wenn ihr noch so etwas in eure Satzung erg&amp;auml;nzt steht euch nichts mehr im Wege
+f&amp;uuml;r die Registrierung.&lt;/p&gt;
+&lt;p&gt;Viele Gr&amp;uuml;&amp;szlig;e
+Andrej&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Daher eine sehr kurze Mitgliederversammlung, wo ein paar Satzungs&amp;auml;nderungen
+(vgl. &lt;a href="https://github.com/ML-KA/satzung/tree/ehrenamtlich"&gt;Branch 'ehrenamtlich'&lt;/a&gt;)
+beschlossen werden sollen.&lt;/p&gt;
+&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 16. Dezember um 19:00 Uhr&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest. Vermutlich im Informatik-Geb&amp;auml;ude im Keller.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Protokollant&lt;/strong&gt;: Wird noch gesucht.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der &lt;strong&gt;AG DANK&lt;/strong&gt; (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
 &lt;p&gt;Marvin Teichmann wird kurz &amp;uuml;ber die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
 erz&amp;auml;hlen.&lt;/p&gt;
