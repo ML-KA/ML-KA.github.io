@@ -37,7 +37,8 @@ but also with CPU. I've wrote a couple of words in a blog post:
 ### Using GPU at ATIS
 
 KIT students have the possibility to use the ATIS computer pool. They have
-some computers at the very end of the room which have GPUs.
+some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
+GeForce GTX 560 Ti 448 Cores).
 
 Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
 to add the following lines to your `~/.bashrc` file:
@@ -50,6 +51,30 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
 Make sure it appears when you execute `echo $PATH` and `echo LD_LIBRARY_PATH`.
 If it doesn't, execute `source ~/.bashrc`. Depending on your configuration,
 you might have to do this every time when you start a new console session.
+
+UPDATE: I've tried it very quickly and it seems not to work out of the box in
+ATIS. However, you can sill use your personal computer.
+
+The error I get is
+
+```bash
+Traceback (most recent call last):
+  File "tftest.py", line 4, in <module>
+    import tensorflow as tf
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py", line 4, in <module>
+    from tensorflow.python import *
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py", line 22, in <module>
+    from tensorflow.python.client.client_lib import *
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py", line 35, in <module>
+    from tensorflow.python.client.session import InteractiveSession
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 11, in <module>
+    from tensorflow.python import pywrap_tensorflow as tf_session
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py", line 28, in <module>
+    _pywrap_tensorflow = swig_import_helper()
+  File "/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py", line 24, in swig_import_helper
+    _mod = imp.load_module('_pywrap_tensorflow', fp, pathname, description)
+ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
+```
 
 
 ## What is Kaggle?
