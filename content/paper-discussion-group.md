@@ -8,8 +8,8 @@ Authors: Marvin Teichmann, Martin Thoma
 
 # Drittes Treffen
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/googLeNet.png">
-<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein Feature von GoogLeNet</figcaption>
+<img style="float:right;" align="middle"  width="256" src="../images/a88.jpg">
+<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein wichtiges Feature von GoogLeNet</figcaption>
 </figure>
 
 * Datum: 02.12.2015, 17:30 - 19:00 Uhr
