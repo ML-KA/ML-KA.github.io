@@ -85,8 +85,8 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
-&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
@@ -227,4 +227,15 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h3 id="ausblick_1"&gt;Ausblick&lt;/h3&gt;
 &lt;p&gt;Aufbauen auf &lt;em&gt;AlexNet&lt;/em&gt; k&amp;ouml;nnen wir im folgenden Treffen &amp;uuml;ber &lt;em&gt;GoogLeNet&lt;/em&gt; reden.
-Alternativ ist es m&amp;ouml;glich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl. &lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;. Au&amp;szlig;erdem k&amp;ouml;nnen wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer besch&amp;auml;ftigen. Wie es konkret weitergeht m&amp;ouml;chte ich am Ende des ersten Treffens mit euch besprechen.&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry></feed>
+Alternativ ist es m&amp;ouml;glich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit &lt;em&gt;Tensor Flow&lt;/em&gt; zu implementieren (vgl. &lt;a href="http://ml-ka.de/training-your-first-network/"&gt;Training your first Neural Network&lt;/a&gt;. Au&amp;szlig;erdem k&amp;ouml;nnen wir uns mit den neuen &lt;em&gt;FCNN&lt;/em&gt; Ansatz von Jon Long und Evan Shelhamer besch&amp;auml;ftigen. Wie es konkret weitergeht m&amp;ouml;chte ich am Ende des ersten Treffens mit euch besprechen.&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.github.io/kaggle-1/" rel="alternate"></link><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.github.io,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
+&lt;a href="https://www.kaggle.com/c/rossmann-store-sales"&gt;Rossmann Stores Challenge&lt;/a&gt;
+l&amp;auml;uft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
+Guckt euch bitte die Aufgabe vorher an, und bringe Ideen mit.&lt;/p&gt;
+&lt;p&gt;Es kam die Idee auf dass wir uns w&amp;ouml;chentlich treffen um langfristig etwas zu
+erreichen. Das k&amp;ouml;nnen wir beim Treffen auch gleich besprechen.&lt;/p&gt;
+&lt;p&gt;Ich freue mich auf euch.&lt;/p&gt;
+&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 2. Dezember 2015 um 22:00 Uhr&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Seminarraum -118, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry></feed>
