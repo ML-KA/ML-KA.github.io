@@ -17,5 +17,5 @@ Ich freue mich auf euch.
 
 ## Organisatorisches
 
-* **Wann?** Mittwoch, 2. Dezember 2015 um 22:00 Uhr
-* **Wo?** Seminarraum -118, Infobau (Geb. 50.34)
+* **Wann?** Mittwoch, 2.&nbsp;Dezember&nbsp;2015, 20:00&ndash;22:00&nbsp;Uhr
+* **Wo?** Seminarraum&nbsp;-118, Infobau (Geb.&nbsp;50.34)
