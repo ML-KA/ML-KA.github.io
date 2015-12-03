@@ -7,6 +7,11 @@ Authors: Marvin Teichmann, Martin Thoma
 
 
 # Drittes Treffen
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="../images/a88.jpg">
+<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein wichtiges Feature von GoogLeNet</figcaption>
+</figure>
+
 * Datum: 02.12.2015, 17:30 - 19:00 Uhr
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: GoogLeNet: Going Deeper with Convolutions
