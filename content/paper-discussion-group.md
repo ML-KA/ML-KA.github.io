@@ -123,7 +123,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.
 ### Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
-1. [AlexNet](www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+1. [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 
 
 ### Ausblick
