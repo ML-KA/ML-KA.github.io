@@ -4,8 +4,6 @@ Date: 2015-12-02 17:30
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-
-
 # Drittes Treffen
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="../images/a88.jpg">
@@ -15,7 +13,7 @@ Authors: Marvin Teichmann, Martin Thoma
 * Datum: 02.12.2015, 17:30 - 19:00 Uhr
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: GoogLeNet: Going Deeper with Convolutions
-* Experte:
+* Experte: Marvin Teichmann
 
 In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
 
