@@ -42,3 +42,17 @@ Probleme in der Praxis besprochen werden.
 
 Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 `[ML-KA]` in den Betreff schreiben.
+
+# Verantworliche
+
+### Vorstand
+
+- Martin Thoma (Vorsitz) (`info@martin-thoma.de`)
+- Marvin Teichmann (`marvxx.teichmaxx@gmaxx.com`)
+- Marvin Schweizer
+
+### weitere
+
+- Webmaster & FB: Johannes Reiß
+- Kassenwart: Marvin Teichmann
+
