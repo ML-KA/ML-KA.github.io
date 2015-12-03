@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-02T21:10:00+01:00</updated><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-30T19:00:00+01:00</updated><entry><title>Weihnachtsmarkttreffen</title><link href="//ml-ka.github.io/weihnachtsmarkttreffen/" rel="alternate"></link><updated>2015-12-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-30:weihnachtsmarkttreffen/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
+&lt;p&gt;Hierzu wollen wir uns n&amp;auml;chsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen m&amp;ouml;chte. Wer noch etwas Zeit und Lust hat kann gerne offiziell Teil des Webmaster-Teams werden. Wir freuen uns aber schon, wenn Ihr ab und zu etwas auf der HP oder &amp;uuml;ber FB ver&amp;ouml;ffentlichen wollt. Ihr k&amp;ouml;nnt aber auch einfach nur ins Oxford kommen und eure Ideen beitragen, falls eure Zeit Jahr sehr knapp ist.&lt;/p&gt;
+&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 09. Dezember um 19:30 Uhr&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Karlsruher Weihnachtsmarkt&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
 &lt;ol&gt;
@@ -124,8 +130,7 @@ Hello, TensorFlow!
 &lt;div class="highlight"&gt;&lt;pre&gt;Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-02T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-02:paper-discussion-group/</id><summary type="html">&lt;h1 id="viertes-treffen"&gt;Viertes Treffen&lt;/h1&gt;
-&lt;h1 id="drittes-treffen"&gt;Drittes Treffen&lt;/h1&gt;
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-02T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-02:paper-discussion-group/</id><summary type="html">&lt;h1 id="drittes-treffen"&gt;Drittes Treffen&lt;/h1&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
 &lt;img align="middle" class="img-responsive" src="../images/a88.jpg" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein wichtiges Feature von GoogLeNet&lt;/figcaption&gt;
