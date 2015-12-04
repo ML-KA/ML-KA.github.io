@@ -19,7 +19,7 @@ of my choice when it comes to quickly trying some ideas.
 ## What is MNIST?
 
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256px" src="../images/mnist-2.png">
+<img style="float:right;" align="middle"  width="256px" src="{filename}/images/mnist-2.png">
 <figcaption style="display:table-caption;caption-side:bottom">One example of an item in the MNIST dataset - the digit 2</figcaption>
 </figure>
 

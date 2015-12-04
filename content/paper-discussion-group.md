@@ -5,11 +5,6 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
 # Drittes Treffen
-<figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/a88.jpg">
-<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein wichtiges Feature von GoogLeNet</figcaption>
-</figure>
-
 * Datum: 02.12.2015, 17:30 - 19:00 Uhr
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: GoogLeNet: Going Deeper with Convolutions
@@ -65,7 +60,7 @@ _________________________________________________________________________
 
 ## Erstes Treffen
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/Cnn_layer.png">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/Cnn_layer.png">
 <figcaption style="display:table-caption;caption-side:bottom">Schematische Darstellung von CNNs.<br/>
 Quelle: Stanford Deep Learning Tutorial</figcaption>
 </figure>
@@ -99,7 +94,7 @@ Group da.
 
 ## Zweites Treffen
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="../images/imagenet.png">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/imagenet.png">
 <figcaption style="display:table-caption;caption-side:bottom">ImageNet Classification Challenge: <br/>
 AlexNet erkennt Katzen!</figcaption>
 </figure>
