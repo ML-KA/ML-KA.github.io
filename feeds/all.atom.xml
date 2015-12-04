@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-30T19:00:00+01:00</updated><entry><title>Weihnachtsmarktbesuch</title><link href="//ml-ka.github.io/weihnachtsmarktbesuch/" rel="alternate"></link><updated>2015-12-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-30:weihnachtsmarktbesuch/</id><summary type="html">&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 09. Dezember um 19:30 Uhr&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Karlsruher Weihnachtsmarkt&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-02T21:10:00+01:00</updated><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
 &lt;ol&gt;
@@ -15,7 +11,7 @@ interesting abilities:&lt;/p&gt;
 of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
 &lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="../images/mnist-2.png" style="float:right;" width="256px"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/mnist-2.png" style="float:right;" width="256px"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;One example of an item in the MNIST dataset - the digit 2&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
 &lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
@@ -89,8 +85,8 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
-&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
@@ -129,10 +125,6 @@ Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-02T17:30:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-02:paper-discussion-group/</id><summary type="html">&lt;h1 id="drittes-treffen"&gt;Drittes Treffen&lt;/h1&gt;
-&lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="../images/a88.jpg" style="float:right;" width="256"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein wichtiges Feature von GoogLeNet&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 02.12.2015, 17:30 - 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
@@ -177,7 +169,7 @@ marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
 &lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
 &lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="../images/Cnn_layer.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/Cnn_layer.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -207,7 +199,7 @@ Verst&amp;auml;ndnisschwierigkeiten nicht abschrecken. Hierf&amp;uuml;r ist auch
 Group da.&lt;/p&gt;
 &lt;h2 id="zweites-treffen_1"&gt;Zweites Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="../images/imagenet.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/imagenet.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
