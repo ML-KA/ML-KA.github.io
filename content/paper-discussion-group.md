@@ -1,30 +1,26 @@
 Title: Paper Discussion Group
 Category: Projekte
-Date: 2015-12-02 17:30
+Date: 2015-12-06 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# Drittes Treffen
+# Praktisches Treffen
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="{filename}/images/a88.jpg">
-<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein wichtiges Feature von GoogLeNet</figcaption>
+<img style="float:right;" align="middle"  width="128" src="{filename}/images/tensorFlow.png">
+<figcaption style="display:table-caption;caption-side:bottom"><br/>
+Quelle: Wikipedia</figcaption>
 </figure>
 
-* Datum: 02.12.2015, 17:30 - 19:00 Uhr
-* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: GoogLeNet: Going Deeper with Convolutions
-* Experte: Marvin Teichmann
-
-In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
-
-Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.
-
+Das nächste Treffen wird ein praktisches Treffen. Wir möchten uns im Vorfeld mit Tensorflow beschäftigen und bei dem Treffen das Framework unterhalten.
 
 ## Vorbereitung
-Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
+Zur Vorbereitung tut bitte folgendes:
 
-1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
-2. [Tensorflow Session Vorbereitung](http://ml-ka.de/training-your-first-neural-network/)
+1. Installiert Python, falls noch nicht vorhanden schaut euch das [offizielle Python 2 tutorial](https://docs.python.org/2/tutorial/) an.
+2. [Installiert Tensor Flow](http://www.tensorflow.org/get_started/os_setup.html)
+3. Stelle sicher, dass Tensor Flow funktionier ([siehe auch](http://ml-ka.de/training-your-first-neural-network/))
+4. Bearbeite [MNIST For ML Beginners](http://www.tensorflow.org/tutorials/mnist/beginners/index.html) tutorial
+5. Registriere bei Kaggle, und bearbeite [Digit Recognizer task](https://www.kaggle.com/c/digit-recognizer). Modifiziere dazu die Implementation von Schritt&nbsp;4
 
 
 ## Ausblick
@@ -128,3 +124,30 @@ Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
 Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden.
 Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit *Tensor Flow* zu implementieren (vgl. [Training your first Neural Network](http://ml-ka.de/training-your-first-network/). Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Evan Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen.
+
+## Drittes Treffen
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/a88.jpg">
+<figcaption style="display:table-caption;caption-side:bottom">Inception module: Ein wichtiges Feature von GoogLeNet</figcaption>
+</figure>
+
+* Datum: 02.12.2015, 17:30 - 19:00 Uhr
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: GoogLeNet: Going Deeper with Convolutions
+* Experte: Marvin Teichmann
+
+In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexNet* und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.
+
+Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.
+
+
+## Vorbereitung
+Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
+
+1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
+2. [Tensorflow Session Vorbereitung](http://ml-ka.de/training-your-first-neural-network/)
+
+
+## Ausblick
+Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit
+Tensorflow arbeiten.
