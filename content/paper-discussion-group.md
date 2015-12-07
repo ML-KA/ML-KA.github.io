@@ -4,12 +4,19 @@ Date: 2015-12-06 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# Praktisches Treffen
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="128" src="{filename}/images/tensorFlow.png">
 <figcaption style="display:table-caption;caption-side:bottom"><br/>
 Quelle: Wikipedia</figcaption>
 </figure>
+
+# Praktisches Treffen
+* Datum: 09.12.2015, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Implementierung von CNNs mit Tensorflow
+* Experte: Martin&nbsp;Thoma
+
+
 
 Das nächste Treffen wird ein praktisches Treffen. Wir möchten uns im Vorfeld mit Tensorflow beschäftigen und bei dem Treffen das Framework unterhalten.
 
