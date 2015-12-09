@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-30T19:00:00+01:00</updated><entry><title>Weihnachtsmarktbesuch</title><link href="//ml-ka.github.io/weihnachtsmarktbesuch/" rel="alternate"></link><updated>2015-12-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-30:weihnachtsmarktbesuch/</id><summary type="html">&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 09. Dezember um 19:30 Uhr&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Karlsruher Weihnachtsmarkt&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-06T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-06:paper-discussion-group/</id><summary type="html">&lt;figure style="display:table;float:right"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-06T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-06T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-06:paper-discussion-group/</id><summary type="html">&lt;figure style="display:table;float:right"&gt;
 &lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/tensorFlow.png" style="float:right;" width="128"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Quelle: Wikipedia&lt;/figcaption&gt;
