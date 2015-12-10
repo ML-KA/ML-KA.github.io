@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-06T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-06T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-06:paper-discussion-group/</id><summary type="html">&lt;h1 id="funftes-treffen"&gt;F&amp;uuml;nftes Treffen&lt;/h1&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/woman_bb.png" style="float:right;" width="256"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
+Lokalisierung eines Kopfes.&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 16.12.2015, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: Overfeat: Objectlokalisierung mit CNNs&lt;/li&gt;
+&lt;li&gt;Thema: Overfeat: Objektlokalisierung mit CNNs&lt;/li&gt;
 &lt;li&gt;Experte: Michael&amp;nbsp;Weber&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Overfeat erm&amp;ouml;glicht es Objecte (z.b. Autos) auf Bildern zu lokalisieren. Die Aufgabe ist es eine Bounding-Box um das zu Lokalisierende Objekt zu zeichnen.&lt;/p&gt;
 &lt;h2 id="vorbereitung"&gt;Vorbereitung&lt;/h2&gt;
 &lt;p&gt;Besch&amp;auml;ftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.&lt;/p&gt;
 &lt;h1 id="paper-liste_1"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.&lt;/p&gt;
