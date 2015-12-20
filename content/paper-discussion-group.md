@@ -4,35 +4,28 @@ Date: 2015-12-06 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
+# Sechstes Treffen
+
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="128" src="{filename}/images/tensorFlow.png">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/arma.png">
 <figcaption style="display:table-caption;caption-side:bottom"><br/>
-Quelle: Wikipedia</figcaption>
+Lokalisierung von Köpfen.</figcaption>
 </figure>
 
-# Praktisches Treffen
-* Datum: 09.12.2015, 17:30
-* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: Implementierung von CNNs mit Tensorflow
-* Experte: Martin&nbsp;Thoma
+* Datum: 21.12.2015, 16:15
+* Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)
+* Thema: Overfeat2: Localization and Detection
+* Experte: Michael&nbsp;Weber
 
-
-
-Das nächste Treffen wird ein praktisches Treffen. Wir möchten uns im Vorfeld mit Tensorflow beschäftigen und bei dem Treffen das Framework unterhalten.
+Wir besprechen Sektion 4 und 5 von Overfeat.
 
 ## Vorbereitung
-Zur Vorbereitung tut bitte folgendes:
+Beschäftigt euch im Vorfeld mit Overfeat:
 
-1. Installiert Python, falls noch nicht vorhanden schaut euch das [offizielle Python 2 tutorial](https://docs.python.org/2/tutorial/) an.
-2. [Installiert Tensor Flow](http://www.tensorflow.org/get_started/os_setup.html)
-3. Stelle sicher, dass Tensor Flow funktionier ([siehe auch](http://ml-ka.de/training-your-first-neural-network/))
-4. Bearbeite [MNIST For ML Beginners](http://www.tensorflow.org/tutorials/mnist/beginners/index.html) tutorial
-5. Registriere bei Kaggle, und bearbeite [Digit Recognizer task](https://www.kaggle.com/c/digit-recognizer). Modifiziere dazu die Implementation von Schritt&nbsp;4
+1. [Overfeat](http://arxiv.org/abs/1312.6229)
 
 
-## Ausblick
-Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit
-Tensorflow arbeiten.
+
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -127,11 +120,6 @@ Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 1. [AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 
 
-### Ausblick
-
-Aufbauen auf *AlexNet* können wir im folgenden Treffen über *GoogLeNet* reden.
-Alternativ ist es möglich ein praktisches Treffen zu organisieren bei dem es darum geht ein Netz selber mit *Tensor Flow* zu implementieren (vgl. [Training your first Neural Network](http://ml-ka.de/training-your-first-network/). Außerdem können wir uns mit den neuen *FCNN* Ansatz von Jon Long und Evan Shelhamer beschäftigen. Wie es konkret weitergeht möchte ich am Ende des ersten Treffens mit euch besprechen.
-
 ## Drittes Treffen
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="{filename}/images/a88.jpg">
@@ -154,7 +142,51 @@ Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
 2. [Tensorflow Session Vorbereitung](http://ml-ka.de/training-your-first-neural-network/)
 
+## Praktisches Treffen
 
-## Ausblick
-Das Treffen am 09. Dezember wird ein praktisches Treffen sein, bei dem wir mit
-Tensorflow arbeiten.
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="128" src="{filename}/images/tensorFlow.png">
+<figcaption style="display:table-caption;caption-side:bottom"><br/>
+Quelle: Wikipedia</figcaption>
+</figure>
+
+
+* Datum: 09.12.2015, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Implementierung von CNNs mit Tensorflow
+* Experte: Martin&nbsp;Thoma
+
+
+
+Das nächste Treffen wird ein praktisches Treffen. Wir möchten uns im Vorfeld mit Tensorflow beschäftigen und bei dem Treffen das Framework unterhalten.
+
+### Vorbereitung
+Zur Vorbereitung tut bitte folgendes:
+
+1. Installiert Python, falls noch nicht vorhanden schaut euch das [offizielle Python 2 tutorial](https://docs.python.org/2/tutorial/) an.
+2. [Installiert Tensor Flow](http://www.tensorflow.org/get_started/os_setup.html)
+3. Stelle sicher, dass Tensor Flow funktionier ([siehe auch](http://ml-ka.de/training-your-first-neural-network/))
+4. Bearbeite [MNIST For ML Beginners](http://www.tensorflow.org/tutorials/mnist/beginners/index.html) tutorial
+5. Registriere bei Kaggle, und bearbeite [Digit Recognizer task](https://www.kaggle.com/c/digit-recognizer). Modifiziere dazu die Implementation von Schritt&nbsp;4
+
+# Fünftes Treffen
+
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/woman_bb.png">
+<figcaption style="display:table-caption;caption-side:bottom"><br/>
+Lokalisierung eines Kopfes.</figcaption>
+</figure>
+
+* Datum: 16.12.2015, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Overfeat: Objektlokalisierung mit CNNs
+* Experte: Michael&nbsp;Weber
+
+Overfeat ermöglicht es Objecte (z.b. Autos) auf Bildern zu lokalisieren. Die Aufgabe ist es eine Bounding-Box um das zu Lokalisierende Objekt zu zeichnen.
+
+## Vorbereitung
+Beschäftigt euch im Vorfeld mit Overfeat:
+
+1. [Overfeat](http://arxiv.org/abs/1312.6229)
+
+Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.
