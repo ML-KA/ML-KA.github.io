@@ -50,6 +50,9 @@ Listen:
 * [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/)
 
+## Lists
+* [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) by Ujjwal Karn (Facebook employee)
+
 ## Sonstiges
 * [Kaggle](https://www.kaggle.com/): Machine Learning Wettbewerbe
 * Stack Exchange
