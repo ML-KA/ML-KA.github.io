@@ -4,12 +4,12 @@ Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# Sechstes Treffen
+# Siebtes Treffen
 
 <figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="{filename}/images/arma.png">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/horse640_final.png">
 <figcaption style="display:table-caption;caption-side:bottom"><br/>
-Lokalisierung von Köpfen.</figcaption>
+Segmentierung eines Bildes.</figcaption>
 </figure>
 
 * Datum: 13.01.2016, 17:30
@@ -17,10 +17,10 @@ Lokalisierung von Köpfen.</figcaption>
 * Thema: Fully Convolutional Networks for Semantic Segmentation
 * Experte: Marvin&nbsp;Teichmann
 
-In dme nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
+In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
 
 ## Vorbereitung
-Lest bitte im Vorfeld das Paper.
+Lest bitte im Vorfeld das folgende Paper:
 
 1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
    *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
