@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-12-06T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2015-12-06T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-12-06:paper-discussion-group/</id><summary type="html">&lt;h1 id="sechstes-treffen"&gt;Sechstes Treffen&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="siebtes-treffen"&gt;Siebtes Treffen&lt;/h1&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/arma.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/horse640_final.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
-Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
+Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 21.12.2015, 16:15&lt;/li&gt;
-&lt;li&gt;Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)&lt;/li&gt;
-&lt;li&gt;Thema: Overfeat2: Localization and Detection&lt;/li&gt;
-&lt;li&gt;Experte: Michael&amp;nbsp;Weber&lt;/li&gt;
+&lt;li&gt;Datum: 13.01.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Thema: Fully Convolutional Networks for Semantic Segmentation&lt;/li&gt;
+&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wir besprechen Sektion 4 und 5 von Overfeat.&lt;/p&gt;
+&lt;p&gt;In dem n&amp;auml;chsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.&lt;/p&gt;
 &lt;h2 id="vorbereitung"&gt;Vorbereitung&lt;/h2&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
+&lt;p&gt;Lest bitte im Vorfeld das folgende Paper:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf"&gt;Fully Convolutional Networks for Semantic Segmentation&lt;/a&gt;,
+   &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id="paper-liste_1"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -155,7 +156,25 @@ Lokalisierung eines Kopfes.&lt;/figcaption&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.&lt;/p&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+&lt;p&gt;Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.&lt;/p&gt;
+&lt;h1 id="sechstes-treffen_1"&gt;Sechstes Treffen&lt;/h1&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/arma.png" style="float:right;" width="256"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
+Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: 21.12.2015, 16:15&lt;/li&gt;
+&lt;li&gt;Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)&lt;/li&gt;
+&lt;li&gt;Thema: Overfeat2: Localization and Detection&lt;/li&gt;
+&lt;li&gt;Experte: Michael&amp;nbsp;Weber&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir besprechen Sektion 4 und 5 von Overfeat.&lt;/p&gt;
+&lt;h2 id="vorbereitung_6"&gt;Vorbereitung&lt;/h2&gt;
+&lt;p&gt;Besch&amp;auml;ftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
 &lt;ol&gt;
@@ -241,8 +260,8 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;version&lt;/span&gt;
-&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="mf"&gt;6.0.6&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dist&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;6.0.6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;py2&lt;/span&gt;&lt;span class="mf"&gt;.7&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;egg&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
