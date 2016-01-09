@@ -1,6 +1,6 @@
 Title: Paper Discussion Group
 Category: Projekte
-Date: 2015-12-06 09:45
+Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
@@ -12,18 +12,18 @@ Authors: Marvin Teichmann, Martin Thoma
 Lokalisierung von Köpfen.</figcaption>
 </figure>
 
-* Datum: 21.12.2015, 16:15
-* Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)
-* Thema: Overfeat2: Localization and Detection
-* Experte: Michael&nbsp;Weber
+* Datum: 13.01.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Fully Convolutional Networks for Semantic Segmentation
+* Experte: Marvin&nbsp;Teichmann
 
-Wir besprechen Sektion 4 und 5 von Overfeat.
+In dme nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
 
 ## Vorbereitung
-Beschäftigt euch im Vorfeld mit Overfeat:
+Lest bitte im Vorfeld das Paper.
 
-1. [Overfeat](http://arxiv.org/abs/1312.6229)
-
+1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
+   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
 
 
 
@@ -190,3 +190,24 @@ Beschäftigt euch im Vorfeld mit Overfeat:
 1. [Overfeat](http://arxiv.org/abs/1312.6229)
 
 Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.
+
+
+# Sechstes Treffen
+
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/arma.png">
+<figcaption style="display:table-caption;caption-side:bottom"><br/>
+Lokalisierung von Köpfen.</figcaption>
+</figure>
+
+* Datum: 21.12.2015, 16:15
+* Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)
+* Thema: Overfeat2: Localization and Detection
+* Experte: Michael&nbsp;Weber
+
+Wir besprechen Sektion 4 und 5 von Overfeat.
+
+## Vorbereitung
+Beschäftigt euch im Vorfeld mit Overfeat:
+
+1. [Overfeat](http://arxiv.org/abs/1312.6229)
