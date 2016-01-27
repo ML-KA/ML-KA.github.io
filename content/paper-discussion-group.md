@@ -4,28 +4,16 @@ Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# Siebtes Treffen
 
-<figure style="display:table;float:right">
-<img style="float:right;" align="middle"  width="256" src="{filename}/images/horse640_final.png">
-<figcaption style="display:table-caption;caption-side:bottom"><br/>
-Segmentierung eines Bildes.</figcaption>
-</figure>
+# Neuntes Treffen
 
-* Datum: 13.01.2016, 17:30
+* Datum: 03.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: Fully Convolutional Networks for Semantic Segmentation
-* Experte: Marvin&nbsp;Teichmann
+* Thema: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
+* Experte: Martin&nbsp;Thoma
 
-In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
-
-## Vorbereitung
-Lest bitte im Vorfeld das folgende Paper:
-
-1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
-   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
-
-
+Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
+bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -211,3 +199,42 @@ Wir besprechen Sektion 4 und 5 von Overfeat.
 Beschäftigt euch im Vorfeld mit Overfeat:
 
 1. [Overfeat](http://arxiv.org/abs/1312.6229)
+
+# Siebtes Treffen
+
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/horse640_final.png">
+<figcaption style="display:table-caption;caption-side:bottom"><br/>
+Segmentierung eines Bildes.</figcaption>
+</figure>
+
+* Datum: 13.01.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: Fully Convolutional Networks for Semantic Segmentation
+* Experte: Marvin&nbsp;Teichmann
+
+In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
+
+
+# Achtes Treffen
+
+* Datum: 27.01.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247)
+* Experte: Leonard&nbsp;Lausen
+
+Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
+
+* [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
+    * [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) (Soft attention)
+* [How transferable are features in deep neural networks](http://arxiv.org/abs/1411.1792)
+*  - 4096 Schichten
+
+
+## Vorbereitung
+Lest bitte im Vorfeld das folgende Paper:
+
+1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
+   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
+
