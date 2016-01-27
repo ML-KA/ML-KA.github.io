@@ -52,6 +52,9 @@ Listen:
 
 ## Lists
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) by Ujjwal Karn (Facebook employee)
+* [Awesome Random Forest](http://jiwonkim.org/awesome-random-forest/): A
+  curated list of resources regarding tree-based methods and more, including
+  but not limited to random forest, bagging and boosting.
 
 ## Sonstiges
 * [Kaggle](https://www.kaggle.com/): Machine Learning Wettbewerbe
