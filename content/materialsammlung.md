@@ -41,6 +41,7 @@ tun.
 
 Listen:
 
+* [metacademy.org](https://www.metacademy.org/): A lot of material when you know what to look for
 * [computervisiononline.com](http://www.computervisiononline.com/datasets): Eine Liste sehr vieler Datensätze
 * [YACVID](http://riemenschneider.hayko.at/vision/dataset/): Computer Vision Index To Datasets
 * [dmoz.org](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/)
