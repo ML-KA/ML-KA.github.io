@@ -116,6 +116,7 @@ Materialien:
 * [What is the complexity of classification with SVMs?](http://cs.stackexchange.com/q/51144/2914)
 * [Can k-means clustering get shells as clusters?](http://datascience.stackexchange.com/q/9172/8820)
 * [Are all images in ImageNet in the leaves?](http://datascience.stackexchange.com/q/9073/8820)
+* [What is the difference between a (dynamic) Bayes network and a HMM?](http://datascience.stackexchange.com/q/10000/8820)
 
 
 ## Gemischtes
