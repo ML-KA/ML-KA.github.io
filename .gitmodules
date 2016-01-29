@@ -1,6 +1,3 @@
-[submodule "pelican-bootstrap3"]
-	path = pelican-bootstrap3
-	url = https://github.com/DandyDev/pelican-bootstrap3
 [submodule "pelican-toc"]
 	path = pelican-toc
 	url = https://github.com/ingwinlu/pelican-toc.git
@@ -13,3 +10,6 @@
 [submodule "simple_footnotes"]
 	path = simple_footnotes
 	url = https://github.com/MartinThoma/simple_footnotes
+[submodule "pelican-bootstrap3"]
+	path = pelican-bootstrap3
+	url = https://github.com/MartinThoma/pelican-bootstrap3.git
