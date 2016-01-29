@@ -42,11 +42,10 @@ sowie [ein paar weitere Bilder](https://github.com/MartinThoma/seminar-art-in-ma
 
 ### AlphaGo
 
-Google hat eine Go engine namens AlphaGo entworfen. Diese soll den europäischen
+Google hat eine Go-Engine namens AlphaGo entworfen. Diese soll den europäischen
 Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.
 
-Erstaunlich ist, dass man die Go-Engine von Facebook ([Link](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)) nicht
-mal erwähnt.
+Erstaunlich ist, dass man die Go-Engine von Facebook ([Link](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)) nicht mal erwähnt.
 
 Quellen und Materialien:
 
@@ -59,9 +58,7 @@ Quellen und Materialien:
 
 ### Deep Residual Networks
 
-Microsoft hat mit einem besonders tiefen neuronalen Netzwerk die Microsoft
-Common Objects in Context (MS COCO) Challenge gewonnen. Das tiefste Netz hat
-1202 Schichten.
+Microsoft hat mit einem besonders tiefen neuronalen Netzwerk die Microsoft Common Objects in Context (MS COCO) Challenge gewonnen. Das tiefste Netz hat 1202 Schichten.
 
 Materialien:
 
@@ -75,7 +72,7 @@ Materialien:
 * Radford, Metz und Chintala: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434), 2015. Es ist auch [Code online](https://github.com/Newmu/dcgan_code) verfügbar.
 
 
-### Blog Artikel
+### Blog-Artikel
 
 * Martin Thoma, 19. Januar 2016: [Comparing Classifiers](https://martin-thoma.com/comparing-classifiers/): Ein kurzer Vergleich verschiedener Klassifikationsalgorithmen auf MNIST und IRIS.
 * Martin Thoma, 18. Januar 2016: [Function Approximation](https://martin-thoma.com/function-approximation/): Ein sehr kurzes Beispiel, wie man mit gausschen Prozessen Funktionen approximinieren kann.
@@ -85,18 +82,18 @@ Materialien:
 * Mike Schroepfer, 3. November 2015: [Teaching machines to see and understand: Advances in AI research](https://code.facebook.com/posts/1478523512478471)
 * Kyle Hill, 22. Juli 2015: [What happens when artificial intellicence makes Magic: The Gathering cards](http://nerdist.com/what-happens-when-artificial-intelligence-makes-magic-the-gathering-cards/)
 * Yarin Gal, 3. Juli 2015, [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html): Wie kann man die Unsicherheit eines Modells quantifizieren?
-* Andrej Karpathy, 21. Mai 2015, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Eine Einführung in RNNs. <b>Sehr Empfehlenswert</b>. Eine etwas technischere, aber auch sehr gute Einführung ist auf [colah.github.io](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Andrej Karpathy, 21. Mai 2015, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Eine Einführung in RNNs. **Sehr Empfehlenswert**. Eine etwas technischere, aber auch sehr gute Einführung ist auf [colah.github.io](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * Stephanie Yee und Tony Chu: [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
 ## Software
 <!-- e.g. Theano, Keras, ... -->
 
-* Microsoft veröffentlich das hauseigene Deep Learning Toolkit CNTK ([Quelle](http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/))
+* Microsoft veröffentlicht das hauseigene Deep Learning-Toolkit CNTK ([Quelle](http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/))
 * [Reinforcement Learning using Tensor Flow](https://github.com/nivwusquorum/tensorflow-deepq)
 
 
-## Interesting Questions
+## Interessante Fragen
 <!-- For example StackExchange -->
 
 * Neural Networks
@@ -127,12 +124,12 @@ Materialien:
 * Auf [drivendata.org](http://www.drivendata.org/) und [kaggle.com](http://kaggle.com/) gibt es regelmäßig Wettbewerbe.
 * Auf [robotart.org](http://robotart.org/) gibt es für 2016 einen Wettbewerb.
 
-## Classic Works
+## Klassische Werke
 <!--  -->
 
-Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie spüren. Oder aber einfach nur ein Gespür dafür bekommen was sich in den letzten Jahren, Jahrzehnten so alles getan hat im Bereich Machine Learning. Das soll Sinn und Zweck dieses Abschnitts sein.
+Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie spüren, oder aber einfach nur ein Gespür dafür bekommen, was sich in den letzten Jahren und Jahrzehnten so alles getan hat im Bereich Machine Learning - das soll Sinn und Zweck dieses Abschnitts sein.
 
-Dieses mal zum Thema HMM und deren Anwendung in Spracherkennung:
+Dieses mal zum Thema HMM und deren Anwendung in der Spracherkennung:
 
 [Rabiner, Lawrence R.](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/) 
 *"A tutorial on hidden Markov models and selected applications in speech recognition."* 
