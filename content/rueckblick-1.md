@@ -127,6 +127,16 @@ Materialien:
 * Auf [drivendata.org](http://www.drivendata.org/) und [kaggle.com](http://kaggle.com/) gibt es regelmäßig Wettbewerbe.
 * Auf [robotart.org](http://robotart.org/) gibt es für 2016 einen Wettbewerb.
 
+## Classic Works
+<!--  -->
+
+Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie spüren. Oder aber einfach nur ein Gespür dafür bekommen was sich in den letzten Jahren, Jahrzehnten so alles getan hat im Bereich Machine Learning. Das soll Sinn und Zweck dieses Abschnitts sein.
+
+Dieses mal zum Thema HMM und deren Anwendung in Spracherkennung:
+
+[Rabiner, Lawrence R.](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/) 
+*"A tutorial on hidden Markov models and selected applications in speech recognition."* 
+Proceedings of the IEEE 77.2 (1989): 257-286. [DOI: 10.1109/5.18626](http://dx.doi.org/10.1109/5.18626)
 
 ## Interna
 <!-- About ML-KA itself; can also be a link to posts on this website -->
