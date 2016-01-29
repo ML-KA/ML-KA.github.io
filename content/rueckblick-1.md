@@ -85,7 +85,7 @@ Materialien:
 * Mike Schroepfer, 3. November 2015: [Teaching machines to see and understand: Advances in AI research](https://code.facebook.com/posts/1478523512478471)
 * Kyle Hill, 22. Juli 2015: [What happens when artificial intellicence makes Magic: The Gathering cards](http://nerdist.com/what-happens-when-artificial-intelligence-makes-magic-the-gathering-cards/)
 * Yarin Gal, 3. Juli 2015, [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html): Wie kann man die Unsicherheit eines Modells quantifizieren?
-* Andrej Karpathy, 21. Mai 2015, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Eine Einführung in RNNs. <b>Sehr Empfehlenswert</b>
+* Andrej Karpathy, 21. Mai 2015, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Eine Einführung in RNNs. <b>Sehr Empfehlenswert</b>. Eine etwas technischere, aber auch sehr gute Einführung ist auf [colah.github.io](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * Stephanie Yee und Tony Chu: [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
