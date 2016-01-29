@@ -7,15 +7,57 @@ Authors: Martin Thoma
 This article is a list of lectures at KIT which are related to machine
 learning.
 
+
 ## Machine Learning Techniques
 
-| Title                                    | Short   | Lecturer                              | ECTS | SWS |
-| ---------------------------------------- | ------- | ------------------------------------- | ---- | --- |
-| Neuronale Netze                          | [24642] | Prof. Dr. Waibel                      | 6    | 4   |
-| Maschinelles Lernen 1                    | [24150] | Prof. Dr. Zöllner, Prof. Dr. Dillmann | 3    | 2   |
-| Maschinelles Lernen 2                    | [24620] | Prof. Dr. Zöllner, Prof. Dr. Dillmann | 3    | 2   |
-| Mustererkennung                          | [24675] | Prof. Dr. Beyerer                     | 3    | 2   |
-| Analysetechniken für große Datenbestände | [24114] | Prof. Dr. Böhm                        | 5    | 2+1 |
+<table>
+<thead>
+    <tr>
+        <th>Title</th>
+        <th>Short</th>
+        <th>Lecturer</th>
+        <th>ECTS</th>
+        <th>SWS</th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td><a href="https://martin-thoma.com/neuronale-netze-vorlesung/">Neuronale Netze</a></td>
+    <td> [24642] </td>
+    <td>Prof. Dr. Waibel</td>
+    <td>6</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td><a href="https://martin-thoma.com/machine-learning-1-course/">Maschinelles Lernen 1</a></td>
+    <td>[24150]</td>
+    <td>Prof. Dr. Zöllner, Prof. Dr. Dillmann </td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td><a href="https://martin-thoma.com/machine-learning-2-course/">Maschinelles Lernen 2</a></td>
+    <td>[24620]</td>
+    <td>Prof. Dr. Zöllner, Prof. Dr. Dillmann </td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td><a href="https://martin-thoma.com/mustererkennung-klausur/">Mustererkennung</a></td>
+    <td>[24675]</td>
+    <td>Prof. Dr. Beyerer</td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>Analysetechniken für große Datenbestände </td>
+    <td>[24114]</td>
+    <td>Prof. Dr. Böhm</td>
+    <td>5</td>
+    <td>2+1</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Applications
