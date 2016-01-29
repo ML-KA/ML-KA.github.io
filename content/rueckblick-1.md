@@ -99,22 +99,23 @@ Materialien:
 ## Interesting Questions
 <!-- For example StackExchange -->
 
+* Neural Networks
+  * [How important is ECC for Neural Networks?](https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4)
+  * [Is it only more computing power why we can now train deeper networks?](https://www.reddit.com/r/MachineLearning/comments/42gipr/is_it_only_more_computing_power_why_we_can_now/)
+  * [How exactly does adding a new unit work in Cascade Correlation?](http://datascience.stackexchange.com/q/9672/8820)
+  * [The cross-entropy error function in neural networks](http://datascience.stackexchange.com/q/9302/8820)
+  * [Can the size of a pooling layer be learned?](http://datascience.stackexchange.com/q/8855/8820)
+  * [(Why) do activation functions have to be monotonic?](http://datascience.stackexchange.com/q/9233/8820)
+  * [How do subsequent convolution layers work?](http://datascience.stackexchange.com/q/9175/8820)
 * [What are the limitations of linear regression + feature / label transformation?](http://math.stackexchange.com/q/1626052/6876)
-* [Is it only more computing power why we can now train deeper networks?](https://www.reddit.com/r/MachineLearning/comments/42gipr/is_it_only_more_computing_power_why_we_can_now/)
-* [How exactly does adding a new unit work in Cascade Correlation?](http://datascience.stackexchange.com/q/9672/8820)
 * [How is a digit recognizer trained when using a Markov Random Field?](http://stackoverflow.com/q/34648517/562769)
 * Nomenclature
   * [What is the difference between 'features' and 'descriptors' in computer vision / machine learning?](http://cs.stackexchange.com/q/51373/2914)
   * [Is there a difference between “classification” and “labeling”?](http://datascience.stackexchange.com/q/9074/8820)
   * [What is “semantic segmentation” compared to “segmentation” and “scene labeling”?](http://stackoverflow.com/q/33947823/562769)
 * [What is the complexity of classification with SVMs?](http://cs.stackexchange.com/q/51144/2914)
-* [The cross-entropy error function in neural networks](http://datascience.stackexchange.com/q/9302/8820)
-* [(Why) do activation functions have to be monotonic?](http://datascience.stackexchange.com/q/9233/8820)
-* [How do subsequent convolution layers work?](http://datascience.stackexchange.com/q/9175/8820)
 * [Can k-means clustering get shells as clusters?](http://datascience.stackexchange.com/q/9172/8820)
 * [Are all images in ImageNet in the leaves?](http://datascience.stackexchange.com/q/9073/8820)
-* [How important is ECC for Neural Networks?](https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4)
-* [Can the size of a pooling layer be learned?](http://datascience.stackexchange.com/q/8855/8820)
 
 
 ## Gemischtes
