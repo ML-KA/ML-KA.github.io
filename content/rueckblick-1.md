@@ -150,13 +150,12 @@ Bisher wurden folgende Paper besprochen:
 1. Stanford: [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 2. Krizhevsky, Sutskever und Hinton: [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf), 2012. ("AlexNet")
 3. Szegedy et al: [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842), 2014. ("GoogLeNet")
-4. ?
-5. Sermanet et al: [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](http://arxiv.org/abs/1312.6229), 2013.
-6. Nochmals OverFeat
-7. ?
-8. Long, Shelhamer und Darrell: [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038), 2014
-9. ?
-10. He, Zhang, Ren und Sun: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
+4. Sermanet et al: [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](http://arxiv.org/abs/1312.6229), 2013.
+5. Nochmals OverFeat
+6. Long, Shelhamer und Darrell: [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038), 2014
+7. Olah: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+8. Mnih, Heess, Graves, Kavukcuoglu: [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247)
+9. He, Zhang, Ren und Sun: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
 
 
 Mehr Informationen finden sich auf der
