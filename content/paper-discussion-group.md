@@ -28,6 +28,7 @@ Klassifikation.
 4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
    Image Segmentation, *Vijay Badrinarayanan et. al* (**ArXiv 2015**)
 
+
 # Weitere Literatur zu CNNs und Deep-Learning
 Einsteigern empfehle ich das [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)der Universität Stanford.
 
@@ -229,7 +230,10 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
     * [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) (Soft attention)
 * [How transferable are features in deep neural networks](http://arxiv.org/abs/1411.1792)
-*  - 4096 Schichten
+* Knowledge transfer
+    * [DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets](http://arxiv.org/abs/1504.04871)
+    * [Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions](http://arxiv.org/abs/1506.00511)
+    * [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791)
 
 
 ## Vorbereitung
