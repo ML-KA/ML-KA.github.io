@@ -1,5 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="//ml-ka.github.io/ml-ruckblick-1/" rel="alternate"></link><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
+&lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
+&lt;!-- Trends --&gt;
+&lt;h3 id="kogsys-demo"&gt;KogSys Demo&lt;/h3&gt;
+&lt;p&gt;Auf &lt;a href="http://phiresky.github.io/kogsys-demos/"&gt;phiresky.github.io/kogsys-demos&lt;/a&gt;
+k&amp;ouml;nnt ihr euch schnell mal selbst kleine Netzwerke und Datens&amp;auml;tze
+zusammenklicken. Dann k&amp;ouml;nnt ihr beobachten, wie sich die Klassifikationsgrenzen
+&amp;auml;ndern.&lt;/p&gt;
+&lt;figure style="display:table;margin: 0 auto 0.55em;"&gt;
+&lt;a href="//ml-ka.github.io/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Interaktive Demo eines neuronalen Netzwerks&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id="howhot"&gt;HowHot&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://howhot.io/"&gt;howhot.io&lt;/a&gt; ist eine Website, auf welcher man Fotos
+hochladen kann. Das Programm findet dann ein Gesicht, kategorisiert in
+"m&amp;auml;nnlich" oder "weiblich", sch&amp;auml;tzt das Alter und die Attraktivit&amp;auml;t. Es gab
+ein paar lustige Ergebnisse (siehe &lt;a href="https://www.reddit.com/r/howhot/"&gt;Reddit&lt;/a&gt;
+sowie &lt;a href="https://github.com/MartinThoma/seminar-art-in-machine-learning/tree/master/figures/eth-faces"&gt;ein paar weitere Bilder&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id="weitere"&gt;Weitere&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://memorability.csail.mit.edu/"&gt;Large-scale Image Memorability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="publications_1"&gt;Publications&lt;/h2&gt;
+&lt;!-- e.g. arXiv --&gt;
+&lt;h3 id="alphago"&gt;AlphaGo&lt;/h3&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/go-game.png" style="float:right;" width="256"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Go ist ein Brettspiel f&amp;uuml;r zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19&amp;times;19 Feld gelegt werden.&lt;br/&gt;
+Bildquelle: &lt;a href="https://commons.wikimedia.org/wiki/File:Go_Regeln_3.png"&gt;Wikipedia Commons&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/figure&gt;
+&lt;p&gt;Google hat eine Go-Engine namens AlphaGo entworfen. Diese soll den europ&amp;auml;ischen
+Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p&gt;
+&lt;p&gt;Erstaunlich ist, dass man die Go-Engine von Facebook (&lt;a href="http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/?utm_campaign=socialsync&amp;amp;utm_medium=social-post&amp;amp;utm_source=facebook"&gt;Link&lt;/a&gt;) nicht mal erw&amp;auml;hnt.&lt;/p&gt;
+&lt;p&gt;Quellen und Materialien:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.technologyreview.com/news/546066/googles-ai-masters-the-game-of-go-a-decade-earlier-than-expected/"&gt;technologyreview.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://googleblog.blogspot.de/2016/01/alphago-machine-learning-game-go.html"&gt;Google Blog Artikel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html"&gt;Nature Artikel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=g-dKXOlsf98"&gt;Nature Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paper: &lt;a href="https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf"&gt;Mastering the Game of Go with Deep Neural Networks and Tree Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="deep-residual-networks"&gt;Deep Residual Networks&lt;/h3&gt;
+&lt;p&gt;Microsoft hat mit einem besonders tiefen neuronalen Netzwerk die Microsoft Common Objects in Context (MS COCO) Challenge gewonnen. Das tiefste Netz hat 1202 Schichten.&lt;/p&gt;
+&lt;p&gt;Materialien:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper: &lt;a href="http://arxiv.org/abs/1512.03385v1"&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Blog: &lt;a href="http://blogs.microsoft.com/next/2015/12/10/microsoft-researchers-win-imagenet-computer-vision-challenge/"&gt;Microsoft researchers win ImageNet computer vision challenge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="weitere_1"&gt;Weitere&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thoma: &lt;a href="http://arxiv.org/abs/1601.03642"&gt;Creativity in Machine Learning&lt;/a&gt;, 2016.&lt;/li&gt;
+&lt;li&gt;Radford, Metz und Chintala: &lt;a href="http://arxiv.org/abs/1511.06434"&gt;Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks&lt;/a&gt;, 2015. Es ist auch &lt;a href="https://github.com/Newmu/dcgan_code"&gt;Code online&lt;/a&gt; verf&amp;uuml;gbar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="blog-artikel"&gt;Blog-Artikel&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Martin Thoma, 19. Januar 2016: &lt;a href="https://martin-thoma.com/comparing-classifiers/"&gt;Comparing Classifiers&lt;/a&gt;: Ein kurzer Vergleich verschiedener Klassifikationsalgorithmen auf MNIST und IRIS.&lt;/li&gt;
+&lt;li&gt;Martin Thoma, 18. Januar 2016: &lt;a href="https://martin-thoma.com/function-approximation/"&gt;Function Approximation&lt;/a&gt;: Ein sehr kurzes Beispiel, wie man mit gausschen Prozessen Funktionen approximinieren kann.&lt;/li&gt;
+&lt;li&gt;Zach Dwiel, 15. Januar 2016, &lt;a href="https://github.com/zer0n/deepframeworks/blob/master/README.md"&gt;Evaluation of Deep Learning Toolkits&lt;/a&gt;: Ein sch&amp;ouml;ner Vergleich zwischen TensorFlow, CNTK, Theano, Torch und Caffe.&lt;/li&gt;
+&lt;li&gt;Abhinav kumar Gupta, 30. November 2015: &lt;a href="https://www.linkedin.com/pulse/intelligent-photo-ocr-reads-better-than-you-abhinav-kumar-gupta?trk=pulse_spock-articles"&gt;Intelligent Photo OCR that reads better than you (Or not)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;November 2015: &lt;a href="http://www.technologyreview.com/view/543486/single-artificial-neuron-taught-to-recognize-hundreds-of-patterns/?utm_campaign=socialsync&amp;amp;utm_medium=social-post&amp;amp;utm_source=facebook"&gt;Single Artificial Neuron Taught to Recognize Hundreds of Patterns&lt;/a&gt; (&lt;a href="http://arxiv.org/abs/1511.00083"&gt;arxiv&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Mike Schroepfer, 3. November 2015: &lt;a href="https://code.facebook.com/posts/1478523512478471"&gt;Teaching machines to see and understand: Advances in AI research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kyle Hill, 22. Juli 2015: &lt;a href="http://nerdist.com/what-happens-when-artificial-intelligence-makes-magic-the-gathering-cards/"&gt;What happens when artificial intellicence makes Magic: The Gathering cards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yarin Gal, 3. Juli 2015, &lt;a href="http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html"&gt;What My Deep Model Doesn't Know...&lt;/a&gt;: Wie kann man die Unsicherheit eines Modells quantifizieren?&lt;/li&gt;
+&lt;li&gt;Andrej Karpathy, 21. Mai 2015, &lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;: Eine Einf&amp;uuml;hrung in RNNs. &lt;strong&gt;Sehr Empfehlenswert&lt;/strong&gt;. Eine etwas technischere, aber auch sehr gute Einf&amp;uuml;hrung ist auf &lt;a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/"&gt;colah.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stephanie Yee und Tony Chu: &lt;a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"&gt;A Visual Introduction to Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="software_1"&gt;Software&lt;/h2&gt;
+&lt;!-- e.g. Theano, Keras, ... --&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft ver&amp;ouml;ffentlicht das hauseigene Deep Learning-Toolkit CNTK (&lt;a href="http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/"&gt;Quelle&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nivwusquorum/tensorflow-deepq"&gt;Reinforcement Learning using Tensor Flow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="interessante-fragen"&gt;Interessante Fragen&lt;/h2&gt;
+&lt;!-- For example StackExchange --&gt;
+&lt;ul&gt;
+&lt;li&gt;Neural Networks&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4"&gt;How important is ECC for Neural Networks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/42gipr/is_it_only_more_computing_power_why_we_can_now/"&gt;Is it only more computing power why we can now train deeper networks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9672/8820"&gt;How exactly does adding a new unit work in Cascade Correlation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9302/8820"&gt;The cross-entropy error function in neural networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/8855/8820"&gt;Can the size of a pooling layer be learned?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9233/8820"&gt;(Why) do activation functions have to be monotonic?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9175/8820"&gt;How do subsequent convolution layers work?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://math.stackexchange.com/q/1626052/6876"&gt;What are the limitations of linear regression + feature / label transformation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stackoverflow.com/q/34648517/562769"&gt;How is a digit recognizer trained when using a Markov Random Field?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nomenclature&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://cs.stackexchange.com/q/51373/2914"&gt;What is the difference between 'features' and 'descriptors' in computer vision / machine learning?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9074/8820"&gt;Is there a difference between &amp;ldquo;classification&amp;rdquo; and &amp;ldquo;labeling&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stackoverflow.com/q/33947823/562769"&gt;What is &amp;ldquo;semantic segmentation&amp;rdquo; compared to &amp;ldquo;segmentation&amp;rdquo; and &amp;ldquo;scene labeling&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cs.stackexchange.com/q/51144/2914"&gt;What is the complexity of classification with SVMs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9172/8820"&gt;Can k-means clustering get shells as clusters?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9073/8820"&gt;Are all images in ImageNet in the leaves?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/10000/8820"&gt;What is the difference between a (dynamic) Bayes network and a HMM?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="gemischtes"&gt;Gemischtes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Udacity: &lt;a href="https://www.udacity.com/course/deep-learning--ud730"&gt;Deep Learning - Taking machine learning to the next level&lt;/a&gt;. Ein Deep Learning Kurs von Google.&lt;/li&gt;
+&lt;li&gt;Quentin de Laroussilhe: &lt;a href="https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p"&gt;Introduction to machine Learning&lt;/a&gt;. Eine sehr kurze Einf&amp;uuml;hrung in das maschinelle Lernen.&lt;/li&gt;
+&lt;li&gt;Daniel Povey: &lt;a href="https://plus.google.com/113952791760990667476/posts/9Hiib9UgUeK"&gt;Why simple CNNs with 1x1 kernels may be viewable as learned many-to-many nonlinearities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Auf &lt;a href="http://www.drivendata.org/"&gt;drivendata.org&lt;/a&gt; und &lt;a href="http://kaggle.com/"&gt;kaggle.com&lt;/a&gt; gibt es regelm&amp;auml;&amp;szlig;ig Wettbewerbe.&lt;/li&gt;
+&lt;li&gt;Auf &lt;a href="http://robotart.org/"&gt;robotart.org&lt;/a&gt; gibt es f&amp;uuml;r 2016 einen Wettbewerb.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="klassische-werke"&gt;Klassische Werke&lt;/h2&gt;
+&lt;!-- --&gt;
+&lt;p&gt;Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie sp&amp;uuml;ren, oder aber einfach nur ein Gesp&amp;uuml;r daf&amp;uuml;r bekommen, was sich in den letzten Jahren und Jahrzehnten so alles getan hat im Bereich Machine Learning - das soll Sinn und Zweck dieses Abschnitts sein.&lt;/p&gt;
+&lt;p&gt;Dieses mal zum Thema HMM und deren Anwendung in der Spracherkennung:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/"&gt;Rabiner, Lawrence R.&lt;/a&gt;
+&lt;em&gt;"A tutorial on hidden Markov models and selected applications in speech recognition."&lt;/em&gt;
+Proceedings of the IEEE 77.2 (1989): 257-286. &lt;a href="http://dx.doi.org/10.1109/5.18626"&gt;DOI: 10.1109/5.18626&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="interna"&gt;Interna&lt;/h2&gt;
+&lt;!-- About ML-KA itself; can also be a link to posts on this website --&gt;
+&lt;h3 id="ag-dank"&gt;AG DANK&lt;/h3&gt;
+&lt;p&gt;In der DANK-Projektgruppe dreht sich alles um Datenanalyse, Data Mining und nat&amp;uuml;rlich - um Machine Learning. Im Oktober 2015, also gleich zum offiziellen Start unserer Hochschulgruppe haben wir diese Untergruppe ins Leben gerufen. Unser erstes Ziel war die Teilnahme bei dem Datenanalyse-Wettbewerb auf der Herbstagung der Arbeitsgruppe Datenanalyse und Numerische Klassifikation (AG DANK) - daher kommt auch der Name. Die Aufgabe war die Analyse von einer Million Autokonfigurationen, die von Nutzern des Online-Autokonfigurators eines gro&amp;szlig;en deutschen Autobauers erstellt wurden.&lt;br/&gt;
+Im November 2015 pr&amp;auml;sentierte unser sechsk&amp;ouml;pfiges Team die erarbeiteten Ergebnisse auf der AG DANK Herbsttagung - dabei konnten wir auch gleich unseren ersten Erfolg verbuchen und einen Preis gewinnen.&lt;/p&gt;
+&lt;p&gt;Unterst&amp;uuml;tzt durch Prof. Geyer-Schulz (KIT) arbeiten wir nun seit Dezember 2015 an einer noch umfangreicheren Analyse des Datensatzes. Zentrale Themen dabei sind Kundensegmentierung, Conjoint-Analyse und das Lernen von Nutzerverhalten.&lt;br/&gt;
+In diesem Zusammenhang arbeiten wir an unserem ersten Paper mit dem Titel "Mining consumer-generated product-configuration data", welches wir auf der DAGStat 2016 (14.-18.03.) an der Uni G&amp;ouml;ttingen pr&amp;auml;sentieren werden.&lt;/p&gt;
+&lt;h3 id="paper-discussion-group"&gt;Paper Discussion Group&lt;/h3&gt;
+&lt;p&gt;Die Paper Discussion Group (PDG) wurde ins Leben gerufen um gemeinsam
+wissenschaftliche Ver&amp;ouml;ffentlichungen zu besprechen. Der Gedanke ist, dass man
+mehr aus den Ver&amp;ouml;ffentlichungen mitnimmt, wenn man es nicht nur alleine liest,
+sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskutiert.&lt;/p&gt;
+&lt;p&gt;Bisher wurden folgende Paper besprochen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stanford: &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Krizhevsky, Sutskever und Hinton: &lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;ImageNet Classification with Deep Convolutional Neural Networks&lt;/a&gt;, 2012. ("AlexNet")&lt;/li&gt;
+&lt;li&gt;Szegedy et al: &lt;a href="http://arxiv.org/abs/1409.4842"&gt;Going Deeper with Convolutions&lt;/a&gt;, 2014. ("GoogLeNet")&lt;/li&gt;
+&lt;li&gt;Sermanet et al: &lt;a href="http://arxiv.org/abs/1312.6229"&gt;OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks&lt;/a&gt;, 2013.&lt;/li&gt;
+&lt;li&gt;Nochmals OverFeat&lt;/li&gt;
+&lt;li&gt;Long, Shelhamer und Darrell: &lt;a href="http://arxiv.org/abs/1411.4038"&gt;Fully Convolutional Networks for Semantic Segmentation&lt;/a&gt;, 2014&lt;/li&gt;
+&lt;li&gt;Olah: &lt;a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/"&gt;Understanding LSTM Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mnih, Heess, Graves, Kavukcuoglu: &lt;a href="http://arxiv.org/abs/1406.6247"&gt;Recurrent Models of Visual Attention&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;He, Zhang, Ren und Sun: &lt;a href="http://arxiv.org/abs/1512.03385"&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mehr Informationen finden sich auf der
+&lt;a href="../paper-discussion-group/"&gt;Projektseite&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="meetings_1"&gt;Meetings&lt;/h2&gt;
+&lt;!-- ML-KA meetings, but not only --&gt;
+&lt;ul&gt;
+&lt;li&gt;Boston, 12. Mai 2016: Deep Learning Summit (&lt;a href="https://www.re-work.co/events/deep-learning-boston-2016"&gt;Link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;M&amp;uuml;nchen, 7. Oktober 2015: Deep Learning in Action #3 (&lt;a href="http://www.meetup.com/de-DE/deeplearning/events/225423302/?eventId=225423302"&gt;Link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
