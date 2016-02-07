@@ -4,7 +4,7 @@ Date: 2016-01-29 10:20
 Category: Allgemein
 Tags: Allgemein
 Authors: Martin Thoma
-Status: draft
+Status: published
 ---
 
 Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen
@@ -21,6 +21,11 @@ Auf [phiresky.github.io/kogsys-demos](http://phiresky.github.io/kogsys-demos/)
 könnt ihr euch schnell mal selbst kleine Netzwerke und Datensätze
 zusammenklicken. Dann könnt ihr beobachten, wie sich die Klassifikationsgrenzen
 ändern.
+
+<figure style="display:table;margin: 0 auto 0.55em;">
+<a href="{filename}/images/neural-network-kogsys-demo.png"><img align="middle"  width="512" src="{filename}/images/neural-network-kogsys-demo.png"></a>
+<figcaption style="display:table-caption;caption-side:bottom">Interaktive Demo eines neuronalen Netzwerks</figcaption>
+</figure>
 
 
 ### HowHot
@@ -41,6 +46,12 @@ sowie [ein paar weitere Bilder](https://github.com/MartinThoma/seminar-art-in-ma
 <!-- e.g. arXiv -->
 
 ### AlphaGo
+
+<figure style="display:table;float:right">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/go-game.png">
+<figcaption style="display:table-caption;caption-side:bottom">Go ist ein Brettspiel für zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19×19 Feld gelegt werden.<br/>
+Bildquelle: <a href="https://commons.wikimedia.org/wiki/File:Go_Regeln_3.png">Wikipedia Commons</a></figcaption>
+</figure>
 
 Google hat eine Go-Engine namens AlphaGo entworfen. Diese soll den europäischen
 Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.
@@ -97,19 +108,19 @@ Materialien:
 <!-- For example StackExchange -->
 
 * Neural Networks
-  * [How important is ECC for Neural Networks?](https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4)
-  * [Is it only more computing power why we can now train deeper networks?](https://www.reddit.com/r/MachineLearning/comments/42gipr/is_it_only_more_computing_power_why_we_can_now/)
-  * [How exactly does adding a new unit work in Cascade Correlation?](http://datascience.stackexchange.com/q/9672/8820)
-  * [The cross-entropy error function in neural networks](http://datascience.stackexchange.com/q/9302/8820)
-  * [Can the size of a pooling layer be learned?](http://datascience.stackexchange.com/q/8855/8820)
-  * [(Why) do activation functions have to be monotonic?](http://datascience.stackexchange.com/q/9233/8820)
-  * [How do subsequent convolution layers work?](http://datascience.stackexchange.com/q/9175/8820)
+    * [How important is ECC for Neural Networks?](https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4)
+    * [Is it only more computing power why we can now train deeper networks?](https://www.reddit.com/r/MachineLearning/comments/42gipr/is_it_only_more_computing_power_why_we_can_now/)
+    * [How exactly does adding a new unit work in Cascade Correlation?](http://datascience.stackexchange.com/q/9672/8820)
+    * [The cross-entropy error function in neural networks](http://datascience.stackexchange.com/q/9302/8820)
+    * [Can the size of a pooling layer be learned?](http://datascience.stackexchange.com/q/8855/8820)
+    * [(Why) do activation functions have to be monotonic?](http://datascience.stackexchange.com/q/9233/8820)
+    * [How do subsequent convolution layers work?](http://datascience.stackexchange.com/q/9175/8820)
 * [What are the limitations of linear regression + feature / label transformation?](http://math.stackexchange.com/q/1626052/6876)
 * [How is a digit recognizer trained when using a Markov Random Field?](http://stackoverflow.com/q/34648517/562769)
 * Nomenclature
-  * [What is the difference between 'features' and 'descriptors' in computer vision / machine learning?](http://cs.stackexchange.com/q/51373/2914)
-  * [Is there a difference between “classification” and “labeling”?](http://datascience.stackexchange.com/q/9074/8820)
-  * [What is “semantic segmentation” compared to “segmentation” and “scene labeling”?](http://stackoverflow.com/q/33947823/562769)
+    * [What is the difference between 'features' and 'descriptors' in computer vision / machine learning?](http://cs.stackexchange.com/q/51373/2914)
+    * [Is there a difference between “classification” and “labeling”?](http://datascience.stackexchange.com/q/9074/8820)
+    * [What is “semantic segmentation” compared to “segmentation” and “scene labeling”?](http://stackoverflow.com/q/33947823/562769)
 * [What is the complexity of classification with SVMs?](http://cs.stackexchange.com/q/51144/2914)
 * [Can k-means clustering get shells as clusters?](http://datascience.stackexchange.com/q/9172/8820)
 * [Are all images in ImageNet in the leaves?](http://datascience.stackexchange.com/q/9073/8820)
@@ -118,8 +129,8 @@ Materialien:
 
 ## Gemischtes
 
-* Auf Udacity gibt es nun einen Deep Learning Kurs von Google ([Link](https://www.udacity.com/course/deep-learning--ud730))
-* Quentin de Laroussilhe: [Introduction to machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p). Eine sehr kurze Einführung.
+* Udacity: [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730). Ein Deep Learning Kurs von Google.
+* Quentin de Laroussilhe: [Introduction to machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p). Eine sehr kurze Einführung in das maschinelle Lernen.
 * Daniel Povey: [Why simple CNNs with 1x1 kernels may be viewable as learned many-to-many nonlinearities](https://plus.google.com/113952791760990667476/posts/9Hiib9UgUeK).
 * Auf [drivendata.org](http://www.drivendata.org/) und [kaggle.com](http://kaggle.com/) gibt es regelmäßig Wettbewerbe.
 * Auf [robotart.org](http://robotart.org/) gibt es für 2016 einen Wettbewerb.
@@ -131,12 +142,21 @@ Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie spüren, ode
 
 Dieses mal zum Thema HMM und deren Anwendung in der Spracherkennung:
 
-[Rabiner, Lawrence R.](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/) 
-*"A tutorial on hidden Markov models and selected applications in speech recognition."* 
+[Rabiner, Lawrence R.](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/)
+*"A tutorial on hidden Markov models and selected applications in speech recognition."*
 Proceedings of the IEEE 77.2 (1989): 257-286. [DOI: 10.1109/5.18626](http://dx.doi.org/10.1109/5.18626)
 
 ## Interna
 <!-- About ML-KA itself; can also be a link to posts on this website -->
+
+### AG DANK
+
+In der DANK-Projektgruppe dreht sich alles um Datenanalyse, Data Mining und natürlich - um Machine Learning. Im Oktober 2015, also gleich zum offiziellen Start unserer Hochschulgruppe haben wir diese Untergruppe ins Leben gerufen. Unser erstes Ziel war die Teilnahme bei dem Datenanalyse-Wettbewerb auf der Herbstagung der Arbeitsgruppe Datenanalyse und Numerische Klassifikation (AG DANK) - daher kommt auch der Name. Die Aufgabe war die Analyse von einer Million Autokonfigurationen, die von Nutzern des Online-Autokonfigurators eines großen deutschen Autobauers erstellt wurden.<br/>
+Im November 2015 präsentierte unser sechsköpfiges Team die erarbeiteten Ergebnisse auf der AG DANK Herbsttagung - dabei konnten wir auch gleich unseren ersten Erfolg verbuchen und einen Preis gewinnen.
+
+Unterstützt durch Prof. Geyer-Schulz (KIT) arbeiten wir nun seit Dezember 2015 an einer noch umfangreicheren Analyse des Datensatzes. Zentrale Themen dabei sind Kundensegmentierung, Conjoint-Analyse und das Lernen von Nutzerverhalten.<br/>
+In diesem Zusammenhang arbeiten wir an unserem ersten Paper mit dem Titel "Mining consumer-generated product-configuration data", welches wir auf der DAGStat 2016 (14.-18.03.) an der Uni Göttingen präsentieren werden.
+
 
 ### Paper Discussion Group
 
