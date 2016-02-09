@@ -17,7 +17,7 @@ Rückblick in der Welt des maschinellen Lernens passiert ist.
 
 ### KogSys Demo
 
-Auf [phiresky.github.io/kogsys-demos](http://phiresky.github.io/kogsys-demos/)
+Auf [phiresky.github.io/neural-network-demo](https://phiresky.github.io/neural-network-demo/)
 könnt ihr euch schnell mal selbst kleine Netzwerke und Datensätze
 zusammenklicken. Dann könnt ihr beobachten, wie sich die Klassifikationsgrenzen
 ändern.
