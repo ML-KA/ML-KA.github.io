@@ -20,6 +20,7 @@ tun.
 ## Bücher
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* Ian Goodfellow, Yoshua Bengio, and Aaron Courville: [Deep Learning](http://www.deeplearningbook.org/)
 
 ## MOOCs
 
