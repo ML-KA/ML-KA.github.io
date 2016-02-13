@@ -792,6 +792,7 @@ tun.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://caffe.berkeleyvision.org/"&gt;Caffe&lt;/a&gt;: C++ and Python, supports nVidia GPU training of neural networks&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/Lasagne/Lasagne"&gt;Lasagne&lt;/a&gt;: Python, supports nVidia GPU training of neural networks&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://scikit-learn.org/stable/"&gt;sklearn&lt;/a&gt;: Python Machine learning toolkit&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tensorflow.org/"&gt;TensorFlow&lt;/a&gt;: C++ and Python, supports nVidia GPU training of neural networks&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="datensatze"&gt;Datens&amp;auml;tze&lt;/h2&gt;
 &lt;ul&gt;
