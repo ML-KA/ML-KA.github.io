@@ -29,10 +29,13 @@ tun.
 * [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/): Kurs der Universität Oxford
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): Kurs von Stanford
 
+
 ## Tools
 * [Caffe](http://caffe.berkeleyvision.org/): C++ and Python, supports nVidia GPU training of neural networks
 * [Lasagne](https://github.com/Lasagne/Lasagne): Python, supports nVidia GPU training of neural networks
 * [sklearn](http://scikit-learn.org/stable/): Python Machine learning toolkit
+* [TensorFlow](https://www.tensorflow.org/): C++ and Python, supports nVidia GPU training of neural networks
+
 
 ## Datensätze
 * [MNIST](http://yann.lecun.com/exdb/mnist/): 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)
