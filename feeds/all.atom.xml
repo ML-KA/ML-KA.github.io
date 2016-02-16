@@ -155,15 +155,6 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="neuntes-treffen"&gt;Neuntes Treffen&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Datum: 03.02.2016, 17:30&lt;/li&gt;
-&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1512.03385"&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experte: Martin&amp;nbsp;Thoma&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
-bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.&lt;/p&gt;
@@ -356,6 +347,15 @@ Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id="neuntes-treffen"&gt;Neuntes Treffen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: 03.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1512.03385"&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Martin&amp;nbsp;Thoma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
+bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;h2 id="vorbereitung_6"&gt;Vorbereitung&lt;/h2&gt;
 &lt;p&gt;Lest bitte im Vorfeld das folgende Paper:&lt;/p&gt;
 &lt;ol&gt;
