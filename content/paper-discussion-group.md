@@ -5,15 +5,13 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
 
-# Neuntes Treffen
+# Zehntes Treffen
 
-* Datum: 03.02.2016, 17:30
+* Datum: 17.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
-* Experte: Martin&nbsp;Thoma
+* Thema: [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/pdf/1505.05192v3.pdf)
+* Experte: Marvin&nbsp;Teichmann
 
-Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
-bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -234,6 +232,17 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
     * [DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets](http://arxiv.org/abs/1504.04871)
     * [Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions](http://arxiv.org/abs/1506.00511)
     * [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791)
+
+
+# Neuntes Treffen
+
+* Datum: 03.02.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
+* Experte: Martin&nbsp;Thoma
+
+Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
+bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 
 
 ## Vorbereitung
