@@ -5,7 +5,7 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
 
-# Zehntes Treffen
+# Zwölftes Treffen
 
 * Datum: 17.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
@@ -123,13 +123,13 @@ In diesem Treffen schauen wir uns *GoogLeNet* an. *GoogLeNet* basiert auf *AlexN
 Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.
 
 
-## Vorbereitung
+### Vorbereitung
 Beschäftigt euch bitte im Vorfeld mit folgender Quelle:
 
 1. [GoogLeNet](http://arxiv.org/abs/1409.4842)
 2. [Tensorflow Session Vorbereitung](http://ml-ka.de/training-your-first-neural-network/)
 
-## Praktisches Treffen
+## Viertes Treffen (Praktisches Treffen)
 
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="128" src="{filename}/images/tensorFlow.png">
@@ -156,7 +156,7 @@ Zur Vorbereitung tut bitte folgendes:
 4. Bearbeite [MNIST For ML Beginners](http://www.tensorflow.org/tutorials/mnist/beginners/index.html) tutorial
 5. Registriere bei Kaggle, und bearbeite [Digit Recognizer task](https://www.kaggle.com/c/digit-recognizer). Modifiziere dazu die Implementation von Schritt&nbsp;4
 
-# Fünftes Treffen
+## Fünftes Treffen
 
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="{filename}/images/woman_bb.png">
@@ -171,7 +171,7 @@ Lokalisierung eines Kopfes.</figcaption>
 
 Overfeat ermöglicht es Objecte (z.b. Autos) auf Bildern zu lokalisieren. Die Aufgabe ist es eine Bounding-Box um das zu Lokalisierende Objekt zu zeichnen.
 
-## Vorbereitung
+### Vorbereitung
 Beschäftigt euch im Vorfeld mit Overfeat:
 
 1. [Overfeat](http://arxiv.org/abs/1312.6229)
@@ -179,7 +179,7 @@ Beschäftigt euch im Vorfeld mit Overfeat:
 Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.
 
 
-# Sechstes Treffen
+## Sechstes Treffen
 
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="{filename}/images/arma.png">
@@ -194,12 +194,12 @@ Lokalisierung von Köpfen.</figcaption>
 
 Wir besprechen Sektion 4 und 5 von Overfeat.
 
-## Vorbereitung
+### Vorbereitung
 Beschäftigt euch im Vorfeld mit Overfeat:
 
 1. [Overfeat](http://arxiv.org/abs/1312.6229)
 
-# Siebtes Treffen
+## Siebtes Treffen
 
 <figure style="display:table;float:right">
 <img style="float:right;" align="middle"  width="256" src="{filename}/images/horse640_final.png">
@@ -214,8 +214,21 @@ Segmentierung eines Bildes.</figcaption>
 
 In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
 
+### Vorbereitung
+Lest bitte im Vorfeld das folgende Paper:
 
-# Achtes Treffen
+1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
+   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
+
+
+## Achtes Treffen
+
+* Datum: 20.01.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Experte: Leonard&nbsp;Lausen
+
+## Neuntes Treffen
 
 * Datum: 27.01.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
@@ -234,7 +247,7 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
     * [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791)
 
 
-# Neuntes Treffen
+## Zehntes Treffen
 
 * Datum: 03.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
@@ -244,10 +257,10 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
 Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
 bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 
+## Elftes Treffen
 
-## Vorbereitung
-Lest bitte im Vorfeld das folgende Paper:
-
-1. [Fully Convolutional Networks for Semantic Segmentation](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf),
-   *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
+* Datum: 10.02.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
+* Experte: Leonard&nbsp;Lausen
 
