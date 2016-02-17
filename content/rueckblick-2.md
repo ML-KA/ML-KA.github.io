@@ -38,6 +38,17 @@ Siehe auch:
 
 <!-- e.g. Theano, Keras, ... -->
 
+### Seaborn
+
+<figure style="display:table;margin: 0 auto 0.55em;">
+<a href="{filename}/images/seaborn_hexbin_marginals.png"><img align="middle"  width="512" src="{filename}/images/seaborn_hexbin_marginals.png"></a>
+<figcaption style="display:table-caption;caption-side:bottom">Interaktive Demo eines neuronalen Netzwerks</figcaption>
+</figure>
+
+Seaborn ist ein Python-Paket zur Visualisierung von Daten und Statistiken.
+
+Siehe [stanford.edu/~mwaskom/software/seaborn](http://stanford.edu/~mwaskom/software/seaborn/).
+
 
 ## Interesting Questions
 
@@ -53,3 +64,15 @@ Siehe auch:
 <!-- ML-KA meetings, but not only -->
 
 * London, 7. April 2016: Deep Learning in Healthcare Summit ([Link](https://re-work.co/events/deep-learning-health-london-2016))
+
+
+<div class="navigation clearfix">
+    <div class="alignleft">
+        <a href="http://ml-ka.de/ml-ruckblick-1/" rel="prev">« Vorheriger Rückblick</a>
+    </div>
+    <!--
+    <div class="alignright">
+        <a href="http://ml-ka.de/ml-ruckblick-1/" rel="prev">« Vorheriger Rückblick</a>
+    </div>
+    -->
+</div>

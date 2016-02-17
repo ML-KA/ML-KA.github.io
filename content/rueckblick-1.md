@@ -187,3 +187,11 @@ Mehr Informationen finden sich auf der
 
 * Boston, 12. Mai 2016: Deep Learning Summit ([Link](https://www.re-work.co/events/deep-learning-boston-2016))
 * München, 7. Oktober 2015: Deep Learning in Action #3 ([Link](http://www.meetup.com/de-DE/deeplearning/events/225423302/?eventId=225423302))
+
+<!--
+<div class="navigation clearfix">
+    <div class="alignright">
+        <a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev">Nächster Rückblick  »</a>
+    </div>
+</div>
+-->

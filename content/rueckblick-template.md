@@ -34,3 +34,15 @@ Status: draft
 ## Meetings
 
 <!-- ML-KA meetings, but not only -->
+
+
+<div class="navigation clearfix">
+    <div class="alignleft">
+        <a href="http://ml-ka.de/ml-ruckblick-1/" rel="prev">« Vorheriger Rückblick</a> <!-- TODO -->
+    </div>
+    <!--
+    <div class="alignright">
+        <a href="http://ml-ka.de/ml-ruckblick-1/" rel="prev">Nächster Rückblick  »</a>
+    </div>
+    -->
+</div>
