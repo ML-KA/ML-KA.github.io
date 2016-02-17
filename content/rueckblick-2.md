@@ -35,6 +35,14 @@ Siehe auch:
 * Google: [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.de/2015/06/inceptionism-going-deeper-into-neural.html). 17.06.2016.
 
 
+### Breaking Linear Classifiers on ImageNet
+
+Andrej Karpathy hat mal wieder eine schönen Artikel geschrieben. Darin
+geht es um das Problem, dass [Lineare Klassifikationen leicht kaputtgemacht werden können](http://karpathy.github.io/2015/03/30/breaking-convnets/).
+
+Hinton hat etwas ähnliches [auf Reddit kommentiert](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/clyjbai).
+
+
 ## Software
 
 <!-- e.g. Theano, Keras, ... -->
@@ -54,6 +62,8 @@ Siehe [stanford.edu/~mwaskom/software/seaborn](http://stanford.edu/~mwaskom/soft
 ## Interesting Questions
 
 <!-- For example StackExchange -->
+
+* [When being in a perfect “Long Valley” situation, does momentum help?](http://datascience.stackexchange.com/q/10286/8820)
 
 
 ## Interna
