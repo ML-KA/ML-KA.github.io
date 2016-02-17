@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="zwolftes-treffen"&gt;Zw&amp;ouml;lftes Treffen&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="13-treffen"&gt;13. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 17.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Gesichtserkennung&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf"&gt;DeepFace: Closing the Gap to Human-Level Performance in Face Verification&lt;/a&gt; (Facebook)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1503.03832"&gt;FaceNet: A Unified Embedding for Face Recognition and Clustering&lt;/a&gt; (Google)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1511.02683v1"&gt;A Lightened CNN for Deep Face Representation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1502.03167"&gt;Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1511.06342"&gt;Actor mimic: Deep multitask and transfer reinforcement learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/pdf/1502.03044v2.pdf"&gt;Show, Attend and Tell: Neural Image Caption Generation with Visual Attention&lt;/a&gt; (Soft attention)&lt;/li&gt;
+&lt;li&gt;Knowledge transfer&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1411.1792"&gt;How transferable are features in deep neural networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1504.04871"&gt;DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1506.00511"&gt;Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/abs/1502.02791"&gt;Learning Transferable Features with Deep Adaptation Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -226,6 +245,13 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1502.03044"&gt;Show, Attend and Tell: Neural Image Caption Generation with Visual Attention&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Leonard&amp;nbsp;Lausen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="zwolftes-treffen"&gt;Zw&amp;ouml;lftes Treffen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: 17.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Andrey&amp;nbsp;Yegorov&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;

@@ -148,7 +148,14 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
 &lt;ul&gt;
 &lt;li&gt;Boston, 12. Mai 2016: Deep Learning Summit (&lt;a href="https://www.re-work.co/events/deep-learning-boston-2016"&gt;Link&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;M&amp;uuml;nchen, 7. Oktober 2015: Deep Learning in Action #3 (&lt;a href="http://www.meetup.com/de-DE/deeplearning/events/225423302/?eventId=225423302"&gt;Link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+&lt;/ul&gt;
+&lt;!--
+&lt;div class="navigation clearfix"&gt;
+    &lt;div class="alignright"&gt;
+        &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
