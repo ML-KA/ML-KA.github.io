@@ -32,6 +32,7 @@ Siehe auch:
 
 * Anh Nguyen, Jason Yosinski, Jeff Clune: [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](http://arxiv.org/abs/1412.1897) on arxiv.
 * Evolving AI Lab: [Deep Neural Networks are Easily Fooled](https://www.youtube.com/watch?v=M2IebCN9Ht4) on YouTube in 5:33 min.
+* Google: [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.de/2015/06/inceptionism-going-deeper-into-neural.html). 17.06.2016.
 
 
 ## Software
