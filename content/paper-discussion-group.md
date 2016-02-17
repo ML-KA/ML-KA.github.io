@@ -4,14 +4,28 @@ Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
+# 13. Treffen
 
-# Zwölftes Treffen
-
-* Datum: 17.02.2016, 17:30
+* Datum: 24.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/pdf/1505.05192v3.pdf)
+* Thema: [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
 * Experte: Marvin&nbsp;Teichmann
 
+
+# Kommende Paper
+
+* Gesichtserkennung
+    * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) (Facebook)
+    * [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832) (Google)
+    * [A Lightened CNN for Deep Face Representation](http://arxiv.org/abs/1511.02683v1)
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167)
+* [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) (Soft attention)
+* Knowledge transfer
+    * [How transferable are features in deep neural networks](http://arxiv.org/abs/1411.1792)
+    * [DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets](http://arxiv.org/abs/1504.04871)
+    * [Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions](http://arxiv.org/abs/1506.00511)
+    * [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791)
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -264,3 +278,9 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 * Thema: [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
 * Experte: Leonard&nbsp;Lausen
 
+## Zwölftes Treffen
+
+* Datum: 17.02.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/pdf/1505.05192v3.pdf)
+* Experte: Andrey&nbsp;Yegorov
