@@ -19,6 +19,7 @@ Authors: Marvin Teichmann, Martin Thoma
     * [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832) (Google)
     * [A Lightened CNN for Deep Face Representation](http://arxiv.org/abs/1511.02683v1)
 * [Structured Output Layer Neural Network Language Models for Speech Recognition](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5947610)
+* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340)
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167)
 * [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) (Soft attention)
