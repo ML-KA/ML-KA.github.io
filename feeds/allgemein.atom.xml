@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="//ml-ka.github.io/ml-ruckblick-1/" rel="alternate"></link><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="https://ml-ka.github.io/" rel="alternate"></link><link href="https://ml-ka.github.io/feeds/allgemein.atom.xml" rel="self"></link><id>https://ml-ka.github.io/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="https://ml-ka.github.io/ml-ruckblick-1/" rel="alternate"></link><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
 R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
 &lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
@@ -9,7 +9,7 @@ k&amp;ouml;nnt ihr euch schnell mal selbst kleine Netzwerke und Datens&amp;auml;
 zusammenklicken. Dann k&amp;ouml;nnt ihr beobachten, wie sich die Klassifikationsgrenzen
 &amp;auml;ndern.&lt;/p&gt;
 &lt;figure style="display:table;margin: 0 auto 0.55em;"&gt;
-&lt;a href="//ml-ka.github.io/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
+&lt;a href="https://ml-ka.github.io/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Interaktive Demo eines neuronalen Netzwerks&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h3 id="howhot"&gt;HowHot&lt;/h3&gt;
@@ -26,7 +26,7 @@ sowie &lt;a href="https://github.com/MartinThoma/seminar-art-in-machine-learning
 &lt;!-- e.g. arXiv --&gt;
 &lt;h3 id="alphago"&gt;AlphaGo&lt;/h3&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/go-game.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/go-game.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Go ist ein Brettspiel f&amp;uuml;r zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19&amp;times;19 Feld gelegt werden.&lt;br/&gt;
 Bildquelle: &lt;a href="https://commons.wikimedia.org/wiki/File:Go_Regeln_3.png"&gt;Wikipedia Commons&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -155,7 +155,7 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="https://ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -273,7 +273,7 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="https://ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
 Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;

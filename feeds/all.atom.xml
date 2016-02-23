@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.github.io/" rel="alternate"></link><link href="//ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.github.io/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="//ml-ka.github.io/ml-ruckblick-1/" rel="alternate"></link><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="https://ml-ka.github.io/" rel="alternate"></link><link href="https://ml-ka.github.io/feeds/all.atom.xml" rel="self"></link><id>https://ml-ka.github.io/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="https://ml-ka.github.io/ml-ruckblick-1/" rel="alternate"></link><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
 R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
 &lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
@@ -9,7 +9,7 @@ k&amp;ouml;nnt ihr euch schnell mal selbst kleine Netzwerke und Datens&amp;auml;
 zusammenklicken. Dann k&amp;ouml;nnt ihr beobachten, wie sich die Klassifikationsgrenzen
 &amp;auml;ndern.&lt;/p&gt;
 &lt;figure style="display:table;margin: 0 auto 0.55em;"&gt;
-&lt;a href="//ml-ka.github.io/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
+&lt;a href="https://ml-ka.github.io/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Interaktive Demo eines neuronalen Netzwerks&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h3 id="howhot"&gt;HowHot&lt;/h3&gt;
@@ -26,7 +26,7 @@ sowie &lt;a href="https://github.com/MartinThoma/seminar-art-in-machine-learning
 &lt;!-- e.g. arXiv --&gt;
 &lt;h3 id="alphago"&gt;AlphaGo&lt;/h3&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/go-game.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/go-game.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Go ist ein Brettspiel f&amp;uuml;r zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19&amp;times;19 Feld gelegt werden.&lt;br/&gt;
 Bildquelle: &lt;a href="https://commons.wikimedia.org/wiki/File:Go_Regeln_3.png"&gt;Wikipedia Commons&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -155,7 +155,7 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="13-treffen"&gt;13. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="https://ml-ka.github.io/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="13-treffen"&gt;13. Treffen&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
@@ -210,7 +210,7 @@ marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
 &lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
 &lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/Cnn_layer.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/Cnn_layer.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -240,7 +240,7 @@ Verst&amp;auml;ndnisschwierigkeiten nicht abschrecken. Hierf&amp;uuml;r ist auch
 Group da.&lt;/p&gt;
 &lt;h2 id="zweites-treffen_1"&gt;Zweites Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/imagenet.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/imagenet.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -264,7 +264,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id="drittes-treffen_1"&gt;Drittes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/a88.jpg" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/a88.jpg" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein wichtiges Feature von GoogLeNet&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -283,7 +283,7 @@ Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id="viertes-treffen-praktisches-treffen_1"&gt;Viertes Treffen (Praktisches Treffen)&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/tensorFlow.png" style="float:right;" width="128"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/tensorFlow.png" style="float:right;" width="128"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Quelle: Wikipedia&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -305,7 +305,7 @@ Quelle: Wikipedia&lt;/figcaption&gt;
 &lt;/ol&gt;
 &lt;h2 id="funftes-treffen_1"&gt;F&amp;uuml;nftes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/woman_bb.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/woman_bb.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Lokalisierung eines Kopfes.&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -324,7 +324,7 @@ Lokalisierung eines Kopfes.&lt;/figcaption&gt;
 &lt;p&gt;Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.&lt;/p&gt;
 &lt;h2 id="sechstes-treffen_1"&gt;Sechstes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/arma.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/arma.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -342,7 +342,7 @@ Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
 &lt;/ol&gt;
 &lt;h2 id="siebtes-treffen_1"&gt;Siebtes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/horse640_final.png" style="float:right;" width="256"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/horse640_final.png" style="float:right;" width="256"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
@@ -410,7 +410,7 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Andrey&amp;nbsp;Yegorov&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="https://ml-ka.github.io/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
 &lt;ol&gt;
@@ -422,7 +422,7 @@ interesting abilities:&lt;/p&gt;
 of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
 &lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.github.io/images/mnist-2.png" style="float:right;" width="256px"&gt;
+&lt;img align="middle" class="img-responsive" src="https://ml-ka.github.io/images/mnist-2.png" style="float:right;" width="256px"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;One example of an item in the MNIST dataset - the digit 2&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/figure&gt;
 &lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
@@ -535,7 +535,7 @@ Hello, TensorFlow!
 &lt;div class="highlight"&gt;&lt;pre&gt;Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.github.io/kaggle-1/" rel="alternate"></link><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.github.io,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="https://ml-ka.github.io/kaggle-1/" rel="alternate"></link><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.github.io,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
 &lt;a href="https://www.kaggle.com/c/rossmann-store-sales"&gt;Rossmann Stores Challenge&lt;/a&gt;
 l&amp;auml;uft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
 Guckt euch bitte die Aufgabe vorher an, und bringe Ideen mit.&lt;/p&gt;
@@ -546,13 +546,13 @@ erreichen. Das k&amp;ouml;nnen wir beim Treffen auch gleich besprechen.&lt;/p&gt
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 2.&amp;nbsp;Dezember&amp;nbsp;2015, 20:00&amp;ndash;22:00&amp;nbsp;Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Seminarraum&amp;nbsp;-118, Infobau (Geb.&amp;nbsp;50.34)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.github.io/medientreffen-1/" rel="alternate"></link><updated>2015-11-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-30:medientreffen-1/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="https://ml-ka.github.io/medientreffen-1/" rel="alternate"></link><updated>2015-11-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.github.io,2015-11-30:medientreffen-1/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
 &lt;p&gt;Hierzu wollen wir uns n&amp;auml;chsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen m&amp;ouml;chte. Wer noch etwas Zeit und Lust hat kann gerne offiziell Teil des Webmaster-Teams werden. Wir freuen uns aber schon, wenn Ihr ab und zu etwas auf der HP oder &amp;uuml;ber FB ver&amp;ouml;ffentlichen wollt. Ihr k&amp;ouml;nnt aber auch einfach nur ins Oxford kommen und eure Ideen beitragen, falls eure Zeit Jahr sehr knapp ist.&lt;/p&gt;
 &lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 30. November um 20:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Oxford Pub&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="//ml-ka.github.io/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><updated>2015-11-30T09:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-30:ausserordentliche-mitgliederversammlung-1/</id><summary type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
+&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="https://ml-ka.github.io/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><updated>2015-11-30T09:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-30:ausserordentliche-mitgliederversammlung-1/</id><summary type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
 wird es eine au&amp;szlig;erordentliche Mitgliederversammlung geben. Der Grund daf&amp;uuml;r ist
 unser Status als Hochschulgruppe.&lt;/p&gt;
 &lt;p&gt;Am 21. November habe ich vom AStA folgende E-Mail bekommen:&lt;/p&gt;
@@ -577,7 +577,7 @@ beschlossen werden sollen.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 16. Dezember um 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest. Vermutlich im Informatik-Geb&amp;auml;ude im Keller.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Protokollant&lt;/strong&gt;: Wird noch gesucht.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+&lt;/ul&gt;</summary><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="https://ml-ka.github.io/monatstreffen-2/" rel="alternate"></link><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der &lt;strong&gt;AG DANK&lt;/strong&gt; (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
 &lt;p&gt;Marvin Teichmann wird kurz &amp;uuml;ber die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
 erz&amp;auml;hlen.&lt;/p&gt;
@@ -591,7 +591,7 @@ Ideen vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Geb&amp;auml;ude 50.34)&lt;/a&gt;, Raum -107&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt; Liegen noch keine vor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Wird nicht gemacht.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.github.io/monatstreffen-1/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:monatstreffen-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="https://ml-ka.github.io/monatstreffen-1/" rel="alternate"></link><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-10-22:monatstreffen-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
 &lt;p&gt;Im Anschluss wollen wir uns &amp;uuml;ber Projektideen und m&amp;ouml;gliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
 &lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
@@ -603,7 +603,7 @@ Ideen vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="//ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="https://ml-ka.github.io/lectures/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table class="table table-hover table-striped"&gt;
@@ -702,7 +702,7 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="https://ml-ka.github.io/machine-learning-grundlagen/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -820,7 +820,7 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="https://ml-ka.github.io/materialsammlung/" rel="alternate"></link><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.github.io,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
 Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
