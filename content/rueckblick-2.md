@@ -11,6 +11,8 @@ Status: draft
 
 <!-- Trends -->
 
+* Random forests for courier detection: [Has a rampaging AI algorithm called Skynet really killed thousands in Pakistan?](https://www.theguardian.com/science/the-lay-scientist/2016/feb/18/has-a-rampaging-ai-algorithm-really-killed-thousands-in-pakistan)
+
 
 ## Publications
 
