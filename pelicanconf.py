@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Members of the ML-KA group'
 SITENAME = u'Machine Learning - Karlsruhe'
-SITEURL = '//ml-ka.github.io'
+SITEURL = '//ml-ka.de'
 
 PATH = 'content'
 
