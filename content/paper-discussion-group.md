@@ -21,13 +21,16 @@ Authors: Marvin Teichmann, Martin Thoma
 * [Structured Output Layer Neural Network Language Models for Speech Recognition](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5947610)
 * [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340)
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167)
-* [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) (Soft attention)
 * Knowledge transfer
     * [How transferable are features in deep neural networks](http://arxiv.org/abs/1411.1792)
     * [DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets](http://arxiv.org/abs/1504.04871)
     * [Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions](http://arxiv.org/abs/1506.00511)
     * [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791)
+* Reinforcement Learning
+    * [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783v1)
+    * [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
+    * [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461v3)
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
