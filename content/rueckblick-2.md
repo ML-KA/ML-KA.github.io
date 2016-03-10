@@ -45,6 +45,14 @@ geht es um das Problem, dass [Lineare Klassifikationen leicht kaputtgemacht werd
 Hinton hat etwas ähnliches [auf Reddit kommentiert](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/clyjbai).
 
 
+### Where am I?
+
+[Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/)
+
+Man tut ein Foto rein und das Netz sagt einem, wo auf der Welt das abgebildete
+Motiv her kommt.
+
+
 ## Software
 
 <!-- e.g. Theano, Keras, ... -->
