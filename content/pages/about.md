@@ -22,14 +22,11 @@ Die [Satzung](https://github.com/ML-KA/satzung) ist online und auch
 können direkt heruntergeladen werden.
 
 
-Ideen, was wir als Gruppe machen könnten, sind:
+## Was wir machen
 
-* **Paper** gemeinsam besprechen und anderen vorstellen
-    * Man könnte ein GitHub repository mit Paper Reviews machen.
+* **Paper Discussion Group**: [Link](https://ml-ka.de/paper-discussion-group/)
 * **Vorträge** halten / hören
 * Gemeinsam **Projekte** durchführen
-  (z.B basteln eines einfachen Sprach- oder Gesichtserkenners; Entwickeln eines
-   Austauschformats für Neuronale Netze)
 * **Wettbewerbe** (z.B. [Kaggle](https://www.kaggle.com/))
 * **Workshops**: Vor Ort kurze Projekte gemeinsam machen, damit man in ein Thema
   rein kommt und jemand da ist, der einem mit nervigen Anfangsproblemen
@@ -43,7 +40,8 @@ Probleme in der Praxis besprochen werden.
 Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 `[ML-KA]` in den Betreff schreiben.
 
-# Verantworliche
+
+# Personelles
 
 ### Vorstand
 
@@ -51,8 +49,8 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 - Marvin Teichmann (`marvxx.teichmaxx@gmaxx.com`)
 - Marvin Schweizer
 
-### weitere
+### Weitere
 
 - Webmaster & FB: Johannes Reiß
 - Kassenwart: Marvin Teichmann
-
+- Akademischer Ansprechpartner: [Dominik Jung](https://im.iism.kit.edu/team_1455.php)
