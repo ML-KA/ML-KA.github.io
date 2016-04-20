@@ -9,8 +9,7 @@ Authors: Marvin Teichmann, Martin Thoma
 * Datum: 26.02.2016, 17:30
 * Ort: Seminarraum 131, Infobau (Geb. 50.34)
 * Thema: [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382)
-* Experte: Martin&nbsp;Thoma
-* Zusammenfassung: [shortscience.org](http://www.shortscience.org/paper?bibtexKey=huang2016networks)
+* Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma))
 
 
 # Kommende Paper
@@ -272,7 +271,7 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
 * Datum: 03.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)
-* Experte: Martin&nbsp;Thoma
+* Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/HeZRS15#MartinThoma))
 
 Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
 bei ILSVRC deutlich besser ist als die vorherigen Resultate.
