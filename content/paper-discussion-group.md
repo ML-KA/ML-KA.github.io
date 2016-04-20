@@ -4,12 +4,13 @@ Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 
-# 13. Treffen
+# 14. Treffen
 
-* Datum: 24.02.2016, 17:30
-* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
-* Experte: Marvin&nbsp;Teichmann
+* Datum: 26.02.2016, 17:30
+* Ort:  steht noch nicht fest
+* Thema: [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382)
+* Experte: Martin&nbsp;Thoma
+* Zusammenfassung: [shortscience.org](http://www.shortscience.org/paper?bibtexKey=huang2016networks)
 
 
 # Kommende Paper
@@ -276,6 +277,7 @@ Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:
 Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
 bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 
+
 ## Elftes Treffen
 
 * Datum: 10.02.2016, 17:30
@@ -283,9 +285,18 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 * Thema: [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
 * Experte: Leonard&nbsp;Lausen
 
+
 ## Zwölftes Treffen
 
 * Datum: 17.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/pdf/1505.05192v3.pdf)
 * Experte: Andrey&nbsp;Yegorov
+
+
+# 13. Treffen
+
+* Datum: 24.02.2016, 17:30
+* Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
+* Thema: [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
+* Experte: Marvin&nbsp;Teichmann
