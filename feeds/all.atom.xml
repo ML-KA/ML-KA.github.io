@@ -155,12 +155,12 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="13-treffen"&gt;13. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="14-treffen"&gt;14. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
-&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
+&lt;li&gt;Datum: 26.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Ort:  steht noch nicht fest&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1603.09382"&gt;Deep Networks with Stochastic Depth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Martin&amp;nbsp;Thoma&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
@@ -415,6 +415,13 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Andrey&amp;nbsp;Yegorov&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="13-treffen_1"&gt;13. Treffen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
@@ -443,7 +450,7 @@ some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
 GeForce GTX 560 Ti 448 Cores).&lt;/p&gt;
 &lt;p&gt;Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
 to add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Make sure it appears when you execute &lt;code&gt;echo $PATH&lt;/code&gt; and &lt;code&gt;echo LD_LIBRARY_PATH&lt;/code&gt;.
@@ -452,7 +459,7 @@ you might have to do this every time when you start a new console session.&lt;/p
 &lt;p&gt;UPDATE: I've tried it very quickly and it seems not to work out of the box in
 ATIS. However, you can sill use your personal computer.&lt;/p&gt;
 &lt;p&gt;The error I get is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
   File &lt;span class="s2"&gt;"tftest.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
     import tensorflow as tf
   File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
@@ -501,17 +508,17 @@ to ask for help.&lt;/p&gt;
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip --version
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip --version
 pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
 &lt;h3 id="how-do-i-make-sure-tensor-flow-works"&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
 &lt;p&gt;Create a &lt;code&gt;testtf.py&lt;/code&gt; with the following content:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;tensorflow&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;tf&lt;/span&gt;
-&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;sess&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Session&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
 
@@ -520,7 +527,7 @@ packages, including Tensor Flow.&lt;/p&gt;
 &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Execute it with the command &lt;code&gt;python testtf.py&lt;/code&gt;. For me, the output is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
 I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
 I tensorflow/core/common_runtime/gpu/gpu_init.cc:88] Found device 0 with properties: 
 name: GeForce GTX TITAN Black
@@ -537,7 +544,7 @@ Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;The important part is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Hello, TensorFlow!
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
