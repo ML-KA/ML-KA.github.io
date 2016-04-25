@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="14-treffen"&gt;14. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: 26.02.2016, 17:30&lt;/li&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&amp;amp;iso=20160426T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;26.02.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1603.09382"&gt;Deep Networks with Stochastic Depth&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
