@@ -5,6 +5,7 @@ Category: Allgemein
 Tags: Allgemein
 Authors: Martin Thoma
 Status: published
+Summary: Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen Rückblick in der Welt des maschinellen Lernens passiert ist.
 ---
 
 Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen

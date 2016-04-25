@@ -3,6 +3,7 @@ Category: Projekte
 Date: 2016-01-09 09:45
 Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
+Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
 # 14. Treffen
 

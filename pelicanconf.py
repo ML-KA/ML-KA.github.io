@@ -54,3 +54,4 @@ PLUGINS = ['bootstrapify',
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
+SUMMARY_MAX_LENGTH = 0
