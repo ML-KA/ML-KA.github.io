@@ -22,11 +22,11 @@ learning.
 </thead>
 <tbody>
 <tr>
-    <td><a href="https://martin-thoma.com/neuronale-netze-vorlesung/">Neuronale Netze</a></td>
-    <td> [24642] </td>
-    <td>Prof. Dr. Waibel</td>
-    <td>6</td>
-    <td>4</td>
+    <td><a href="https://martin-thoma.com/analysetechniken-grosser-datenbestaende/">Analysetechniken für große Datenbestände</a></td>
+    <td>[24114]</td>
+    <td>Prof. Dr. Böhm</td>
+    <td>5</td>
+    <td>2+1</td>
 </tr>
 <tr>
     <td><a href="https://martin-thoma.com/machine-learning-1-course/">Maschinelles Lernen 1</a></td>
@@ -50,11 +50,11 @@ learning.
     <td>2</td>
 </tr>
 <tr>
-    <td>Analysetechniken für große Datenbestände </td>
-    <td>[24114]</td>
-    <td>Prof. Dr. Böhm</td>
-    <td>5</td>
-    <td>2+1</td>
+    <td><a href="https://martin-thoma.com/neuronale-netze-vorlesung/">Neuronale Netze</a></td>
+    <td> [24642] </td>
+    <td>Prof. Dr. Waibel</td>
+    <td>6</td>
+    <td>4</td>
 </tr>
 </tbody>
 </table>
@@ -62,10 +62,33 @@ learning.
 
 ## Applications
 
-| Title                                        | Short   | Lecturer   | ECTS | SWS |
-| -------------------------------------------- | ------- | ---------- | ---- | --- |
-| Grundlagen der Automatischen Spracherkennung | [24145] | Dr. Stüker | 6    | 4   |
-
+<table>
+<thead>
+    <tr>
+        <th>Title</th>
+        <th>Short</th>
+        <th>Lecturer</th>
+        <th>ECTS</th>
+        <th>SWS</th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td>Grundlagen der Automatischen Spracherkennung</td>
+    <td>[24145]</td>
+    <td>Dr. Stüker</td>
+    <td>6</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Lokalisierung mobiler Agenten</td>
+    <td>[24613]</td>
+    <td>Dr.-Ing. Kurz</td>
+    <td>6</td>
+    <td>3</td>
+</tr>
+</tbody>
+</table>
 
 ## Hands on Courses
 
