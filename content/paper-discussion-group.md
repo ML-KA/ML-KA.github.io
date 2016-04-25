@@ -6,7 +6,7 @@ Authors: Marvin Teichmann, Martin Thoma
 
 # 14. Treffen
 
-* Datum: [26.02.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&iso=20160426T1730&p1=964&ah=1&am=30)
+* Datum: [26.04.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&iso=20160426T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 131, Infobau (Geb. 50.34)
 * Thema: [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382)
 * Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma))
