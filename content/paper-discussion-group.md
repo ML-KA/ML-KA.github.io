@@ -5,12 +5,13 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 14. Treffen
+# 15. Treffen
 
-* Datum: [26.04.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&iso=20160426T1730&p1=964&ah=1&am=30)
+* Datum: [03.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=15.+PDG&iso=20160503T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 131, Infobau (Geb. 50.34)
-* Thema: [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382)
-* Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma))
+* Thema: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497)
+* Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/nips/RenHGS15))
+
 
 
 # Kommende Paper
@@ -294,9 +295,17 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 * Experte: Andrey&nbsp;Yegorov
 
 
-# 13. Treffen
+## 13. Treffen
 
 * Datum: 24.02.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
 * Thema: [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
 * Experte: Marvin&nbsp;Teichmann
+
+
+## 14. Treffen
+
+* Datum: [26.04.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&iso=20160426T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 131, Infobau (Geb. 50.34)
+* Thema: [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382)
+* Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma))
