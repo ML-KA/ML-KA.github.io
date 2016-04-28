@@ -155,12 +155,12 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="14-treffen"&gt;14. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="15-treffen"&gt;15. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&amp;amp;iso=20160426T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;26.04.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=15.+PDG&amp;amp;iso=20160503T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;03.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1603.09382"&gt;Deep Networks with Stochastic Depth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1506.01497"&gt;Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/nips/RenHGS15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
@@ -416,12 +416,19 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Andrey&amp;nbsp;Yegorov&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="13-treffen_1"&gt;13. Treffen&lt;/h1&gt;
+&lt;h2 id="13-treffen"&gt;13. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="14-treffen"&gt;14. Treffen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&amp;amp;iso=20160426T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;26.04.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1603.09382"&gt;Deep Networks with Stochastic Depth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
