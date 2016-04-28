@@ -31,6 +31,7 @@
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1509.06461v3"&gt;Deep Reinforcement Learning with Double Q-learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Initialization: &lt;a href="http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf"&gt;Understanding the difficulty of training deep feedforward neural networks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -44,6 +45,7 @@ Klassifikation.&lt;/p&gt;
    &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;li&gt;[SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
    Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[ResNets] Deep Residual Learning for Image Recognition (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/HeZRS15#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id="weitere-literatur-zu-cnns-und-deep-learning"&gt;Weitere Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
 &lt;p&gt;Einsteigern empfehle ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;der Universit&amp;auml;t Stanford.&lt;/p&gt;
