@@ -33,6 +33,7 @@ Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Ve
     * [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783v1)
     * [Actor mimic: Deep multitask and transfer reinforcement learning](http://arxiv.org/abs/1511.06342)
     * [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461v3)
+* Initialization: [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
 
 # Paper Liste
 Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
@@ -46,6 +47,7 @@ Klassifikation.
    *Jon Long and Evan Shelhamer et. al* (**CVPR2015**)
 4. [SegNet] SegNet: A Deep Convolutional Encoder-Decoder Architecture for
    Image Segmentation, *Vijay Badrinarayanan et. al* (**ArXiv 2015**)
+5. [ResNets] Deep Residual Learning for Image Recognition ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/HeZRS15#MartinThoma))
 
 
 # Weitere Literatur zu CNNs und Deep-Learning
