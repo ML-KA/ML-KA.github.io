@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="16-treffen"&gt;16. Treffen&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="17-treffen"&gt;17. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160517T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;17.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort:     IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Stra&amp;szlig;e 23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf"&gt;Understanding the difficulty of training deep feedforward neural networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GlorotB10"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160524T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;24.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Stra&amp;szlig;e 23&lt;/a&gt;) (ihr m&amp;uuml;sst klingeln)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1602.01783"&gt;Asynchronous Methods for Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: Fabian&amp;nbsp;Both (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/MnihBMGLHSK16"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
@@ -282,6 +282,13 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1506.01497"&gt;Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/nips/RenHGS15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="16-treffen"&gt;16. Treffen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160517T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;17.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Stra&amp;szlig;e 23&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf"&gt;Understanding the difficulty of training deep feedforward neural networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GlorotB10#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
