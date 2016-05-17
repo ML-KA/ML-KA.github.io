@@ -5,13 +5,12 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 16. Treffen
+# 17. Treffen
 
-* Datum: [17.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&iso=20160517T1730&p1=964&ah=1&am=30)
-* Ort:     IISM-Meetingraum-282 ([Fritz-Erler-Straße 23](https://goo.gl/maps/7t9si2dLkoQ2))
-* Thema: [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
-* Moderator: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GlorotB10))
-
+* Datum: [24.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&iso=20160524T1730&p1=964&ah=1&am=30)
+* Ort: IISM-Meetingraum-282 ([Fritz-Erler-Straße 23](https://goo.gl/maps/7t9si2dLkoQ2)) (ihr müsst klingeln)
+* Thema: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+* Moderator: Fabian&nbsp;Both ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/MnihBMGLHSK16))
 
 
 # Kommende Paper
@@ -319,3 +318,11 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 * Ort: Seminarraum 131, Infobau (Geb. 50.34)
 * Thema: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497)
 * Experte: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/nips/RenHGS15))
+
+
+# 16. Treffen
+
+* Datum: [17.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&iso=20160517T1730&p1=964&ah=1&am=30)
+* Ort: IISM-Meetingraum-282 ([Fritz-Erler-Straße 23](https://goo.gl/maps/7t9si2dLkoQ2))
+* Thema: [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
+* Moderator: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GlorotB10#MartinThoma))
