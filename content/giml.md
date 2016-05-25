@@ -27,6 +27,7 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
     * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (bitte vorher lesen)
     * [Predictive Policing](https://de.wikipedia.org/wiki/Predictive_Policing)
     * [Precobs](https://de.wikipedia.org/wiki/Precobs)
+    * [Predictive Policing - Polizeiliche Strafverfolgung in Zeiten von Big Data](http://www.abida.de/de/blog-item/predictive-policing-%E2%80%93-polizeiliche-strafverfolgung-zeiten-von-big-data)
 * Mögliche Diskussionspunkte:
     * Wie ist der aktuelle Stand in Deutschland, Europa und der Welt?
     * Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
