@@ -1,5 +1,6 @@
 ---
 title: Gesellschaftliche Implikationen maschinellen Lernens
+slug: giml
 Category: Projekte
 Date: 2016-05-25 20:00
 Tags: Gesellschaft, Politik, Wirtschaft
