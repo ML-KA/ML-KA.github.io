@@ -23,14 +23,14 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 * Ort: Lichtbrücke ([HfG am ZKM](https://goo.gl/maps/UUpzkTaTDNo))
 * Thema: Crime Prediction
 * Lektüre:
-  * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (bitte vorher lesen)
-  * [Predictive Policing](https://de.wikipedia.org/wiki/Predictive_Policing)
-  * [Precobs](https://de.wikipedia.org/wiki/Precobs)
+    * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (bitte vorher lesen)
+    * [Predictive Policing](https://de.wikipedia.org/wiki/Predictive_Policing)
+    * [Precobs](https://de.wikipedia.org/wiki/Precobs)
 * Mögliche Diskussionspunkte:
-  * Wie ist der aktuelle Stand in Deutschland, Europa und der Welt?
-  * Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
+    * Wie ist der aktuelle Stand in Deutschland, Europa und der Welt?
+    * Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
     Befürchtungen (z.B. [Minority Report](https://en.wikipedia.org/wiki/Minority_Report_(film)), siehe [Trailer](https://www.youtube.com/watch?v=lG7DGMgfOb8))?
-  * Was würden wir uns wünschen?
+    * Was würden wir uns wünschen?
 
 
 # Mögliche weitere Themen
