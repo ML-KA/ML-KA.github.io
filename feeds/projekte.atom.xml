@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-01-09T09:45:00+01:00</updated><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="18-treffen"&gt;18. Treffen&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/projekte.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-05-25T20:00:00+02:00</updated><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/gesellschaftliche-implikationen-maschinellen-lernens/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:gesellschaftliche-implikationen-maschinellen-lernens/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
+sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante
+Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;
+&lt;p&gt;Dabei wird f&amp;uuml;r jedes Treffen ein Thema vorgegen, welches beim vorherigen
+Treffen von den Teilnehmern ausgesucht wird. Es ist w&amp;uuml;nschenswert, wenn ein
+kurzer Artikel zur Vorbereitung vorher mitgeteilt wird. Am Ende des Semesters
+sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.&lt;/p&gt;
+&lt;h1 id="1-treffen"&gt;1. Treffen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=1.+GIML&amp;amp;iso=20160601T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;01.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: Lichtbr&amp;uuml;cke (&lt;a href="https://goo.gl/maps/UUpzkTaTDNo"&gt;HfG am ZKM&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: Crime Prediction&lt;/li&gt;
+&lt;li&gt;Lekt&amp;uuml;re:&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"&gt;Machine Bias&lt;/a&gt; (bitte vorher lesen)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Predictive_Policing"&gt;Predictive Policing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Precobs"&gt;Precobs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M&amp;ouml;gliche Diskussionspunkte:&lt;/li&gt;
+&lt;li&gt;Wie ist der aktuelle Stand in Deutschland, Europa und der Welt?&lt;/li&gt;
+&lt;li&gt;Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
+    Bef&amp;uuml;rchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_Report_(film)"&gt;Minority Report&lt;/a&gt;, siehe &lt;a href="https://www.youtube.com/watch?v=lG7DGMgfOb8"&gt;Trailer&lt;/a&gt;)?&lt;/li&gt;
+&lt;li&gt;Was w&amp;uuml;rden wir uns w&amp;uuml;nschen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="mogliche-weitere-themen"&gt;M&amp;ouml;gliche weitere Themen&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&amp;Ouml;konomie und Arbeitslosigkeit: Welche Anwendungsf&amp;auml;lle hat ML? Welche Berufsgruppen sind potentiell gef&amp;auml;hrdet?&lt;/li&gt;
+&lt;li&gt;Bedingungsloses Grundeinkommen (G&amp;ouml;tz Werner)&lt;/li&gt;
+&lt;li&gt;Entsolidarisierung: Versicherungen und Fitness-Armb&amp;auml;nder&lt;/li&gt;
+&lt;li&gt;ML in der Pflege und in Prothesen (Exoskelette, intelligente Arme)&lt;/li&gt;
+&lt;li&gt;Rechtliche Aspekte selbstfahrender Autos: Wer ist schuld, wenns kracht?&lt;/li&gt;
+&lt;li&gt;Kunst: Style Transfer&lt;/li&gt;
+&lt;li&gt;Was ist Intelligenz?&lt;/li&gt;
+&lt;li&gt;Was w&amp;auml;ren die Implikationen einer starken k&amp;uuml;nstlichen Intelligenz?&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="18-treffen"&gt;18. Treffen&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160531T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;31.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
