@@ -31,11 +31,13 @@ tun.
 
 
 ## Tools
-* [Caffe](http://caffe.berkeleyvision.org/): C++ and Python, supports nVidia GPU training of neural networks
-* [Lasagne](https://github.com/Lasagne/Lasagne): Python, supports nVidia GPU training of neural networks
+* [Caffe](http://caffe.berkeleyvision.org/): Used often for Computer Vision, but more and more people jump to TensorFlow
 * [sklearn](http://scikit-learn.org/stable/): Python Machine learning toolkit
-* [TensorFlow](https://www.tensorflow.org/): C++ and Python, supports nVidia GPU training of neural networks
-
+* [Theano](http://deeplearning.net/software/theano/): Used often for Speech Recognition
+    * [Lasagne](https://github.com/Lasagne/Lasagne): Python, supports nVidia GPU training of neural networks
+        * [nolearn](https://github.com/dnouri/nolearn)
+* [**TensorFlow**](https://www.tensorflow.org/): C++ and Python, supports nVidia GPU training of neural networks
+    * [**Keras.io**](http://keras.io/): Extremely nice for beginners
 
 ## Datensätze
 * [MNIST](http://yann.lecun.com/exdb/mnist/): 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)

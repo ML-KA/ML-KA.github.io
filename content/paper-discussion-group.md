@@ -5,12 +5,18 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 18. Treffen
+# 19. Treffen
 
-* Datum: [31.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&iso=20160531T1730&p1=964&ah=1&am=30)
+* Datum: [07.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=18.+PDG&iso=20160607T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
-* Thema: [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778)
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/icassp/GravesMH13))
+* Thema: [istributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* Moderator: Fabian&nbsp;Both ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/icassp/GravesMH13))
+
+Weiteres:
+
+* [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+* TensorFlow: [Vector Representations of Words](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
+* Blog-Artikel: [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/) (schöne Bilchen :-) )
 
 
 # Kommende Paper
@@ -334,3 +340,11 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.
 * Ort: IISM-Meetingraum-282 ([Fritz-Erler-Straße 23](https://goo.gl/maps/7t9si2dLkoQ2)) (ihr müsst klingeln)
 * Thema: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 * Moderator: Fabian&nbsp;Both ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/MnihBMGLHSK16))
+
+
+# 18. Treffen
+
+* Datum: [31.05.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=17.+PDG&iso=20160531T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
+* Thema: [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/icassp/GravesMH13))

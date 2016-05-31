@@ -25,6 +25,7 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 * Thema: Crime Prediction
 * Lektüre:
     * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (bitte vorher lesen)
+    * [Rassismus im Code?](https://www.wired.de/collection/latest/rassismus-im-code-algorithmen-der-us-justiz-benachteiligen-systematisch-schwarze) - ähnlich wie "Machine Bias"
     * [Predictive Policing](https://de.wikipedia.org/wiki/Predictive_Policing)
     * [Precobs](https://de.wikipedia.org/wiki/Precobs)
     * [Predictive Policing - Polizeiliche Strafverfolgung in Zeiten von Big Data](http://www.abida.de/de/blog-item/predictive-policing-%E2%80%93-polizeiliche-strafverfolgung-zeiten-von-big-data)
