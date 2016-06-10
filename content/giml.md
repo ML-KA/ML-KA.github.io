@@ -18,7 +18,42 @@ kurzer Artikel zur Vorbereitung vorher mitgeteilt wird. Am Ende des Semesters
 sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 
 
-# 1. Treffen
+# 2. Treffen
+
+* Datum: [15.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=2.+GIML&iso=20160615T1730&p1=964&ah=1&am=30)
+* Ort: VERMUTLICH SR 167, [SCC](https://www.kithub.de/map/2131)
+* Thema: Auswirkungen von ML auf den Arbeitsmarkt
+    * bedingungsloses Grundeinkommen
+    * soziale Unruhen
+    * Vergleich mit der Industrialisierung: Was ist damals mit dem Arbeitsmarkt
+      passiert? Wo könnten Unterschiede sein?
+    * Welche Technologien sind hier interessant (z.B. selbstfahrende Autos) und
+      welchen Einfluss könnten sie haben (also wie viele Arbeitsplätze
+      verdrängen und wo / wie viele neu schaffen?)
+    * Bedingungsloses Grundeinkommen: Was ist die Idee, was ist die Kritik und
+      wie stehen verschiedene Länder dazu (z.B. Abstimmung in der Schweiz), ...
+* Lektüre:
+    * [3 of the world's 10 largest employers are now replacing their workers with robots](http://www.businessinsider.de/clsa-wef-and-citi-on-the-future-of-robots-and-ai-in-the-workforce-2016-6)
+    * [Self-driving trucks could cost as many as 7 million jobs in the US alone](http://www.sciencealert.com/self-driving-trucks-could-cost-as-many-as-7-million-jobs-in-the-us-alone)
+    * [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.cy2mrf4ha)
+    * [Bedingungsloses Grundeinkommen](https://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen)
+
+
+# Mögliche weitere Themen
+
+1. Ökonomie und Arbeitslosigkeit: Welche Anwendungsfälle hat ML? Welche Berufsgruppen sind potentiell gefährdet?
+2. Bedingungsloses Grundeinkommen (Götz Werner)
+3. Entsolidarisierung: Versicherungen und Fitness-Armbänder
+5. ML in der Pflege und in Prothesen (Exoskelette, intelligente Arme)
+6. Rechtliche Aspekte selbstfahrender Autos: Wer ist schuld, wenns kracht?
+7. Kunst: Style Transfer
+8. Was ist Intelligenz?
+9. Was wären die Implikationen einer starken künstlichen Intelligenz?
+
+
+# Vergangene Treffen
+
+## 1. Treffen
 
 * Datum: [01.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=1.+GIML&iso=20160601T1730&p1=964&ah=1&am=30)
 * Ort: Lichtbrücke ([HfG am ZKM](https://goo.gl/maps/UUpzkTaTDNo))
@@ -34,15 +69,3 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
     * Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
     Befürchtungen (z.B. [Minority Report](https://en.wikipedia.org/wiki/Minority_Report_(film)), siehe [Trailer](https://www.youtube.com/watch?v=lG7DGMgfOb8))?
     * Was würden wir uns wünschen?
-
-
-# Mögliche weitere Themen
-
-1. Ökonomie und Arbeitslosigkeit: Welche Anwendungsfälle hat ML? Welche Berufsgruppen sind potentiell gefährdet?
-2. Bedingungsloses Grundeinkommen (Götz Werner)
-3. Entsolidarisierung: Versicherungen und Fitness-Armbänder
-5. ML in der Pflege und in Prothesen (Exoskelette, intelligente Arme)
-6. Rechtliche Aspekte selbstfahrender Autos: Wer ist schuld, wenns kracht?
-7. Kunst: Style Transfer
-8. Was ist Intelligenz?
-9. Was wären die Implikationen einer starken künstlichen Intelligenz?
