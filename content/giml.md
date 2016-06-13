@@ -21,7 +21,7 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 # 2. Treffen
 
 * Datum: [15.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=2.+GIML&iso=20160615T1730&p1=964&ah=1&am=30)
-* Ort: VERMUTLICH SR 167, [SCC](https://www.kithub.de/map/2131)
+* Ort: Seminarraum 167, [SCC](https://www.kithub.de/map/2131)
 * Thema: Auswirkungen von ML auf den Arbeitsmarkt
     * bedingungsloses Grundeinkommen
     * soziale Unruhen
@@ -37,6 +37,7 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
     * [Self-driving trucks could cost as many as 7 million jobs in the US alone](http://www.sciencealert.com/self-driving-trucks-could-cost-as-many-as-7-million-jobs-in-the-us-alone)
     * [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.cy2mrf4ha)
     * [Bedingungsloses Grundeinkommen](https://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen)
+    * Video: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU&feature=youtu.be)
 
 
 # Mögliche weitere Themen
