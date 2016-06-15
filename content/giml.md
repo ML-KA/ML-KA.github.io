@@ -18,27 +18,13 @@ kurzer Artikel zur Vorbereitung vorher mitgeteilt wird. Am Ende des Semesters
 sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 
 
-# 2. Treffen
+# 3. Treffen
 
-* Datum: [15.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=2.+GIML&iso=20160615T1730&p1=964&ah=1&am=30)
+* Datum: [29.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=3.+GIML&iso=20160629T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 167, [SCC](https://www.kithub.de/map/2131)
-* Thema: Auswirkungen von ML auf den Arbeitsmarkt
-    * bedingungsloses Grundeinkommen
-    * soziale Unruhen
-    * Vergleich mit der Industrialisierung: Was ist damals mit dem Arbeitsmarkt
-      passiert? Wo könnten Unterschiede sein?
-    * Welche Technologien sind hier interessant (z.B. selbstfahrende Autos) und
-      welchen Einfluss könnten sie haben (also wie viele Arbeitsplätze
-      verdrängen und wo / wie viele neu schaffen?)
-    * Bedingungsloses Grundeinkommen: Was ist die Idee, was ist die Kritik und
-      wie stehen verschiedene Länder dazu (z.B. Abstimmung in der Schweiz), ...
+* Thema: Was ist Intelligenz?
 * Lektüre:
-    * [3 of the world's 10 largest employers are now replacing their workers with robots](http://www.businessinsider.de/clsa-wef-and-citi-on-the-future-of-robots-and-ai-in-the-workforce-2016-6)
-    * [Self-driving trucks could cost as many as 7 million jobs in the US alone](http://www.sciencealert.com/self-driving-trucks-could-cost-as-many-as-7-million-jobs-in-the-us-alone)
-    * [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.cy2mrf4ha)
-    * [Bedingungsloses Grundeinkommen](https://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen)
-    * Video: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU&feature=youtu.be)
-
+    * [The Future of Employment: How Susceptible are Jobs to Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
 
 # Mögliche weitere Themen
 
@@ -70,3 +56,27 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
     * Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
     Befürchtungen (z.B. [Minority Report](https://en.wikipedia.org/wiki/Minority_Report_(film)), siehe [Trailer](https://www.youtube.com/watch?v=lG7DGMgfOb8))?
     * Was würden wir uns wünschen?
+
+## 2. Treffen
+
+* Datum: [15.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=2.+GIML&iso=20160615T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 167, [SCC](https://www.kithub.de/map/2131)
+* Thema: Auswirkungen von ML auf den Arbeitsmarkt
+    * bedingungsloses Grundeinkommen
+    * soziale Unruhen
+    * Vergleich mit der Industrialisierung: Was ist damals mit dem Arbeitsmarkt
+      passiert? Wo könnten Unterschiede sein?
+    * Welche Technologien sind hier interessant (z.B. selbstfahrende Autos) und
+      welchen Einfluss könnten sie haben (also wie viele Arbeitsplätze
+      verdrängen und wo / wie viele neu schaffen?)
+    * Bedingungsloses Grundeinkommen: Was ist die Idee, was ist die Kritik und
+      wie stehen verschiedene Länder dazu (z.B. Abstimmung in der Schweiz), ...
+* Lektüre:
+    * [3 of the world's 10 largest employers are now replacing their workers with robots](http://www.businessinsider.de/clsa-wef-and-citi-on-the-future-of-robots-and-ai-in-the-workforce-2016-6) (z.B. [Adidas](https://www.theguardian.com/world/2016/may/25/adidas-to-sell-robot-made-shoes-from-2017))
+    * [Self-driving trucks could cost as many as 7 million jobs in the US alone](http://www.sciencealert.com/self-driving-trucks-could-cost-as-many-as-7-million-jobs-in-the-us-alone)
+    * [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.cy2mrf4ha)
+    * [‘47 Percent’ Of U.S. Jobs Are At Risk Because Of Advancing Technologies](http://www.huffingtonpost.com/2015/03/06/jobs-risk-technology_n_6817236.html) ([THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf))
+    * [Bedingungsloses Grundeinkommen](https://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen)
+    * Video: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU&feature=youtu.be)
+    * [Will a robot take your job?](http://www.bbc.com/news/technology-34066941)
+    * [mein-grundeinkommen.de](https://www.mein-grundeinkommen.de/blog/1392)
