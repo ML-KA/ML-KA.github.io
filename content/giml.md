@@ -26,6 +26,10 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 * Lektüre:
     * [The Future of Employment: How Susceptible are Jobs to Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
 
+Zu diesem Treffen wurde **Alexander Beck** eingeladen. Er hat unter anderem
+durch seine Arbeit bei Blue Yonder Praxiserfahrung im ML gesammelt.
+
+
 # Mögliche weitere Themen
 
 1. Ökonomie und Arbeitslosigkeit: Welche Anwendungsfälle hat ML? Welche Berufsgruppen sind potentiell gefährdet?
