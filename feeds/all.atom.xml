@@ -244,12 +244,12 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="21-treffen"&gt;21. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="22-treffen"&gt;22. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=21.+PDG&amp;amp;iso=20160628T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;28.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=22.+PDG&amp;amp;iso=20160705T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;05.07.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf"&gt;DeepFace: Closing the Gap to Human-Level Performance in Face Verification&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1410.3916#"&gt;Memory Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: &amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
@@ -571,6 +571,13 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;p&gt;Weiteres:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315"&gt;NTM-Lasagne: A Library for Neural Turing Machines in Lasagne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="21-treffen"&gt;21. Treffen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=21.+PDG&amp;amp;iso=20160628T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;28.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf"&gt;DeepFace: Closing the Gap to Human-Level Performance in Face Verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
