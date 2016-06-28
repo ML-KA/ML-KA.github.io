@@ -5,12 +5,12 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 21. Treffen
+# 22. Treffen
 
-* Datum: [28.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=21.+PDG&iso=20160628T1730&p1=964&ah=1&am=30)
+* Datum: [05.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=22.+PDG&iso=20160705T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
-* Thema: [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
-* Moderator: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14))
+* Thema: [Memory Networks](http://arxiv.org/abs/1410.3916#)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14))
 
 
 # Kommende Paper
@@ -365,3 +365,10 @@ Weiteres:
 Weiteres:
 
 * [NTM-Lasagne: A Library for Neural Turing Machines in Lasagne](https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315)
+
+## 21. Treffen
+
+* Datum: [28.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=21.+PDG&iso=20160628T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
+* Thema: [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+* Moderator: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14))
