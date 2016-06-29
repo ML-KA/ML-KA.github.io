@@ -20,14 +20,19 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.
 
 # 3. Treffen
 
+<figure style="display:table;float:right">
+<a href="{filename}/images/giml3-intelligence.jpg">
+<img style="float:right;" align="middle"  width="256" src="{filename}/images/giml3-intelligence-thumb.jpg"></a>
+<figcaption style="display:table-caption;caption-side:bottom">Mind-Map zum GIML-Treffen über Intelligenz</figcaption>
+</figure>
+
 * Datum: [29.06.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=3.+GIML&iso=20160629T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 167, [SCC](https://www.kithub.de/map/2131)
 * Thema: Was ist Intelligenz?
-* Lektüre:
-    * [The Future of Employment: How Susceptible are Jobs to Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
 
 Zu diesem Treffen wurde **Alexander Beck** eingeladen. Er hat unter anderem
 durch seine Arbeit bei Blue Yonder Praxiserfahrung im ML gesammelt.
+
 
 
 # Mögliche weitere Themen
@@ -84,3 +89,4 @@ durch seine Arbeit bei Blue Yonder Praxiserfahrung im ML gesammelt.
     * Video: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU&feature=youtu.be)
     * [Will a robot take your job?](http://www.bbc.com/news/technology-34066941)
     * [mein-grundeinkommen.de](https://www.mein-grundeinkommen.de/blog/1392)
+    * [The Future of Employment: How Susceptible are Jobs to Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
