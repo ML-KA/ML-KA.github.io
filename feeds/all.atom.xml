@@ -28,6 +28,11 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.&lt;/p&
 &lt;/ul&gt;
 &lt;p&gt;Zu diesem Treffen wurde &lt;strong&gt;Alexander Beck&lt;/strong&gt; eingeladen. Er hat unter anderem
 durch seine Arbeit bei Blue Yonder Praxiserfahrung im ML gesammelt.&lt;/p&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;a href="//ml-ka.de/images/giml3-intelligence.jpg"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/giml3-intelligence-thumb.jpg" style="float:right;" width="256"/&gt;&lt;/a&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Mind-Map zum GIML-Treffen &amp;uuml;ber Intelligenz&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h1 id="mogliche-weitere-themen"&gt;M&amp;ouml;gliche weitere Themen&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;&amp;Ouml;konomie und Arbeitslosigkeit: Welche Anwendungsf&amp;auml;lle hat ML? Welche Berufsgruppen sind potentiell gef&amp;auml;hrdet?&lt;/li&gt;
