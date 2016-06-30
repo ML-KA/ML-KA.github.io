@@ -14,5 +14,5 @@ Machine Learning Karlsruhe:
 * [Gesellschaftliche Implikationen maschinellen Lernens](https://ml-ka.de/giml/)
 * [Paper Discussion Group](https://ml-ka.de/paper-discussion-group/)
 * Facebook
-    * Umfrage: [2. GIML](https://www.facebook.com/groups/961427967221226/permalink/1160067597357261/)
+    * Umfrage: [3. GIML](https://www.facebook.com/groups/961427967221226/permalink/1178175788879775/)
     * Umfrage: [PDG Light](https://www.facebook.com/groups/961427967221226/permalink/1160053117358709/)
