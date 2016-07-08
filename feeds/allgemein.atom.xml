@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-07-08T20:00:00+02:00</updated><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;h2 id="conferences"&gt;Conferences&lt;/h2&gt;
-&lt;p&gt;General ML:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-07-08T20:00:00+02:00</updated><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;p&gt;General ML:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
@@ -11,6 +10,11 @@
 &lt;li&gt;Computer Vision&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"&gt;CVPR&lt;/a&gt;: Computer Vision and Pattern Recognition&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/ICCV"&gt;ICCV&lt;/a&gt;: International Conference on Computer Vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NLP:&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics"&gt;ACL&lt;/a&gt;: Association for Computational Linguistics&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Empirical_Methods_in_Natural_Language_Processing"&gt;EMNLP&lt;/a&gt;: Empirical Methods in Natural Language Processing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;IV: Intelligent Vehicles&lt;/li&gt;
