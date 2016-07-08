@@ -5,12 +5,13 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 22. Treffen
+# 23. Treffen
 
-* Datum: [05.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=22.+PDG&iso=20160705T1730&p1=964&ah=1&am=30)
+* Datum: [12.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&iso=20160712T1730&p1=964&ah=1&am=30)
 * Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
-* Thema: [Memory Networks](http://arxiv.org/abs/1410.3916#)
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14))
+* Thema: [Generating Design Suggestions under Tight Constraints with
+Gradient-based Probabilistic Programming](http://stanford.edu/~dritchie/graphics-hmc.pdf)
+* Moderator: Jùnjun&nbsp;Nigel&nbsp;Wàn ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15))
 
 
 # Kommende Paper
@@ -372,3 +373,17 @@ Weiteres:
 * Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
 * Thema: [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * Moderator: Martin&nbsp;Thoma ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14))
+
+## 22. Treffen
+
+* Datum: [05.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=22.+PDG&iso=20160705T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
+* Thema: [Memory Networks](http://arxiv.org/abs/1410.3916#)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14))
+
+Supplementary resources:
+
+* [Implementing Dynamic memory networks](https://yerevann.github.io/2016/02/05/implementing-dynamic-memory-networks/)
+* [Memory networks](https://blog.acolyer.org/2016/03/10/memory-networks/)
+* [Memory Neural Networks :MemNN](http://blog.themusio.com/2016/03/09/memory-neural-networks-memnn/)
+* [ATTENTION AND MEMORY IN DEEP LEARNING AND NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
