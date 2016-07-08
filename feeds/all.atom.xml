@@ -14,12 +14,15 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
 &lt;li&gt;IJCAI: International Joint Conference on Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/list/cs.LG/recent"&gt;arXiv: Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/list/cs.AI/recent"&gt;arXiv: Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Application Specific:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;CV: Computer Vision&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"&gt;CVPR&lt;/a&gt;: Computer Vision and Pattern Recognition&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/ICCV"&gt;ICCV&lt;/a&gt;: International Conference on Computer Vision&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/list/cs.CV/recent"&gt;arXiv: Computer Vision and Pattern Recognition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;NLP: Natural Language Processing&lt;ul&gt;
@@ -27,7 +30,11 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Empirical_Methods_in_Natural_Language_Processing"&gt;EMNLP&lt;/a&gt;: Empirical Methods in Natural Language Processing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Miscallenious&lt;ul&gt;
 &lt;li&gt;IV: Intelligent Vehicles&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arxiv.org/list/cs.CY/recent"&gt;arXiv: Computers and Society&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
 sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante
 Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;
