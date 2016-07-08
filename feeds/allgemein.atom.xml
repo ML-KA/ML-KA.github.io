@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-02-07T12:00:00+01:00</updated><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-07-08T20:00:00+02:00</updated><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;h2 id="conferences"&gt;Conferences&lt;/h2&gt;
+&lt;p&gt;General ML:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
+&lt;li&gt;IJCAI: International Joint Conference on Artificial Intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Application Specific:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer Vision&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"&gt;CVPR&lt;/a&gt;: Computer Vision and Pattern Recognition&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/ICCV"&gt;ICCV&lt;/a&gt;: International Conference on Computer Vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IV: Intelligent Vehicles&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
 R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
 &lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
