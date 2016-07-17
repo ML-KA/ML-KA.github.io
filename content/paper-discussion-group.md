@@ -231,7 +231,7 @@ Segmentierung eines Bildes.</figcaption>
 
 * Datum: 13.01.2016, 17:30
 * Ort:  Seminarraum: -107, Infobau (Geb. 50.34)
-* Thema: Fully Convolutional Networks for Semantic Segmentation
+* Thema: Fully Convolutional Networks for Semantic Segmentation ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1411.4038#MartinThoma))
 * Experte: Marvin&nbsp;Teichmann
 
 In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.
