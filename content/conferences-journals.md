@@ -30,3 +30,4 @@ Summary: Conferences and Journals for Machine Learning
     * IV: Intelligent Vehicles
     * [arXiv: Computers and Society](http://arxiv.org/list/cs.CY/recent)
     * [arXiv: Neural and Evolutionary Computing](http://arxiv.org/list/cs.NE/recent)
+    * ICLR: International Conference on Learning Representations
