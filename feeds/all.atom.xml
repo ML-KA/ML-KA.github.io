@@ -34,6 +34,7 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;IV: Intelligent Vehicles&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/list/cs.CY/recent"&gt;arXiv: Computers and Society&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/list/cs.NE/recent"&gt;arXiv: Neural and Evolutionary Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICLR: International Conference on Learning Representations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
@@ -474,7 +475,7 @@ Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 13.01.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
-&lt;li&gt;Thema: Fully Convolutional Networks for Semantic Segmentation&lt;/li&gt;
+&lt;li&gt;Thema: Fully Convolutional Networks for Semantic Segmentation (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1411.4038#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In dem n&amp;auml;chsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.&lt;/p&gt;
