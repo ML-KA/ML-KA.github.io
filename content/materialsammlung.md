@@ -16,6 +16,7 @@ tun.
 * [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 * [Clever Methods of Overfitting](http://hunch.net/?p=22)
 * [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 
 ## Bücher
 
@@ -40,6 +41,7 @@ tun.
     * [**Keras.io**](http://keras.io/): Extremely nice for beginners
 
 ## Datensätze
+* [OpenML](http://www.openml.org/): A lot of datasets (it also has a Python package)
 * [MNIST](http://yann.lecun.com/exdb/mnist/): 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)
 * [IRIS](https://archive.ics.uci.edu/ml/datasets/Iris): 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz
 * [HWRT](http://www.martin-thoma.de/write-math/data/): Handgeschriebene Symbole
