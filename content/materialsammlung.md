@@ -41,7 +41,15 @@ tun.
     * [**Keras.io**](http://keras.io/): Extremely nice for beginners
 
 ## Datensätze
+
+Sammlungen
+
 * [OpenML](http://www.openml.org/): A lot of datasets (it also has a Python package)
+* [Kaggle](https://www.kaggle.com/datasets)
+
+
+Konkrete Datensätze
+
 * [MNIST](http://yann.lecun.com/exdb/mnist/): 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)
 * [IRIS](https://archive.ics.uci.edu/ml/datasets/Iris): 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz
 * [HWRT](http://www.martin-thoma.de/write-math/data/): Handgeschriebene Symbole
