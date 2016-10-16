@@ -56,6 +56,20 @@ learning.
     <td>6</td>
     <td>4</td>
 </tr>
+<tr>
+    <td><a href="https://martin-thoma.com/informationsfusion/">Informationsfusion</a></td>
+    <td> [24172] </td>
+    <td>Prof. Dr. Heizmann</td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td><a href="https://martin-thoma.com/probabilistische-planung/">Probabilistische Planung</a></td>
+    <td> [24603] </td>
+    <td>PD Dr.-Ing. Marco Huber</td>
+    <td>6</td>
+    <td>4</td>
+</tr>
 </tbody>
 </table>
 
@@ -81,7 +95,7 @@ learning.
     <td>4</td>
 </tr>
 <tr>
-    <td>Lokalisierung mobiler Agenten</td>
+    <td><a href="https://martin-thoma.com/lma/">Lokalisierung mobiler Agenten</a></td>
     <td>[24613]</td>
     <td>Dr.-Ing. Kurz</td>
     <td>6</td>
