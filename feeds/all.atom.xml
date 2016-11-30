@@ -5,7 +5,7 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://ml-ka.de/giml/"&gt;Gesellschaftliche Implikationen maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Facebook&lt;ul&gt;
-&lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1178175788879775/"&gt;3. GIML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1299073006790052/"&gt;ML Lerngruppe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1160053117358709/"&gt;PDG Light&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -274,13 +274,12 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="23-treffen"&gt;23. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="30-treffen"&gt;30. Treffen&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&amp;amp;iso=20160712T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;12.07.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Thema: &lt;a href="http://stanford.edu/~dritchie/graphics-hmc.pdf"&gt;Generating Design Suggestions under Tight Constraints with
-Gradient-based Probabilistic Programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ugrave;njun&amp;nbsp;Nigel&amp;nbsp;W&amp;agrave;n (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=30.+PDG&amp;amp;iso=20161130T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;30.11.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1606.04474"&gt;Learning to learn by gradient descent by gradient descent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
@@ -623,6 +622,14 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://blog.acolyer.org/2016/03/10/memory-networks/"&gt;Memory networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blog.themusio.com/2016/03/09/memory-neural-networks-memnn/"&gt;Memory Neural Networks :MemNN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/"&gt;ATTENTION AND MEMORY IN DEEP LEARNING AND NLP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="23-treffen"&gt;23. Treffen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&amp;amp;iso=20160712T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;12.07.2016, 17:30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Thema: &lt;a href="http://stanford.edu/~dritchie/graphics-hmc.pdf"&gt;Generating Design Suggestions under Tight Constraints with
+Gradient-based Probabilistic Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moderator: J&amp;ugrave;njun&amp;nbsp;Nigel&amp;nbsp;W&amp;agrave;n (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
