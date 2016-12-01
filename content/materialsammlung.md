@@ -17,6 +17,7 @@ tun.
 * [Clever Methods of Overfitting](http://hunch.net/?p=22)
 * [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+* cs231n: [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/) ([YouTube playlist](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg))
 
 ## Bücher
 
@@ -76,9 +77,12 @@ Listen:
 ## Sonstiges
 * [Kaggle](https://www.kaggle.com/): Machine Learning Wettbewerbe
 * Stack Exchange
-  * [datascience.stackexchange.com](http://datascience.stackexchange.com/)
-  * [stats.stackexchange.com](http://stats.stackexchange.com/)
+    * [datascience.stackexchange.com](http://datascience.stackexchange.com/)
+    * [stats.stackexchange.com](http://stats.stackexchange.com/)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): Eine Liste mit VIELEN Links zu Machine Learning Tools.
 * Demos:
-  * [Neural Machine Translation](http://104.131.78.120/): Englisch → Deutsch, Französisch
-  * [write-math.com](http://write-math.com): Symbolerkennung
+    * [Neural Machine Translation](http://104.131.78.120/): Englisch → Deutsch, Französisch
+    * [write-math.com](http://write-math.com): Symbolerkennung
+    * [Tensorflow Playground](http://playground.tensorflow.org/): Demo for decision boundary of neural network
+    * [lecture-demo.ira.uka.de](https://lecture-demo.ira.uka.de/): Rosenblatt-Perceptron, GMMs, ...
+    * [demos.algorithmia.com/colorize-photos](http://demos.algorithmia.com/colorize-photos/): Colorize a grayscale photo
