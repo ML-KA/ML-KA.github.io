@@ -5,13 +5,12 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 23. Treffen
+# 30. Treffen
 
-* Datum: [12.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&iso=20160712T1730&p1=964&ah=1&am=30)
-* Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
-* Thema: [Generating Design Suggestions under Tight Constraints with
-Gradient-based Probabilistic Programming](http://stanford.edu/~dritchie/graphics-hmc.pdf)
-* Moderator: Jùnjun&nbsp;Nigel&nbsp;Wàn ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15))
+* Datum: [30.11.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=30.+PDG&iso=20161130T1730&p1=964&ah=1&am=30)
+* Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
+* Thema: [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474))
 
 
 # Kommende Paper
@@ -387,3 +386,12 @@ Supplementary resources:
 * [Memory networks](https://blog.acolyer.org/2016/03/10/memory-networks/)
 * [Memory Neural Networks :MemNN](http://blog.themusio.com/2016/03/09/memory-neural-networks-memnn/)
 * [ATTENTION AND MEMORY IN DEEP LEARNING AND NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+
+
+## 23. Treffen
+
+* Datum: [12.07.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&iso=20160712T1730&p1=964&ah=1&am=30)
+* Ort: Seminarraum 131, Infobau ([Geb. 50.34](https://goo.gl/maps/XVYLoJG7o762))
+* Thema: [Generating Design Suggestions under Tight Constraints with
+Gradient-based Probabilistic Programming](http://stanford.edu/~dritchie/graphics-hmc.pdf)
+* Moderator: Jùnjun&nbsp;Nigel&nbsp;Wàn ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15))
