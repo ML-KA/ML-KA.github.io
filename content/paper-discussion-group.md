@@ -5,12 +5,12 @@ Tags: Paper, Deep Learning, Autonomes Fahren
 Authors: Marvin Teichmann, Martin Thoma
 Summary: Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.
 
-# 30. Treffen
+# 33. Treffen
 
-* Datum: [30.11.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=30.+PDG&iso=20161130T1730&p1=964&ah=1&am=30)
+* Datum: [21.12.2016, 18:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=33.+PDG&iso=20161221T1800&p1=964&ah=1&am=30)
 * Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
-* Thema: [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474))
+* Thema: [Tagger: Deep Unsupervised Perceptual Grouping](https://arxiv.org/abs/1606.06724)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.06724))
 
 
 # Kommende Paper
@@ -395,3 +395,50 @@ Supplementary resources:
 * Thema: [Generating Design Suggestions under Tight Constraints with
 Gradient-based Probabilistic Programming](http://stanford.edu/~dritchie/graphics-hmc.pdf)
 * Moderator: Jùnjun&nbsp;Nigel&nbsp;Wàn ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15))
+
+
+## 24. Treffen
+
+* Datum: 19.10.2016, 17:30
+* Thema: [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+* Moderator: Jörg&nbsp;Franke
+
+
+## 25. Treffen
+
+* Datum: 26.10.2016, 17:30
+* Thema: [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=conf/nips/GoodfellowPMXWOCB14))
+
+
+## 26. Treffen
+
+Ausgefallen
+
+
+## 27. Treffen
+
+* Datum: 09.11.2016, 17:30
+* Thema: [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
+* Moderator: Jörg&nbsp;Franke
+
+
+## 28. Treffen
+
+* Datum: 16.11.2016, 17:30
+* Thema: [Differentiable Neural Computers 2](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=10.1038/nature20101))
+
+
+## 29. Treffen
+
+* Datum: 23.11.2016, 17:30
+* Thema: [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065v1)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065))
+
+## 30. Treffen
+
+* Datum: [30.11.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=30.+PDG&iso=20161130T1730&p1=964&ah=1&am=30)
+* Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
+* Thema: [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474))
