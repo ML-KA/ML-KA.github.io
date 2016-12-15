@@ -449,13 +449,13 @@ Ausgefallen
 
 * Datum: [07.12.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&iso=20161207T1730&p1=964&ah=1&am=30)
 * Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
-* Thema: TODO
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](TODO))
+* Thema: [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763v2)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.05763))
 
 
 ## 32. Treffen
 
 * Datum: [14.12.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&iso=20161214T1730&p1=964&ah=1&am=30)
 * Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
-* Thema: TODO
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](TODO))
+* Thema: [Designing Neural Network Architectures Using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.02167))
