@@ -434,7 +434,8 @@ Ausgefallen
 
 * Datum: 23.11.2016, 17:30
 * Thema: [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065v1)
-* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065))
+* Moderator: Fabian&nbsp;Both / Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065))
+
 
 ## 30. Treffen
 
@@ -442,3 +443,19 @@ Ausgefallen
 * Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
 * Thema: [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
 * Moderator: Jörg&nbsp;Franke ([Zusammenfassung](http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474))
+
+
+## 31. Treffen
+
+* Datum: [07.12.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&iso=20161207T1730&p1=964&ah=1&am=30)
+* Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
+* Thema: TODO
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](TODO))
+
+
+## 32. Treffen
+
+* Datum: [14.12.2016, 17:30](http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&iso=20161214T1730&p1=964&ah=1&am=30)
+* Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)
+* Thema: TODO
+* Moderator: Jörg&nbsp;Franke ([Zusammenfassung](TODO))
