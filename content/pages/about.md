@@ -48,7 +48,7 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 <table>
     <tr>
         <th>2017</th>
-        <th>J&ouml;rg Franke</th>
+        <th>J&ouml;rg Franke (<code>joerg.franke@student.kit.edu</code>)</th>
         <th>Fabian Both</th>
         <th>Matthias Stu</th>
     </tr>
