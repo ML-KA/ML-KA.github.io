@@ -45,9 +45,22 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 
 ### Vorstand
 
-- Martin Thoma (Vorsitz) (`info@martin-thoma.de`)
-- Marvin Teichmann (`marvxx.teichmaxx@gmaxx.com`)
-- Marvin Schweizer
+<table>
+    <tr>
+        <th>2017</th>
+        <th>J&ouml;rg Franke</th>
+        <th>Fabian Both</th>
+        <th>Matthias Stu</th>
+    </tr>
+    <tr>
+        <td>2015 - 2016</td>
+        <td>Martin Thoma (`info@martin-thoma.de`)</td>
+        <td>Marvin Teichmann (`marvxx.teichmaxx@gmaxx.com`)</td>
+        <td>Marvin Schweizer</td>
+    </tr>
+</table>
+
+
 
 ### Weitere
 
