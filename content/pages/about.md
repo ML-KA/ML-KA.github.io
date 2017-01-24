@@ -64,6 +64,5 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
 
 ### Weitere
 
-- Webmaster & FB: Johannes Reiß
 - Kassenwart: Marvin Teichmann
 - Akademischer Ansprechpartner: [Dominik Jung](https://im.iism.kit.edu/team_1455.php)
