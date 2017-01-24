@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2017-01-01T20:00:00+01:00</updated><entry><title>Aktuelles</title><link href="//ml-ka.de/aktuelles/" rel="alternate"></link><published>2017-01-01T20:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2017-01-01:aktuelles/</id><summary type="html">&lt;p&gt;Hier sind Links zu aktuellen Gruppen / Themen der Hochschulgruppe
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2017-01-01T20:00:00+01:00</updated><entry><title>Aktuelles</title><link href="//ml-ka.de/aktuelles/" rel="alternate"></link><published>2017-01-01T20:00:00+01:00</published><updated>2017-01-01T20:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2017-01-01:/aktuelles/</id><summary type="html">&lt;p&gt;Zusammenfassungen aller bevorstehenden Veranstaltungen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier sind Links zu aktuellen Gruppen / Themen der Hochschulgruppe
 Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Am 21.12.2016 findet um 17:30 Uhr im Lauchpad der Pioniergarage (&lt;a href="https://goo.gl/maps/PKaMZPT23jL2"&gt;Rintheimer Str. 15&lt;/a&gt;) die Mitgliederversammlung statt. Ort wird noch bekanntgegeben. (z.B. &lt;a href="https://github.com/ML-KA/protokolle/blob/master/2016-12-21-mitgliederversammlung.md"&gt;hier&lt;/a&gt;)&lt;/li&gt;
@@ -10,7 +10,7 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1160053117358709/"&gt;PDG Light&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Veranstaltungen"></category></entry><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;h2 id="general-ml"&gt;General ML&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Veranstaltungen"></category></entry><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><updated>2016-07-08T20:00:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:/conferences/</id><summary type="html">&lt;p&gt;Conferences and Journals for Machine Learning&lt;/p&gt;</summary><content type="html">&lt;h2&gt;General ML&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
@@ -19,7 +19,7 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/list/cs.LG/recent"&gt;arXiv: Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/list/cs.AI/recent"&gt;arXiv: Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="application-specific"&gt;Application Specific&lt;/h2&gt;
+&lt;h2&gt;Application Specific&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CV: Computer Vision&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"&gt;CVPR&lt;/a&gt;: Computer Vision and Pattern Recognition&lt;/li&gt;
@@ -39,19 +39,20 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;ICLR: International Conference on Learning Representations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
+&lt;/ul&gt;</content><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><updated>2016-05-25T20:00:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:/giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
 sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante
 Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;
-&lt;p&gt;Dabei wird f&amp;uuml;r jedes Treffen ein Thema vorgegen, welches beim vorherigen
-Treffen von den Teilnehmern ausgesucht wird. Es ist w&amp;uuml;nschenswert, wenn ein
+&lt;p&gt;Dabei wird für jedes Treffen ein Thema vorgegen, welches beim vorherigen
+Treffen von den Teilnehmern ausgesucht wird. Es ist wünschenswert, wenn ein
 kurzer Artikel zur Vorbereitung vorher mitgeteilt wird. Am Ende des Semesters
 sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.&lt;/p&gt;
-&lt;h1 id="3-treffen"&gt;3. Treffen&lt;/h1&gt;
+&lt;h1&gt;3. Treffen&lt;/h1&gt;
 &lt;figure style="display:table;float:right"&gt;
 &lt;a href="//ml-ka.de/images/giml3-intelligence.jpg"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/giml3-intelligence-thumb.jpg" style="float:right;" width="256"/&gt;&lt;/a&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Mind-Map zum GIML-Treffen &amp;uuml;ber Intelligenz&lt;/figcaption&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/giml3-intelligence-thumb.jpg"&gt;&lt;/a&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Mind-Map zum GIML-Treffen über Intelligenz&lt;/figcaption&gt;
 &lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=3.+GIML&amp;amp;iso=20160629T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;29.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 167, &lt;a href="https://www.kithub.de/map/2131"&gt;SCC&lt;/a&gt;&lt;/li&gt;
@@ -59,40 +60,40 @@ sollte ein Blog-Eintrag / ein kurzes Paper die Ergebnisse zusammenfassen.&lt;/p&
 &lt;/ul&gt;
 &lt;p&gt;Zu diesem Treffen wurde &lt;strong&gt;Alexander Beck&lt;/strong&gt; eingeladen. Er hat unter anderem
 durch seine Arbeit bei Blue Yonder Praxiserfahrung im ML gesammelt.&lt;/p&gt;
-&lt;h1 id="mogliche-weitere-themen"&gt;M&amp;ouml;gliche weitere Themen&lt;/h1&gt;
+&lt;h1&gt;Mögliche weitere Themen&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;&amp;Ouml;konomie und Arbeitslosigkeit: Welche Anwendungsf&amp;auml;lle hat ML? Welche Berufsgruppen sind potentiell gef&amp;auml;hrdet?&lt;/li&gt;
-&lt;li&gt;Bedingungsloses Grundeinkommen (G&amp;ouml;tz Werner)&lt;/li&gt;
-&lt;li&gt;Entsolidarisierung: Versicherungen und Fitness-Armb&amp;auml;nder&lt;/li&gt;
+&lt;li&gt;Ökonomie und Arbeitslosigkeit: Welche Anwendungsfälle hat ML? Welche Berufsgruppen sind potentiell gefährdet?&lt;/li&gt;
+&lt;li&gt;Bedingungsloses Grundeinkommen (Götz Werner)&lt;/li&gt;
+&lt;li&gt;Entsolidarisierung: Versicherungen und Fitness-Armbänder&lt;/li&gt;
 &lt;li&gt;ML in der Pflege und in Prothesen (Exoskelette, intelligente Arme)&lt;/li&gt;
 &lt;li&gt;Rechtliche Aspekte selbstfahrender Autos: Wer ist schuld, wenns kracht?&lt;/li&gt;
 &lt;li&gt;Kunst: Style Transfer&lt;/li&gt;
 &lt;li&gt;Was ist Intelligenz?&lt;/li&gt;
-&lt;li&gt;Was w&amp;auml;ren die Implikationen einer starken k&amp;uuml;nstlichen Intelligenz?&lt;/li&gt;
+&lt;li&gt;Was wären die Implikationen einer starken künstlichen Intelligenz?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
-&lt;h2 id="1-treffen"&gt;1. Treffen&lt;/h2&gt;
+&lt;h1&gt;Vergangene Treffen&lt;/h1&gt;
+&lt;h2&gt;1. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=1.+GIML&amp;amp;iso=20160601T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;01.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Lichtbr&amp;uuml;cke (&lt;a href="https://goo.gl/maps/UUpzkTaTDNo"&gt;HfG am ZKM&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ort: Lichtbrücke (&lt;a href="https://goo.gl/maps/UUpzkTaTDNo"&gt;HfG am ZKM&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: Crime Prediction&lt;/li&gt;
-&lt;li&gt;Lekt&amp;uuml;re:&lt;ul&gt;
+&lt;li&gt;Lektüre:&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"&gt;Machine Bias&lt;/a&gt; (bitte vorher lesen)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.wired.de/collection/latest/rassismus-im-code-algorithmen-der-us-justiz-benachteiligen-systematisch-schwarze"&gt;Rassismus im Code?&lt;/a&gt; - &amp;auml;hnlich wie "Machine Bias"&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.de/collection/latest/rassismus-im-code-algorithmen-der-us-justiz-benachteiligen-systematisch-schwarze"&gt;Rassismus im Code?&lt;/a&gt; - ähnlich wie "Machine Bias"&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Predictive_Policing"&gt;Predictive Policing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Precobs"&gt;Precobs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.abida.de/de/blog-item/predictive-policing-%E2%80%93-polizeiliche-strafverfolgung-zeiten-von-big-data"&gt;Predictive Policing - Polizeiliche Strafverfolgung in Zeiten von Big Data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;M&amp;ouml;gliche Diskussionspunkte:&lt;ul&gt;
+&lt;li&gt;Mögliche Diskussionspunkte:&lt;ul&gt;
 &lt;li&gt;Wie ist der aktuelle Stand in Deutschland, Europa und der Welt?&lt;/li&gt;
 &lt;li&gt;Welche Chancen und Risiken ergeben sicht? Was sind Hoffnungen und
-Bef&amp;uuml;rchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_Report_(film)"&gt;Minority Report&lt;/a&gt;, siehe &lt;a href="https://www.youtube.com/watch?v=lG7DGMgfOb8"&gt;Trailer&lt;/a&gt;)?&lt;/li&gt;
-&lt;li&gt;Was w&amp;uuml;rden wir uns w&amp;uuml;nschen?&lt;/li&gt;
+Befürchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_Report_(film)"&gt;Minority Report&lt;/a&gt;, siehe &lt;a href="https://www.youtube.com/watch?v=lG7DGMgfOb8"&gt;Trailer&lt;/a&gt;)?&lt;/li&gt;
+&lt;li&gt;Was würden wir uns wünschen?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="2-treffen"&gt;2. Treffen&lt;/h2&gt;
+&lt;h2&gt;2. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=2.+GIML&amp;amp;iso=20160615T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;15.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 167, &lt;a href="https://www.kithub.de/map/2131"&gt;SCC&lt;/a&gt;&lt;/li&gt;
@@ -100,19 +101,19 @@ Bef&amp;uuml;rchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_
 &lt;li&gt;bedingungsloses Grundeinkommen&lt;/li&gt;
 &lt;li&gt;soziale Unruhen&lt;/li&gt;
 &lt;li&gt;Vergleich mit der Industrialisierung: Was ist damals mit dem Arbeitsmarkt
-  passiert? Wo k&amp;ouml;nnten Unterschiede sein?&lt;/li&gt;
+  passiert? Wo könnten Unterschiede sein?&lt;/li&gt;
 &lt;li&gt;Welche Technologien sind hier interessant (z.B. selbstfahrende Autos) und
-  welchen Einfluss k&amp;ouml;nnten sie haben (also wie viele Arbeitspl&amp;auml;tze
-  verdr&amp;auml;ngen und wo / wie viele neu schaffen?)&lt;/li&gt;
+  welchen Einfluss könnten sie haben (also wie viele Arbeitsplätze
+  verdrängen und wo / wie viele neu schaffen?)&lt;/li&gt;
 &lt;li&gt;Bedingungsloses Grundeinkommen: Was ist die Idee, was ist die Kritik und
-  wie stehen verschiedene L&amp;auml;nder dazu (z.B. Abstimmung in der Schweiz), ...&lt;/li&gt;
+  wie stehen verschiedene Länder dazu (z.B. Abstimmung in der Schweiz), ...&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Lekt&amp;uuml;re:&lt;ul&gt;
+&lt;li&gt;Lektüre:&lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.businessinsider.de/clsa-wef-and-citi-on-the-future-of-robots-and-ai-in-the-workforce-2016-6"&gt;3 of the world's 10 largest employers are now replacing their workers with robots&lt;/a&gt; (z.B. &lt;a href="https://www.theguardian.com/world/2016/may/25/adidas-to-sell-robot-made-shoes-from-2017"&gt;Adidas&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.sciencealert.com/self-driving-trucks-could-cost-as-many-as-7-million-jobs-in-the-us-alone"&gt;Self-driving trucks could cost as many as 7 million jobs in the US alone&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.cy2mrf4ha"&gt;Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.huffingtonpost.com/2015/03/06/jobs-risk-technology_n_6817236.html"&gt;&amp;lsquo;47 Percent&amp;rsquo; Of U.S. Jobs Are At Risk Because Of Advancing Technologies&lt;/a&gt; (&lt;a href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf"&gt;THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.huffingtonpost.com/2015/03/06/jobs-risk-technology_n_6817236.html"&gt;‘47 Percent’ Of U.S. Jobs Are At Risk Because Of Advancing Technologies&lt;/a&gt; (&lt;a href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf"&gt;THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen"&gt;Bedingungsloses Grundeinkommen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video: &lt;a href="https://www.youtube.com/watch?v=7Pq-S557XQU&amp;amp;feature=youtu.be"&gt;Humans Need Not Apply&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.bbc.com/news/technology-34066941"&gt;Will a robot take your job?&lt;/a&gt;&lt;/li&gt;
@@ -120,40 +121,44 @@ Bef&amp;uuml;rchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_
 &lt;li&gt;&lt;a href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf"&gt;The Future of Employment: How Susceptible are Jobs to Computerisation?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
-R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
-&lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:/ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen Rückblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen
+Rückblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
+&lt;h2&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
-&lt;h3 id="kogsys-demo"&gt;KogSys Demo&lt;/h3&gt;
+
+&lt;h3&gt;KogSys Demo&lt;/h3&gt;
 &lt;p&gt;Auf &lt;a href="https://phiresky.github.io/neural-network-demo/"&gt;phiresky.github.io/neural-network-demo&lt;/a&gt;
-k&amp;ouml;nnt ihr euch schnell mal selbst kleine Netzwerke und Datens&amp;auml;tze
-zusammenklicken. Dann k&amp;ouml;nnt ihr beobachten, wie sich die Klassifikationsgrenzen
-&amp;auml;ndern.&lt;/p&gt;
+könnt ihr euch schnell mal selbst kleine Netzwerke und Datensätze
+zusammenklicken. Dann könnt ihr beobachten, wie sich die Klassifikationsgrenzen
+ändern.&lt;/p&gt;
 &lt;figure style="display:table;margin: 0 auto 0.55em;"&gt;
-&lt;a href="//ml-ka.de/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/neural-network-kogsys-demo.png" width="512"/&gt;&lt;/a&gt;
+&lt;a href="//ml-ka.de/images/neural-network-kogsys-demo.png"&gt;&lt;img align="middle"  width="512" src="//ml-ka.de/images/neural-network-kogsys-demo.png"&gt;&lt;/a&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Interaktive Demo eines neuronalen Netzwerks&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;h3 id="howhot"&gt;HowHot&lt;/h3&gt;
+
+&lt;h3&gt;HowHot&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://howhot.io/"&gt;howhot.io&lt;/a&gt; ist eine Website, auf welcher man Fotos
 hochladen kann. Das Programm findet dann ein Gesicht, kategorisiert in
-"m&amp;auml;nnlich" oder "weiblich", sch&amp;auml;tzt das Alter und die Attraktivit&amp;auml;t. Es gab
+"männlich" oder "weiblich", schätzt das Alter und die Attraktivität. Es gab
 ein paar lustige Ergebnisse (siehe &lt;a href="https://www.reddit.com/r/howhot/"&gt;Reddit&lt;/a&gt;
 sowie &lt;a href="https://github.com/MartinThoma/seminar-art-in-machine-learning/tree/master/figures/eth-faces"&gt;ein paar weitere Bilder&lt;/a&gt;).&lt;/p&gt;
-&lt;h3 id="weitere"&gt;Weitere&lt;/h3&gt;
+&lt;h3&gt;Weitere&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://memorability.csail.mit.edu/"&gt;Large-scale Image Memorability&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="publications_1"&gt;Publications&lt;/h2&gt;
+&lt;h2&gt;Publications&lt;/h2&gt;
 &lt;!-- e.g. arXiv --&gt;
-&lt;h3 id="alphago"&gt;AlphaGo&lt;/h3&gt;
+
+&lt;h3&gt;AlphaGo&lt;/h3&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/go-game.png" style="float:right;" width="256"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Go ist ein Brettspiel f&amp;uuml;r zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19&amp;times;19 Feld gelegt werden.&lt;br/&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/go-game.png"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Go ist ein Brettspiel für zwei Spieler. Jeder Spieler hat jeweils nur einen Typ von Stein. Pro Zug darf ein Stein auf das 19×19 Feld gelegt werden.&lt;br/&gt;
 Bildquelle: &lt;a href="https://commons.wikimedia.org/wiki/File:Go_Regeln_3.png"&gt;Wikipedia Commons&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
-&lt;p&gt;Google hat eine Go-Engine namens AlphaGo entworfen. Diese soll den europ&amp;auml;ischen
+&lt;/figure&gt;
+
+&lt;p&gt;Google hat eine Go-Engine namens AlphaGo entworfen. Diese soll den europäischen
 Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p&gt;
-&lt;p&gt;Erstaunlich ist, dass man die Go-Engine von Facebook (&lt;a href="http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/?utm_campaign=socialsync&amp;amp;utm_medium=social-post&amp;amp;utm_source=facebook"&gt;Link&lt;/a&gt;) nicht mal erw&amp;auml;hnt.&lt;/p&gt;
+&lt;p&gt;Erstaunlich ist, dass man die Go-Engine von Facebook (&lt;a href="http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/?utm_campaign=socialsync&amp;amp;utm_medium=social-post&amp;amp;utm_source=facebook"&gt;Link&lt;/a&gt;) nicht mal erwähnt.&lt;/p&gt;
 &lt;p&gt;Quellen und Materialien:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.technologyreview.com/news/546066/googles-ai-masters-the-game-of-go-a-decade-earlier-than-expected/"&gt;technologyreview.com&lt;/a&gt;&lt;/li&gt;
@@ -162,23 +167,23 @@ Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=g-dKXOlsf98"&gt;Nature Video&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Paper: &lt;a href="https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf"&gt;Mastering the Game of Go with Deep Neural Networks and Tree Search&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="deep-residual-networks"&gt;Deep Residual Networks&lt;/h3&gt;
+&lt;h3&gt;Deep Residual Networks&lt;/h3&gt;
 &lt;p&gt;Microsoft hat mit einem besonders tiefen neuronalen Netzwerk die Microsoft Common Objects in Context (MS COCO) Challenge gewonnen. Das tiefste Netz hat 1202 Schichten.&lt;/p&gt;
 &lt;p&gt;Materialien:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Paper: &lt;a href="http://arxiv.org/abs/1512.03385v1"&gt;Deep Residual Learning for Image Recognition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Microsoft Blog: &lt;a href="http://blogs.microsoft.com/next/2015/12/10/microsoft-researchers-win-imagenet-computer-vision-challenge/"&gt;Microsoft researchers win ImageNet computer vision challenge&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="weitere_1"&gt;Weitere&lt;/h3&gt;
+&lt;h3&gt;Weitere&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Thoma: &lt;a href="http://arxiv.org/abs/1601.03642"&gt;Creativity in Machine Learning&lt;/a&gt;, 2016.&lt;/li&gt;
-&lt;li&gt;Radford, Metz und Chintala: &lt;a href="http://arxiv.org/abs/1511.06434"&gt;Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks&lt;/a&gt;, 2015. Es ist auch &lt;a href="https://github.com/Newmu/dcgan_code"&gt;Code online&lt;/a&gt; verf&amp;uuml;gbar.&lt;/li&gt;
+&lt;li&gt;Radford, Metz und Chintala: &lt;a href="http://arxiv.org/abs/1511.06434"&gt;Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks&lt;/a&gt;, 2015. Es ist auch &lt;a href="https://github.com/Newmu/dcgan_code"&gt;Code online&lt;/a&gt; verfügbar.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="blog-artikel"&gt;Blog-Artikel&lt;/h3&gt;
+&lt;h3&gt;Blog-Artikel&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Martin Thoma, 19. Januar 2016: &lt;a href="https://martin-thoma.com/comparing-classifiers/"&gt;Comparing Classifiers&lt;/a&gt;: Ein kurzer Vergleich verschiedener Klassifikationsalgorithmen auf MNIST und IRIS.&lt;/li&gt;
 &lt;li&gt;Martin Thoma, 18. Januar 2016: &lt;a href="https://martin-thoma.com/function-approximation/"&gt;Function Approximation&lt;/a&gt;: Ein sehr kurzes Beispiel, wie man mit gausschen Prozessen Funktionen approximinieren kann.&lt;/li&gt;
-&lt;li&gt;Zach Dwiel, 15. Januar 2016, &lt;a href="https://github.com/zer0n/deepframeworks/blob/master/README.md"&gt;Evaluation of Deep Learning Toolkits&lt;/a&gt;: Ein sch&amp;ouml;ner Vergleich zwischen TensorFlow, CNTK, Theano, Torch und Caffe.&lt;/li&gt;
+&lt;li&gt;Zach Dwiel, 15. Januar 2016, &lt;a href="https://github.com/zer0n/deepframeworks/blob/master/README.md"&gt;Evaluation of Deep Learning Toolkits&lt;/a&gt;: Ein schöner Vergleich zwischen TensorFlow, CNTK, Theano, Torch und Caffe.&lt;/li&gt;
 &lt;li&gt;Abhinav kumar Gupta, 30. November 2015: &lt;a href="https://www.linkedin.com/pulse/intelligent-photo-ocr-reads-better-than-you-abhinav-kumar-gupta?trk=pulse_spock-articles"&gt;Intelligent Photo OCR that reads better than you (Or not)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;ol&gt;
@@ -188,17 +193,19 @@ Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p
 &lt;li&gt;Mike Schroepfer, 3. November 2015: &lt;a href="https://code.facebook.com/posts/1478523512478471"&gt;Teaching machines to see and understand: Advances in AI research&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Kyle Hill, 22. Juli 2015: &lt;a href="http://nerdist.com/what-happens-when-artificial-intelligence-makes-magic-the-gathering-cards/"&gt;What happens when artificial intellicence makes Magic: The Gathering cards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Yarin Gal, 3. Juli 2015, &lt;a href="http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html"&gt;What My Deep Model Doesn't Know...&lt;/a&gt;: Wie kann man die Unsicherheit eines Modells quantifizieren?&lt;/li&gt;
-&lt;li&gt;Andrej Karpathy, 21. Mai 2015, &lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;: Eine Einf&amp;uuml;hrung in RNNs. &lt;strong&gt;Sehr Empfehlenswert&lt;/strong&gt;. Eine etwas technischere, aber auch sehr gute Einf&amp;uuml;hrung ist auf &lt;a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/"&gt;colah.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrej Karpathy, 21. Mai 2015, &lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;: Eine Einführung in RNNs. &lt;strong&gt;Sehr Empfehlenswert&lt;/strong&gt;. Eine etwas technischere, aber auch sehr gute Einführung ist auf &lt;a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/"&gt;colah.github.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Stephanie Yee und Tony Chu: &lt;a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"&gt;A Visual Introduction to Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="software_1"&gt;Software&lt;/h2&gt;
+&lt;h2&gt;Software&lt;/h2&gt;
 &lt;!-- e.g. Theano, Keras, ... --&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Microsoft ver&amp;ouml;ffentlicht das hauseigene Deep Learning-Toolkit CNTK (&lt;a href="http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/"&gt;Quelle&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Microsoft veröffentlicht das hauseigene Deep Learning-Toolkit CNTK (&lt;a href="http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/"&gt;Quelle&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/nivwusquorum/tensorflow-deepq"&gt;Reinforcement Learning using Tensor Flow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="interessante-fragen"&gt;Interessante Fragen&lt;/h2&gt;
+&lt;h2&gt;Interessante Fragen&lt;/h2&gt;
 &lt;!-- For example StackExchange --&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Neural Networks&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/lasagne-users/2FgZMACnQR4"&gt;How important is ECC for Neural Networks?&lt;/a&gt;&lt;/li&gt;
@@ -214,8 +221,8 @@ Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p
 &lt;li&gt;&lt;a href="http://stackoverflow.com/q/34648517/562769"&gt;How is a digit recognizer trained when using a Markov Random Field?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Nomenclature&lt;ul&gt;
 &lt;li&gt;&lt;a href="http://cs.stackexchange.com/q/51373/2914"&gt;What is the difference between 'features' and 'descriptors' in computer vision / machine learning?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9074/8820"&gt;Is there a difference between &amp;ldquo;classification&amp;rdquo; and &amp;ldquo;labeling&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://stackoverflow.com/q/33947823/562769"&gt;What is &amp;ldquo;semantic segmentation&amp;rdquo; compared to &amp;ldquo;segmentation&amp;rdquo; and &amp;ldquo;scene labeling&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9074/8820"&gt;Is there a difference between “classification” and “labeling”?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stackoverflow.com/q/33947823/562769"&gt;What is “semantic segmentation” compared to “segmentation” and “scene labeling”?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs.stackexchange.com/q/51144/2914"&gt;What is the complexity of classification with SVMs?&lt;/a&gt;&lt;/li&gt;
@@ -223,33 +230,35 @@ Go-Meister besiegt haben. Bald soll sie gegen den Go-Weltmeister antreten.&lt;/p
 &lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/9073/8820"&gt;Are all images in ImageNet in the leaves?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://datascience.stackexchange.com/q/10000/8820"&gt;What is the difference between a (dynamic) Bayes network and a HMM?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="gemischtes"&gt;Gemischtes&lt;/h2&gt;
+&lt;h2&gt;Gemischtes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Udacity: &lt;a href="https://www.udacity.com/course/deep-learning--ud730"&gt;Deep Learning - Taking machine learning to the next level&lt;/a&gt;. Ein Deep Learning Kurs von Google.&lt;/li&gt;
-&lt;li&gt;Quentin de Laroussilhe: &lt;a href="https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p"&gt;Introduction to machine Learning&lt;/a&gt;. Eine sehr kurze Einf&amp;uuml;hrung in das maschinelle Lernen.&lt;/li&gt;
+&lt;li&gt;Quentin de Laroussilhe: &lt;a href="https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p"&gt;Introduction to machine Learning&lt;/a&gt;. Eine sehr kurze Einführung in das maschinelle Lernen.&lt;/li&gt;
 &lt;li&gt;Daniel Povey: &lt;a href="https://plus.google.com/113952791760990667476/posts/9Hiib9UgUeK"&gt;Why simple CNNs with 1x1 kernels may be viewable as learned many-to-many nonlinearities&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Auf &lt;a href="http://www.drivendata.org/"&gt;drivendata.org&lt;/a&gt; und &lt;a href="http://kaggle.com/"&gt;kaggle.com&lt;/a&gt; gibt es regelm&amp;auml;&amp;szlig;ig Wettbewerbe.&lt;/li&gt;
-&lt;li&gt;Auf &lt;a href="http://robotart.org/"&gt;robotart.org&lt;/a&gt; gibt es f&amp;uuml;r 2016 einen Wettbewerb.&lt;/li&gt;
+&lt;li&gt;Auf &lt;a href="http://www.drivendata.org/"&gt;drivendata.org&lt;/a&gt; und &lt;a href="http://kaggle.com/"&gt;kaggle.com&lt;/a&gt; gibt es regelmäßig Wettbewerbe.&lt;/li&gt;
+&lt;li&gt;Auf &lt;a href="http://robotart.org/"&gt;robotart.org&lt;/a&gt; gibt es für 2016 einen Wettbewerb.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="klassische-werke"&gt;Klassische Werke&lt;/h2&gt;
-&lt;!-- --&gt;
-&lt;p&gt;Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie sp&amp;uuml;ren, oder aber einfach nur ein Gesp&amp;uuml;r daf&amp;uuml;r bekommen, was sich in den letzten Jahren und Jahrzehnten so alles getan hat im Bereich Machine Learning - das soll Sinn und Zweck dieses Abschnitts sein.&lt;/p&gt;
+&lt;h2&gt;Klassische Werke&lt;/h2&gt;
+&lt;!--  --&gt;
+
+&lt;p&gt;Alte Werke wieder in Erinnerung rufen und einen Hauch von Nostalgie spüren, oder aber einfach nur ein Gespür dafür bekommen, was sich in den letzten Jahren und Jahrzehnten so alles getan hat im Bereich Machine Learning - das soll Sinn und Zweck dieses Abschnitts sein.&lt;/p&gt;
 &lt;p&gt;Dieses mal zum Thema HMM und deren Anwendung in der Spracherkennung:&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/"&gt;Rabiner, Lawrence R.&lt;/a&gt;
 &lt;em&gt;"A tutorial on hidden Markov models and selected applications in speech recognition."&lt;/em&gt;
 Proceedings of the IEEE 77.2 (1989): 257-286. &lt;a href="http://dx.doi.org/10.1109/5.18626"&gt;DOI: 10.1109/5.18626&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="interna"&gt;Interna&lt;/h2&gt;
+&lt;h2&gt;Interna&lt;/h2&gt;
 &lt;!-- About ML-KA itself; can also be a link to posts on this website --&gt;
-&lt;h3 id="ag-dank"&gt;AG DANK&lt;/h3&gt;
-&lt;p&gt;In der DANK-Projektgruppe dreht sich alles um Datenanalyse, Data Mining und nat&amp;uuml;rlich - um Machine Learning. Im Oktober 2015, also gleich zum offiziellen Start unserer Hochschulgruppe haben wir diese Untergruppe ins Leben gerufen. Unser erstes Ziel war die Teilnahme bei dem Datenanalyse-Wettbewerb auf der Herbstagung der Arbeitsgruppe Datenanalyse und Numerische Klassifikation (AG DANK) - daher kommt auch der Name. Die Aufgabe war die Analyse von einer Million Autokonfigurationen, die von Nutzern des Online-Autokonfigurators eines gro&amp;szlig;en deutschen Autobauers erstellt wurden.&lt;br/&gt;
-Im November 2015 pr&amp;auml;sentierte unser sechsk&amp;ouml;pfiges Team die erarbeiteten Ergebnisse auf der AG DANK Herbsttagung - dabei konnten wir auch gleich unseren ersten Erfolg verbuchen und einen Preis gewinnen.&lt;/p&gt;
-&lt;p&gt;Unterst&amp;uuml;tzt durch Prof. Geyer-Schulz (KIT) arbeiten wir nun seit Dezember 2015 an einer noch umfangreicheren Analyse des Datensatzes. Zentrale Themen dabei sind Kundensegmentierung, Conjoint-Analyse und das Lernen von Nutzerverhalten.&lt;br/&gt;
-In diesem Zusammenhang arbeiten wir an unserem ersten Paper mit dem Titel "Mining consumer-generated product-configuration data", welches wir auf der DAGStat 2016 (14.-18.03.) an der Uni G&amp;ouml;ttingen pr&amp;auml;sentieren werden.&lt;/p&gt;
-&lt;h3 id="paper-discussion-group"&gt;Paper Discussion Group&lt;/h3&gt;
+
+&lt;h3&gt;AG DANK&lt;/h3&gt;
+&lt;p&gt;In der DANK-Projektgruppe dreht sich alles um Datenanalyse, Data Mining und natürlich - um Machine Learning. Im Oktober 2015, also gleich zum offiziellen Start unserer Hochschulgruppe haben wir diese Untergruppe ins Leben gerufen. Unser erstes Ziel war die Teilnahme bei dem Datenanalyse-Wettbewerb auf der Herbstagung der Arbeitsgruppe Datenanalyse und Numerische Klassifikation (AG DANK) - daher kommt auch der Name. Die Aufgabe war die Analyse von einer Million Autokonfigurationen, die von Nutzern des Online-Autokonfigurators eines großen deutschen Autobauers erstellt wurden.&lt;br/&gt;
+Im November 2015 präsentierte unser sechsköpfiges Team die erarbeiteten Ergebnisse auf der AG DANK Herbsttagung - dabei konnten wir auch gleich unseren ersten Erfolg verbuchen und einen Preis gewinnen.&lt;/p&gt;
+&lt;p&gt;Unterstützt durch Prof. Geyer-Schulz (KIT) arbeiten wir nun seit Dezember 2015 an einer noch umfangreicheren Analyse des Datensatzes. Zentrale Themen dabei sind Kundensegmentierung, Conjoint-Analyse und das Lernen von Nutzerverhalten.&lt;br/&gt;
+In diesem Zusammenhang arbeiten wir an unserem ersten Paper mit dem Titel "Mining consumer-generated product-configuration data", welches wir auf der DAGStat 2016 (14.-18.03.) an der Uni Göttingen präsentieren werden.&lt;/p&gt;
+&lt;h3&gt;Paper Discussion Group&lt;/h3&gt;
 &lt;p&gt;Die Paper Discussion Group (PDG) wurde ins Leben gerufen um gemeinsam
-wissenschaftliche Ver&amp;ouml;ffentlichungen zu besprechen. Der Gedanke ist, dass man
-mehr aus den Ver&amp;ouml;ffentlichungen mitnimmt, wenn man es nicht nur alleine liest,
-sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskutiert.&lt;/p&gt;
+wissenschaftliche Veröffentlichungen zu besprechen. Der Gedanke ist, dass man
+mehr aus den Veröffentlichungen mitnimmt, wenn man es nicht nur alleine liest,
+sondern auch zusammenfasst, anderen erklärt und darüber diskutiert.&lt;/p&gt;
 &lt;p&gt;Bisher wurden folgende Paper besprochen:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Stanford: &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;&lt;/li&gt;
@@ -264,11 +273,12 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
 &lt;/ol&gt;
 &lt;p&gt;Mehr Informationen finden sich auf der
 &lt;a href="../paper-discussion-group/"&gt;Projektseite&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="meetings_1"&gt;Meetings&lt;/h2&gt;
+&lt;h2&gt;Meetings&lt;/h2&gt;
 &lt;!-- ML-KA meetings, but not only --&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Boston, 12. Mai 2016: Deep Learning Summit (&lt;a href="https://www.re-work.co/events/deep-learning-boston-2016"&gt;Link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;M&amp;uuml;nchen, 7. Oktober 2015: Deep Learning in Action #3 (&lt;a href="http://www.meetup.com/de-DE/deeplearning/events/225423302/?eventId=225423302"&gt;Link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;München, 7. Oktober 2015: Deep Learning in Action #3 (&lt;a href="http://www.meetup.com/de-DE/deeplearning/events/225423302/?eventId=225423302"&gt;Link&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 &lt;div class="navigation clearfix"&gt;
@@ -276,14 +286,14 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="33-treffen"&gt;33. Treffen&lt;/h1&gt;
+--&gt;</content><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:/paper-discussion-group/</id><summary type="html">&lt;p&gt;Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;33. Treffen&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=33.+PDG&amp;amp;iso=20161221T1800&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;21.12.2016, 18:00&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
+&lt;li&gt;Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1606.06724"&gt;Tagger: Deep Unsupervised Perceptual Grouping&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.06724"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.06724"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="kommende-paper"&gt;Kommende Paper&lt;/h1&gt;
+&lt;h1&gt;Kommende Paper&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Gesichtserkennung&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf"&gt;DeepFace: Closing the Gap to Human-Level Performance in Face Verification&lt;/a&gt; (Facebook)&lt;/li&gt;
@@ -309,7 +319,7 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="paper-liste"&gt;Paper Liste&lt;/h1&gt;
+&lt;h1&gt;Paper Liste&lt;/h1&gt;
 &lt;p&gt;Eine Auswahl relevanter Paper zum Thema Deep Learning und Pixel-weiser
 Klassifikation.&lt;/p&gt;
 &lt;ol&gt;
@@ -323,36 +333,36 @@ Klassifikation.&lt;/p&gt;
    Image Segmentation, &lt;em&gt;Vijay Badrinarayanan et. al&lt;/em&gt; (&lt;strong&gt;ArXiv 2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;li&gt;[ResNets] Deep Residual Learning for Image Recognition (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/HeZRS15#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id="weitere-literatur-zu-cnns-und-deep-learning"&gt;Weitere Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
-&lt;p&gt;Einsteigern empfehle ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;der Universit&amp;auml;t Stanford.&lt;/p&gt;
-&lt;p&gt;Wer selber mal gerne ein Netz trainieren m&amp;ouml;chte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
+&lt;h1&gt;Weitere Literatur zu CNNs und Deep-Learning&lt;/h1&gt;
+&lt;p&gt;Einsteigern empfehle ich das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt;der Universität Stanford.&lt;/p&gt;
+&lt;p&gt;Wer selber mal gerne ein Netz trainieren möchte, dem empfehle ich das &lt;a href="http://martin-thoma.com/lasagne-for-python-newbies/"&gt;Lasagne
 Tutorial&lt;/a&gt; von Martin
-Thoma. F&amp;uuml;r die Paper-Discussion Group ist es allerdings nicht Voraussetzung
+Thoma. Für die Paper-Discussion Group ist es allerdings nicht Voraussetzung
 bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
-&lt;h1 id="fragen"&gt;Fragen&lt;/h1&gt;
+&lt;h1&gt;Fragen&lt;/h1&gt;
 &lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
-&lt;p&gt;Fragen zu Frameworks k&amp;ouml;nnt ihr Martin stellen: &lt;code&gt;info@martin-thoma.de&lt;/code&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
-&lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
+&lt;p&gt;Fragen zu Frameworks könnt ihr Martin stellen: &lt;code&gt;info@martin-thoma.de&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Vergangene Treffen&lt;/h1&gt;
+&lt;h2&gt;Erstes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/Cnn_layer.png" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/Cnn_layer.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Schematische Darstellung von CNNs.&lt;br/&gt;
 Quelle: Stanford Deep Learning Tutorial&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 11.11.2015, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Stanford Deep Learning Tutorial&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In dem ersten Treffen m&amp;ouml;chte ich mit euch &amp;uuml;ber das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universit&amp;auml;t Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.&lt;/p&gt;
-&lt;p&gt;Aufbauend auf dem Tutorial k&amp;ouml;nnen wir in weiteren Treffen &amp;uuml;ber aktuell f&amp;uuml;hrende
-Netze, wie &lt;em&gt;AlexNet&lt;/em&gt; oder &lt;em&gt;GoogLeNet&lt;/em&gt; diskutieren. Au&amp;szlig;erdem besteht die
-M&amp;ouml;glichkeit, dass wir mit Lasagne einfache Netze selber implementieren.&lt;/p&gt;
-&lt;h3 id="vorbereitung"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch bitte im Vorfeld mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universit&amp;auml;t Stanford. Relevante Abschnitte sind:&lt;/p&gt;
+&lt;p&gt;In dem ersten Treffen möchte ich mit euch über das &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford sprechen. Dieses gibt einen kompakten sehr guten Einstieg in moderne tiefe CNNs.&lt;/p&gt;
+&lt;p&gt;Aufbauend auf dem Tutorial können wir in weiteren Treffen über aktuell führende
+Netze, wie &lt;em&gt;AlexNet&lt;/em&gt; oder &lt;em&gt;GoogLeNet&lt;/em&gt; diskutieren. Außerdem besteht die
+Möglichkeit, dass wir mit Lasagne einfache Netze selber implementieren.&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit dem &lt;a href="http://ufldl.stanford.edu/tutorial/"&gt;Deep Learning Tutorial&lt;/a&gt; der Universität Stanford. Relevante Abschnitte sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/"&gt;Multi-Layer Neural Network&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution/"&gt;Feature Extraction Using Convolution&lt;/a&gt;&lt;/li&gt;
@@ -360,68 +370,69 @@ M&amp;ouml;glichkeit, dass wir mit Lasagne einfache Netze selber implementieren.
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork"&gt;ConvolutionalNeuralNetwork&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/"&gt;Autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Das Stanford Tutorial ist recht anspruchsvoll. F&amp;uuml;r ML Einsteiger kann es
-hilfreich sein einzelne Schlagw&amp;ouml;rter auch in externen Quellen (zum Beispiel
+&lt;p&gt;Das Stanford Tutorial ist recht anspruchsvoll. Für ML Einsteiger kann es
+hilfreich sein einzelne Schlagwörter auch in externen Quellen (zum Beispiel
 Wikipedia) nachzulesen. Bitte lasst euch von offenen Fragen oder
-Verst&amp;auml;ndnisschwierigkeiten nicht abschrecken. Hierf&amp;uuml;r ist auch die Diskussion
+Verständnisschwierigkeiten nicht abschrecken. Hierfür ist auch die Diskussion
 Group da.&lt;/p&gt;
-&lt;h2 id="zweites-treffen_1"&gt;Zweites Treffen&lt;/h2&gt;
+&lt;h2&gt;Zweites Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/imagenet.png" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/imagenet.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;ImageNet Classification Challenge: &lt;br/&gt;
 AlexNet erkennt Katzen!&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 25.11.2015, 17:30 - 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: AlexNet: Die Renaissance der tiefen Neuronalen Netz&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In diesem Treffen m&amp;ouml;chte ich mit euch &amp;uuml;ber &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
-tiefes Neuronales Netz, welches 2010 &amp;uuml;berraschend die &lt;em&gt;ImageNet Classification
+&lt;p&gt;In diesem Treffen möchte ich mit euch über &lt;em&gt;AlexNet&lt;/em&gt; reden. &lt;em&gt;AlexNet&lt;/em&gt; ist ein
+tiefes Neuronales Netz, welches 2010 überraschend die &lt;em&gt;ImageNet Classification
 Challenge&lt;/em&gt; gewann. Dies leitete eine Renaissance von Deep Learning ein, welche
-bis heute anh&amp;auml;lt. Viele aktuell f&amp;uuml;hrende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In dem zweiten Treffen m&amp;ouml;chte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
+bis heute anhält. Viele aktuell führende Netze, wie beispielsweise &lt;em&gt;GoogLeNet&lt;/em&gt;, sind Weiterentwicklungen von &lt;em&gt;AlexNet&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In dem zweiten Treffen möchte ich mit euch verstehen was &lt;em&gt;AlexNet&lt;/em&gt; so
 erfolgreich macht. Wir diskutieren dazu die neuen Ideen zum Trainieren und
 Evaluieren des Netzes und untersuchen die neue Netzarchitektur.&lt;/p&gt;
-&lt;h3 id="vorbereitung_1"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf"&gt;AlexNet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="drittes-treffen_1"&gt;Drittes Treffen&lt;/h2&gt;
+&lt;h2&gt;Drittes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/a88.jpg" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/a88.jpg"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;Inception module: Ein wichtiges Feature von GoogLeNet&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 02.12.2015, 17:30 - 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: GoogLeNet: Going Deeper with Convolutions&lt;/li&gt;
 &lt;li&gt;Experte: Marvin Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In diesem Treffen schauen wir uns &lt;em&gt;GoogLeNet&lt;/em&gt; an. &lt;em&gt;GoogLeNet&lt;/em&gt; basiert auf &lt;em&gt;AlexNet&lt;/em&gt; und enth&amp;auml;lt einige Verbesserungen, die es Google erm&amp;ouml;glicht haben in der ImageNet Challenge 2014 zu f&amp;uuml;hren.&lt;/p&gt;
+&lt;p&gt;In diesem Treffen schauen wir uns &lt;em&gt;GoogLeNet&lt;/em&gt; an. &lt;em&gt;GoogLeNet&lt;/em&gt; basiert auf &lt;em&gt;AlexNet&lt;/em&gt; und enthält einige Verbesserungen, die es Google ermöglicht haben in der ImageNet Challenge 2014 zu führen.&lt;/p&gt;
 &lt;p&gt;Im zweiten Teil des Treffens beantworten wir dann erste Fragen die euch beim arbeiten mit dem Tensorflow Tutorial gekommen sind.&lt;/p&gt;
-&lt;h3 id="vorbereitung_2"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch bitte im Vorfeld mit folgender Quelle:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1409.4842"&gt;GoogLeNet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ml-ka.de/training-your-first-neural-network/"&gt;Tensorflow Session Vorbereitung&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="viertes-treffen-praktisches-treffen_1"&gt;Viertes Treffen (Praktisches Treffen)&lt;/h2&gt;
+&lt;h2&gt;Viertes Treffen (Praktisches Treffen)&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/tensorFlow.png" style="float:right;" width="128"&gt;
+&lt;img style="float:right;" align="middle"  width="128" src="//ml-ka.de/images/tensorFlow.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Quelle: Wikipedia&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: 09.12.2015, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Implementierung von CNNs mit Tensorflow&lt;/li&gt;
 &lt;li&gt;Experte: Martin&amp;nbsp;Thoma&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Das n&amp;auml;chste Treffen wird ein praktisches Treffen. Wir m&amp;ouml;chten uns im Vorfeld mit Tensorflow besch&amp;auml;ftigen und bei dem Treffen das Framework unterhalten.&lt;/p&gt;
-&lt;h3 id="vorbereitung_3"&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Das nächste Treffen wird ein praktisches Treffen. Wir möchten uns im Vorfeld mit Tensorflow beschäftigen und bei dem Treffen das Framework unterhalten.&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Zur Vorbereitung tut bitte folgendes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Installiert Python, falls noch nicht vorhanden schaut euch das &lt;a href="https://docs.python.org/2/tutorial/"&gt;offizielle Python 2 tutorial&lt;/a&gt; an.&lt;/li&gt;
@@ -430,31 +441,33 @@ Quelle: Wikipedia&lt;/figcaption&gt;
 &lt;li&gt;Bearbeite &lt;a href="http://www.tensorflow.org/tutorials/mnist/beginners/index.html"&gt;MNIST For ML Beginners&lt;/a&gt; tutorial&lt;/li&gt;
 &lt;li&gt;Registriere bei Kaggle, und bearbeite &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer task&lt;/a&gt;. Modifiziere dazu die Implementation von Schritt&amp;nbsp;4&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="funftes-treffen_1"&gt;F&amp;uuml;nftes Treffen&lt;/h2&gt;
+&lt;h2&gt;Fünftes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/woman_bb.png" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/woman_bb.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Lokalisierung eines Kopfes.&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: 16.12.2015, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Overfeat: Objektlokalisierung mit CNNs&lt;/li&gt;
 &lt;li&gt;Experte: Michael&amp;nbsp;Weber&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Overfeat erm&amp;ouml;glicht es Objecte (z.b. Autos) auf Bildern zu lokalisieren. Die Aufgabe ist es eine Bounding-Box um das zu Lokalisierende Objekt zu zeichnen.&lt;/p&gt;
-&lt;h3 id="vorbereitung_4"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
+&lt;p&gt;Overfeat ermöglicht es Objecte (z.b. Autos) auf Bildern zu lokalisieren. Die Aufgabe ist es eine Bounding-Box um das zu Lokalisierende Objekt zu zeichnen.&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Laut Michael ist die Quelle sehr Umfrangreich. Wir werden in der PDG also vermutlich nicht ganz durchkommen. Wer es also nicht schafft das gesammte Paper zu lesen kann trotzdem gerne vorbeikommen.&lt;/p&gt;
-&lt;h2 id="sechstes-treffen_1"&gt;Sechstes Treffen&lt;/h2&gt;
+&lt;h2&gt;Sechstes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/arma.png" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/arma.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
-Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
+Lokalisierung von Köpfen.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: 21.12.2015, 16:15&lt;/li&gt;
 &lt;li&gt;Ort:  KIT Biblothek (30.50) R31 (Medienzentrum)&lt;/li&gt;
@@ -462,45 +475,46 @@ Lokalisierung von K&amp;ouml;pfen.&lt;/figcaption&gt;
 &lt;li&gt;Experte: Michael&amp;nbsp;Weber&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Wir besprechen Sektion 4 und 5 von Overfeat.&lt;/p&gt;
-&lt;h3 id="vorbereitung_5"&gt;Vorbereitung&lt;/h3&gt;
-&lt;p&gt;Besch&amp;auml;ftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;Beschäftigt euch im Vorfeld mit Overfeat:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.6229"&gt;Overfeat&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="siebtes-treffen_1"&gt;Siebtes Treffen&lt;/h2&gt;
+&lt;h2&gt;Siebtes Treffen&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/horse640_final.png" style="float:right;" width="256"&gt;
+&lt;img style="float:right;" align="middle"  width="256" src="//ml-ka.de/images/horse640_final.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;&lt;br/&gt;
 Segmentierung eines Bildes.&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Datum: 13.01.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: Fully Convolutional Networks for Semantic Segmentation (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1411.4038#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In dem n&amp;auml;chsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.&lt;/p&gt;
-&lt;h3 id="vorbereitung_6"&gt;Vorbereitung&lt;/h3&gt;
+&lt;p&gt;In dem nächsten Treffen verstehen wir die FCNs welche Long und Shelhammer auf der CVPR 2015 vorgestellt haben. Diese haben innerhalb weniger Monate viel Aufmerksamkeit erhalten und wurden in kurzer Zeit bereits fast 200 mal zitiert.&lt;/p&gt;
+&lt;h3&gt;Vorbereitung&lt;/h3&gt;
 &lt;p&gt;Lest bitte im Vorfeld das folgende Paper:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf"&gt;Fully Convolutional Networks for Semantic Segmentation&lt;/a&gt;,
    &lt;em&gt;Jon Long and Evan Shelhamer et. al&lt;/em&gt; (&lt;strong&gt;CVPR2015&lt;/strong&gt;)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="achtes-treffen_1"&gt;Achtes Treffen&lt;/h2&gt;
+&lt;h2&gt;Achtes Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 20.01.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/"&gt;Understanding LSTM Networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Leonard&amp;nbsp;Lausen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="neuntes-treffen"&gt;Neuntes Treffen&lt;/h2&gt;
+&lt;h2&gt;Neuntes Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 27.01.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1406.6247"&gt;Recurrent Models of Visual Attention&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Leonard&amp;nbsp;Lausen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Bei dem Treffen wurden folgende Paper f&amp;uuml;r weitere Treffen vorgeschlagen:&lt;/p&gt;
+&lt;p&gt;Bei dem Treffen wurden folgende Paper für weitere Treffen vorgeschlagen:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="http://arxiv.org/abs/1511.06342"&gt;Actor mimic: Deep multitask and transfer reinforcement learning&lt;/a&gt;&lt;/li&gt;
@@ -515,7 +529,7 @@ Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="zehntes-treffen"&gt;Zehntes Treffen&lt;/h2&gt;
+&lt;h2&gt;Zehntes Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 03.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
@@ -524,63 +538,63 @@ Segmentierung eines Bildes.&lt;/figcaption&gt;
 &lt;/ul&gt;
 &lt;p&gt;Going Deeper - mal wieder. In dem Paper wird ein Netz vorgestellt, welches
 bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
-&lt;h2 id="elftes-treffen"&gt;Elftes Treffen&lt;/h2&gt;
+&lt;h2&gt;Elftes Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 10.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1502.03044"&gt;Show, Attend and Tell: Neural Image Caption Generation with Visual Attention&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Leonard&amp;nbsp;Lausen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="zwolftes-treffen"&gt;Zw&amp;ouml;lftes Treffen&lt;/h2&gt;
+&lt;h2&gt;Zwölftes Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 17.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/pdf/1505.05192v3.pdf"&gt;Unsupervised Visual Representation Learning by Context Prediction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Andrey&amp;nbsp;Yegorov&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="13-treffen"&gt;13. Treffen&lt;/h2&gt;
+&lt;h2&gt;13. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 24.02.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Ort:  Seminarraum: -107, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1312.5602"&gt;Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Marvin&amp;nbsp;Teichmann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="14-treffen"&gt;14. Treffen&lt;/h2&gt;
+&lt;h2&gt;14. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=PDG&amp;amp;iso=20160426T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;26.04.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1603.09382"&gt;Deep Networks with Stochastic Depth&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=huang2016networks#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="15-treffen"&gt;15. Treffen&lt;/h2&gt;
+&lt;h2&gt;15. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=15.+PDG&amp;amp;iso=20160503T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;03.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (Geb. 50.34)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1506.01497"&gt;Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Experte: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/nips/RenHGS15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="16-treffen"&gt;16. Treffen&lt;/h2&gt;
+&lt;h2&gt;16. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160517T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;17.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Stra&amp;szlig;e 23&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Straße 23&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf"&gt;Understanding the difficulty of training deep feedforward neural networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/jmlr/GlorotB10#MartinThoma"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="17-treffen_1"&gt;17. Treffen&lt;/h1&gt;
+&lt;h1&gt;17. Treffen&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=16.+PDG&amp;amp;iso=20160524T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;24.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Stra&amp;szlig;e 23&lt;/a&gt;) (ihr m&amp;uuml;sst klingeln)&lt;/li&gt;
+&lt;li&gt;Ort: IISM-Meetingraum-282 (&lt;a href="https://goo.gl/maps/7t9si2dLkoQ2"&gt;Fritz-Erler-Straße 23&lt;/a&gt;) (ihr müsst klingeln)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1602.01783"&gt;Asynchronous Methods for Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Moderator: Fabian&amp;nbsp;Both (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/MnihBMGLHSK16"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="18-treffen"&gt;18. Treffen&lt;/h2&gt;
+&lt;h2&gt;18. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=17.+PDG&amp;amp;iso=20160531T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;31.05.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1303.5778"&gt;Speech Recognition with Deep Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/icassp/GravesMH13"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/icassp/GravesMH13"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="19-treffen"&gt;19. Treffen&lt;/h2&gt;
+&lt;h2&gt;19. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=19.+PDG&amp;amp;iso=20160607T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;07.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
@@ -591,9 +605,9 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://arxiv.org/pdf/1301.3781.pdf"&gt;Efficient Estimation of Word Representations in Vector Space&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;TensorFlow: &lt;a href="https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html"&gt;Vector Representations of Words&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Blog-Artikel: &lt;a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/"&gt;The amazing power of word vectors&lt;/a&gt; (sch&amp;ouml;ne Bilchen :-) )&lt;/li&gt;
+&lt;li&gt;Blog-Artikel: &lt;a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/"&gt;The amazing power of word vectors&lt;/a&gt; (schöne Bilchen :-) )&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="20-treffen"&gt;20. Treffen&lt;/h2&gt;
+&lt;h2&gt;20. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=20.+PDG&amp;amp;iso=20160614T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;14.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
@@ -604,19 +618,19 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315"&gt;NTM-Lasagne: A Library for Neural Turing Machines in Lasagne&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="21-treffen"&gt;21. Treffen&lt;/h2&gt;
+&lt;h2&gt;21. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=21.+PDG&amp;amp;iso=20160628T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;28.06.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf"&gt;DeepFace: Closing the Gap to Human-Level Performance in Face Verification&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Moderator: Martin&amp;nbsp;Thoma (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/cvpr/TaigmanYRW14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="22-treffen"&gt;22. Treffen&lt;/h2&gt;
+&lt;h2&gt;22. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=22.+PDG&amp;amp;iso=20160705T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;05.07.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://arxiv.org/abs/1410.3916#"&gt;Memory Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/WestonCB14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Supplementary resources:&lt;/p&gt;
 &lt;ul&gt;
@@ -625,67 +639,67 @@ bei ILSVRC deutlich besser ist als die vorherigen Resultate.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://blog.themusio.com/2016/03/09/memory-neural-networks-memnn/"&gt;Memory Neural Networks :MemNN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/"&gt;ATTENTION AND MEMORY IN DEEP LEARNING AND NLP&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="23-treffen"&gt;23. Treffen&lt;/h2&gt;
+&lt;h2&gt;23. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=23.+PDG&amp;amp;iso=20160712T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;12.07.2016, 17:30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Seminarraum 131, Infobau (&lt;a href="https://goo.gl/maps/XVYLoJG7o762"&gt;Geb. 50.34&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://stanford.edu/~dritchie/graphics-hmc.pdf"&gt;Generating Design Suggestions under Tight Constraints with
 Gradient-based Probabilistic Programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ugrave;njun&amp;nbsp;Nigel&amp;nbsp;W&amp;agrave;n (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jùnjun&amp;nbsp;Nigel&amp;nbsp;Wàn (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/cgf/RitchieLGH15"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="24-treffen"&gt;24. Treffen&lt;/h2&gt;
+&lt;h2&gt;24. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 19.10.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://distill.pub/2016/augmented-rnns/"&gt;Attention and Augmented Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="25-treffen"&gt;25. Treffen&lt;/h2&gt;
+&lt;h2&gt;25. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 26.10.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf"&gt;Generative Adversarial Nets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/nips/GoodfellowPMXWOCB14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=conf/nips/GoodfellowPMXWOCB14"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="26-treffen"&gt;26. Treffen&lt;/h2&gt;
+&lt;h2&gt;26. Treffen&lt;/h2&gt;
 &lt;p&gt;Ausgefallen&lt;/p&gt;
-&lt;h2 id="27-treffen"&gt;27. Treffen&lt;/h2&gt;
+&lt;h2&gt;27. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 09.11.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://deepmind.com/blog/differentiable-neural-computers/"&gt;Differentiable Neural Computers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="28-treffen"&gt;28. Treffen&lt;/h2&gt;
+&lt;h2&gt;28. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 16.11.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html"&gt;Differentiable Neural Computers 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=10.1038/nature20101"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=10.1038/nature20101"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="29-treffen"&gt;29. Treffen&lt;/h2&gt;
+&lt;h2&gt;29. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: 23.11.2016, 17:30&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1605.06065v1"&gt;One-shot Learning with Memory-Augmented Neural Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: Fabian&amp;nbsp;Both / J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Fabian&amp;nbsp;Both / Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="30-treffen"&gt;30. Treffen&lt;/h2&gt;
+&lt;h2&gt;30. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=30.+PDG&amp;amp;iso=20161130T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;30.11.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
+&lt;li&gt;Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1606.04474"&gt;Learning to learn by gradient descent by gradient descent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1606.04474"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="31-treffen"&gt;31. Treffen&lt;/h2&gt;
+&lt;h2&gt;31. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&amp;amp;iso=20161207T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;07.12.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
+&lt;li&gt;Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1611.05763v2"&gt;Learning to Reinforcement Learn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.05763"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.05763"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="32-treffen"&gt;32. Treffen&lt;/h2&gt;
+&lt;h2&gt;32. Treffen&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=31.+PDG&amp;amp;iso=20161214T1730&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;14.12.2016, 17:30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
+&lt;li&gt;Ort: Rintheimer Straße 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1611.02167"&gt;Designing Neural Network Architectures Using Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.02167"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+&lt;li&gt;Moderator: Jörg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.02167"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:/training-your-first-neural-network/</id><summary type="html"></summary><content type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
 neural network to solve the MNIST task on Kaggle. You will get three
 interesting abilities:&lt;/p&gt;
 &lt;ol&gt;
@@ -695,27 +709,30 @@ interesting abilities:&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;Additionally, you will get some knowledge about Python. Python is the language
 of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
-&lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
+&lt;h2&gt;What is MNIST?&lt;/h2&gt;
 &lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/mnist-2.png" style="float:right;" width="256px"&gt;
+&lt;img style="float:right;" align="middle"  width="256px" src="//ml-ka.de/images/mnist-2.png"&gt;
 &lt;figcaption style="display:table-caption;caption-side:bottom"&gt;One example of an item in the MNIST dataset - the digit 2&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
-&lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
+&lt;/figure&gt;
+
+&lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;×&amp;nbsp;28px digits. The training set contains
 60,000 examples and the test set contains 10,000 examples. If you want to know
 more, you can read the &lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;official Website&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="the-framework-tensor-flow"&gt;The Framework: Tensor Flow&lt;/h2&gt;
+&lt;h2&gt;The Framework: Tensor Flow&lt;/h2&gt;
 &lt;p&gt;Tensor Flow is a framework which allows you to train neural networks with GPU,
 but also with CPU. I've wrote a couple of words in a blog post:
 &lt;a href="http://martin-thoma.com/tensor-flow-quick/"&gt;Tensor Flow - A quick impression&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id="using-gpu-at-atis"&gt;Using GPU at ATIS&lt;/h3&gt;
+&lt;h3&gt;Using GPU at ATIS&lt;/h3&gt;
 &lt;p&gt;KIT students have the possibility to use the ATIS computer pool. They have
 some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
 GeForce GTX 560 Ti 448 Cores).&lt;/p&gt;
 &lt;p&gt;Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
 to add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;export PATH=$PATH:&amp;quot;/opt/cuda-7.5/bin&amp;quot;
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:&amp;quot;/opt/cuda-7.5/lib64&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;Make sure it appears when you execute &lt;code&gt;echo $PATH&lt;/code&gt; and &lt;code&gt;echo LD_LIBRARY_PATH&lt;/code&gt;.
 If it doesn't, execute &lt;code&gt;source ~/.bashrc&lt;/code&gt;. Depending on your configuration,
 you might have to do this every time when you start a new console session.&lt;/p&gt;
@@ -723,29 +740,31 @@ you might have to do this every time when you start a new console session.&lt;/p
 ATIS. However, you can sill use your personal computer.&lt;/p&gt;
 &lt;p&gt;The error I get is&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
-  File &lt;span class="s2"&gt;"tftest.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;tftest.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;4&lt;/span&gt;, in &amp;lt;module&amp;gt;
     import tensorflow as tf
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;4&lt;/span&gt;, in &amp;lt;module&amp;gt;
     from tensorflow.python import *
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py"&lt;/span&gt;, line 22, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;22&lt;/span&gt;, in &amp;lt;module&amp;gt;
     from tensorflow.python.client.client_lib import *
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py"&lt;/span&gt;, line 35, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;35&lt;/span&gt;, in &amp;lt;module&amp;gt;
     from tensorflow.python.client.session import InteractiveSession
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py"&lt;/span&gt;, line 11, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;11&lt;/span&gt;, in &amp;lt;module&amp;gt;
     from tensorflow.python import pywrap_tensorflow as tf_session
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 28, in &amp;lt;module&amp;gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;28&lt;/span&gt;, in &amp;lt;module&amp;gt;
     &lt;span class="nv"&gt;_pywrap_tensorflow&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; swig_import_helper&lt;span class="o"&gt;()&lt;/span&gt;
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 24, in swig_import_helper
-    &lt;span class="nv"&gt;_mod&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; imp.load_module&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'_pywrap_tensorflow'&lt;/span&gt;, fp, pathname, description&lt;span class="o"&gt;)&lt;/span&gt;
+  File &lt;span class="s2"&gt;&amp;quot;/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py&amp;quot;&lt;/span&gt;, line &lt;span class="m"&gt;24&lt;/span&gt;, in swig_import_helper
+    &lt;span class="nv"&gt;_mod&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; imp.load_module&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;_pywrap_tensorflow&amp;#39;&lt;/span&gt;, fp, pathname, description&lt;span class="o"&gt;)&lt;/span&gt;
 ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
 &lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id="what-is-kaggle_1"&gt;What is Kaggle?&lt;/h2&gt;
+
+
+&lt;h2&gt;What is Kaggle?&lt;/h2&gt;
 &lt;p&gt;Kaggle is a Machine Learning competition website. It describes tasks in a very
 simple way, provides the data and lets you instantly compare yourself (or
 rather your results) with others. With this article, you should be able to make
 a decent submission for the
 &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer&lt;/a&gt; task.&lt;/p&gt;
-&lt;h2 id="what-to-do"&gt;What to do&lt;/h2&gt;
+&lt;h2&gt;What to do&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Get a Python installation and get a feeling how Python works. If you didn't
    use Python before, I suggest reading chapters 1-5 of the
@@ -757,8 +776,8 @@ a decent submission for the
    &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer task&lt;/a&gt;, adjust
    your implementation from step&amp;nbsp;5 and make a submission to Kaggle.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="questions"&gt;Questions&lt;/h2&gt;
-&lt;h3 id="how-do-i-get-python"&gt;How do I get Python?&lt;/h3&gt;
+&lt;h2&gt;Questions&lt;/h2&gt;
+&lt;h3&gt;How do I get Python?&lt;/h3&gt;
 &lt;p&gt;I have to admit that I always worked on systems which already had a running
 Python installation. This is one reason why I really like working with
 Ubuntu (Linux). You only have to execute &lt;code&gt;sudo apt-get install python-pip&lt;/code&gt; and
@@ -766,22 +785,24 @@ you're ready to go.&lt;/p&gt;
 &lt;p&gt;The official page is &lt;a href="https://www.python.org/downloads/"&gt;www.python.org/downloads&lt;/a&gt;.
 If you're having trouble getting a working Python installation, don't hesitate
 to ask for help.&lt;/p&gt;
-&lt;h3 id="how-do-i-check-if-my-python-installation-is-working"&gt;How do I check if my Python installation is working?&lt;/h3&gt;
+&lt;h3&gt;How do I check if my Python installation is working?&lt;/h3&gt;
 &lt;p&gt;Go to the command line and execute &lt;code&gt;python --version&lt;/code&gt;. My output is &lt;code&gt;Python 2.7.6&lt;/code&gt;.
 As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
 only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
 &lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip --version
-pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
+pip &lt;span class="m"&gt;6&lt;/span&gt;.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python &lt;span class="m"&gt;2&lt;/span&gt;.7&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;pip is a package manager for Python. You might need it to install several
 packages, including Tensor Flow.&lt;/p&gt;
-&lt;h3 id="how-do-i-make-sure-tensor-flow-works"&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
+&lt;h3&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
 &lt;p&gt;Create a &lt;code&gt;testtf.py&lt;/code&gt; with the following content:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;tensorflow&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;tf&lt;/span&gt;
-&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Hello, TensorFlow!&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;sess&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Session&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
 
@@ -789,6 +810,8 @@ packages, including Tensor Flow.&lt;/p&gt;
 &lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;Execute it with the command &lt;code&gt;python testtf.py&lt;/code&gt;. For me, the output is&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
 I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
@@ -806,173 +829,179 @@ I tensorflow/core/common_runtime/local_session.cc:45] Local session inter op par
 Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The important part is&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Hello, TensorFlow!
 42
 &lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
+
+
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</content><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:/kaggle-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
 &lt;a href="https://www.kaggle.com/c/rossmann-store-sales"&gt;Rossmann Stores Challenge&lt;/a&gt;
-l&amp;auml;uft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
+läuft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
 Guckt euch bitte die Aufgabe vorher an, und bringe Ideen mit.&lt;/p&gt;
-&lt;p&gt;Es kam die Idee auf dass wir uns w&amp;ouml;chentlich treffen um langfristig etwas zu
-erreichen. Das k&amp;ouml;nnen wir beim Treffen auch gleich besprechen.&lt;/p&gt;
+&lt;p&gt;Es kam die Idee auf dass wir uns wöchentlich treffen um langfristig etwas zu
+erreichen. Das können wir beim Treffen auch gleich besprechen.&lt;/p&gt;
 &lt;p&gt;Ich freue mich auf euch.&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 2.&amp;nbsp;Dezember&amp;nbsp;2015, 20:00&amp;ndash;22:00&amp;nbsp;Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Seminarraum&amp;nbsp;-118, Infobau (Geb.&amp;nbsp;50.34)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.de/medientreffen-1/" rel="alternate"></link><published>2015-11-30T19:00:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2015-11-30:medientreffen-1/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
-&lt;p&gt;Hierzu wollen wir uns n&amp;auml;chsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen m&amp;ouml;chte. Wer noch etwas Zeit und Lust hat kann gerne offiziell Teil des Webmaster-Teams werden. Wir freuen uns aber schon, wenn Ihr ab und zu etwas auf der HP oder &amp;uuml;ber FB ver&amp;ouml;ffentlichen wollt. Ihr k&amp;ouml;nnt aber auch einfach nur ins Oxford kommen und eure Ideen beitragen, falls eure Zeit Jahr sehr knapp ist.&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.de/medientreffen-1/" rel="alternate"></link><published>2015-11-30T19:00:00+01:00</published><updated>2015-11-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2015-11-30:/medientreffen-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Außenwirkung der HSG zu verstärken. Dies ist für zukünftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
+&lt;p&gt;Hierzu wollen wir uns nächsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen möchte. Wer noch etwas Zeit und Lust hat kann gerne offiziell Teil des Webmaster-Teams werden. Wir freuen uns aber schon, wenn Ihr ab und zu etwas auf der HP oder über FB veröffentlichen wollt. Ihr könnt aber auch einfach nur ins Oxford kommen und eure Ideen beitragen, falls eure Zeit Jahr sehr knapp ist.&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 30. November um 20:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Oxford Pub&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="//ml-ka.de/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><published>2015-11-30T09:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-30:ausserordentliche-mitgliederversammlung-1/</id><summary type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
-wird es eine au&amp;szlig;erordentliche Mitgliederversammlung geben. Der Grund daf&amp;uuml;r ist
+&lt;/ul&gt;</content><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="//ml-ka.de/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><published>2015-11-30T09:00:00+01:00</published><updated>2015-11-30T09:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-30:/ausserordentliche-mitgliederversammlung-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Wie beim letzten Monatstreffen und über den E-Mail-Verteiler schon angekündigt
+wird es eine außerordentliche Mitgliederversammlung geben. Der Grund dafür ist
 unser Status als Hochschulgruppe.&lt;/p&gt;
 &lt;p&gt;Am 21. November habe ich vom AStA folgende E-Mail bekommen:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hallo Martin,&lt;/p&gt;
-&lt;p&gt;ich habe euren Antrag zur Registrierung als Hochschulgruppe gepr&amp;uuml;ft. Dabei
+&lt;p&gt;ich habe euren Antrag zur Registrierung als Hochschulgruppe geprüft. Dabei
 ist mir aufgefallen, dass bei euch ein Passus zur ehrenamtlichen Arbeit
 fehlt.&lt;/p&gt;
 &lt;p&gt;Paragraph 2 der Hochschulgruppenordnung: (3) Die Hochschulgruppe darf nicht
 gewerblich oder eigenwirtschaftlich arbeiten. Die Mitglieder der
 Hochschulgruppe arbeiten als solche ehrenamtlich.&lt;/p&gt;
-&lt;p&gt;Wenn ihr noch so etwas in eure Satzung erg&amp;auml;nzt steht euch nichts mehr im Wege
-f&amp;uuml;r die Registrierung.&lt;/p&gt;
-&lt;p&gt;Viele Gr&amp;uuml;&amp;szlig;e
+&lt;p&gt;Wenn ihr noch so etwas in eure Satzung ergänzt steht euch nichts mehr im Wege
+für die Registrierung.&lt;/p&gt;
+&lt;p&gt;Viele Grüße
 Andrej&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Daher eine sehr kurze Mitgliederversammlung, wo ein paar Satzungs&amp;auml;nderungen
+&lt;p&gt;Daher eine sehr kurze Mitgliederversammlung, wo ein paar Satzungsänderungen
 (vgl. &lt;a href="https://github.com/ML-KA/satzung/tree/ehrenamtlich"&gt;Branch 'ehrenamtlich'&lt;/a&gt;)
 beschlossen werden sollen.&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 16. Dezember um 19:00 Uhr&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest. Vermutlich im Informatik-Geb&amp;auml;ude im Keller.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest. Vermutlich im Informatik-Gebäude im Keller.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Protokollant&lt;/strong&gt;: Wird noch gesucht.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.de/monatstreffen-2/" rel="alternate"></link><published>2015-11-17T10:26:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+&lt;/ul&gt;</content><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.de/monatstreffen-2/" rel="alternate"></link><published>2015-11-17T10:26:00+01:00</published><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-17:/monatstreffen-2/</id><summary type="html"></summary><content type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der &lt;strong&gt;AG DANK&lt;/strong&gt; (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
-&lt;p&gt;Marvin Teichmann wird kurz &amp;uuml;ber die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
-erz&amp;auml;hlen.&lt;/p&gt;
+&lt;p&gt;Marvin Teichmann wird kurz über die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
+erzählen.&lt;/p&gt;
 &lt;p&gt;Ein wichtiger Punkt ist eine Mitteilung des Vorstandes bzgl. einer
-Satzungs&amp;auml;nderung.&lt;/p&gt;
+Satzungsänderung.&lt;/p&gt;
 &lt;p&gt;Im Anschluss findet wieder eine freie Diskussion statt, in der ihr auch neue
-Ideen vorstellen k&amp;ouml;nnt.&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+Ideen vorstellen könnt.&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 25. November um 19:15 Uhr bis 20:45&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Geb&amp;auml;ude 50.34)&lt;/a&gt;, Raum -107&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Gebäude 50.34)&lt;/a&gt;, Raum -107&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt; Liegen noch keine vor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Wird nicht gemacht.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.de/monatstreffen-1/" rel="alternate"></link><published>2015-10-22T13:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-10-22:monatstreffen-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
-&lt;p&gt;Im Anschluss wollen wir uns &amp;uuml;ber Projektideen und m&amp;ouml;gliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
-&lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.de/monatstreffen-1/" rel="alternate"></link><published>2015-10-22T13:20:00+02:00</published><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-10-22:/monatstreffen-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Es wird am Mittwoch zwei Vorträge geben. Der erste Vortrag gibt eine 30-minütige Einführung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-minütigen Überblick über pixelweise Klassifikation. Dieser Vortrag ist der Auftakt für eine Paper-Discussion Group über dieses Thema.&lt;/p&gt;
+&lt;p&gt;Im Anschluss wollen wir uns über Projektideen und mögliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
+&lt;h2&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 28. Oktober um 19:15 Uhr bis 20:45&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Geb&amp;auml;ude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Gebäude 50.34)&lt;/a&gt;, Raum -102&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Martin/LaTeX/Vortrag-Martin.pdf"&gt;Grundlagen des maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/ML-KA/presentations/raw/master/2015-10/Vortrag-Marvin/2015-07.pdf"&gt;Pixelweise Klassifikation mit tiefen Neuronalen Netzwerken&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;/ul&gt;</content><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/lectures/</id><summary type="html"></summary><content type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
-&lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+&lt;h2&gt;Machine Learning Techniques&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th&gt;Short&lt;/th&gt;
-&lt;th&gt;Lecturer&lt;/th&gt;
-&lt;th&gt;ECTS&lt;/th&gt;
-&lt;th&gt;SWS&lt;/th&gt;
-&lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Title&lt;/th&gt;
+        &lt;th&gt;Short&lt;/th&gt;
+        &lt;th&gt;Lecturer&lt;/th&gt;
+        &lt;th&gt;ECTS&lt;/th&gt;
+        &lt;th&gt;SWS&lt;/th&gt;
+    &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/analysetechniken-grosser-datenbestaende/"&gt;Analysetechniken f&amp;uuml;r gro&amp;szlig;e Datenbest&amp;auml;nde&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;[24114]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. B&amp;ouml;hm&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;2+1&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/analysetechniken-grosser-datenbestaende/"&gt;Analysetechniken für große Datenbestände&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;[24114]&lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Böhm&lt;/td&gt;
+    &lt;td&gt;5&lt;/td&gt;
+    &lt;td&gt;2+1&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/machine-learning-1-course/"&gt;Maschinelles Lernen 1&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;[24150]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. Z&amp;ouml;llner, Prof. Dr. Dillmann &lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/machine-learning-1-course/"&gt;Maschinelles Lernen 1&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;[24150]&lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Zöllner, Prof. Dr. Dillmann &lt;/td&gt;
+    &lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/machine-learning-2-course/"&gt;Maschinelles Lernen 2&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;[24620]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. Z&amp;ouml;llner, Prof. Dr. Dillmann &lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/machine-learning-2-course/"&gt;Maschinelles Lernen 2&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;[24620]&lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Zöllner, Prof. Dr. Dillmann &lt;/td&gt;
+    &lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/mustererkennung-klausur/"&gt;Mustererkennung&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;[24675]&lt;/td&gt;
-&lt;td&gt;Prof. Dr. Beyerer&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/mustererkennung-klausur/"&gt;Mustererkennung&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;[24675]&lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Beyerer&lt;/td&gt;
+    &lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/neuronale-netze-vorlesung/"&gt;Neuronale Netze&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt; [24642] &lt;/td&gt;
-&lt;td&gt;Prof. Dr. Waibel&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/neuronale-netze-vorlesung/"&gt;Neuronale Netze&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt; [24642] &lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Waibel&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/informationsfusion/"&gt;Informationsfusion&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt; [24172] &lt;/td&gt;
-&lt;td&gt;Prof. Dr. Heizmann&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/informationsfusion/"&gt;Informationsfusion&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt; [24172] &lt;/td&gt;
+    &lt;td&gt;Prof. Dr. Heizmann&lt;/td&gt;
+    &lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/probabilistische-planung/"&gt;Probabilistische Planung&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt; [24603] &lt;/td&gt;
-&lt;td&gt;PD Dr.-Ing. Marco Huber&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/probabilistische-planung/"&gt;Probabilistische Planung&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt; [24603] &lt;/td&gt;
+    &lt;td&gt;PD Dr.-Ing. Marco Huber&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id="applications"&gt;Applications&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+
+&lt;h2&gt;Applications&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th&gt;Short&lt;/th&gt;
-&lt;th&gt;Lecturer&lt;/th&gt;
-&lt;th&gt;ECTS&lt;/th&gt;
-&lt;th&gt;SWS&lt;/th&gt;
-&lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Title&lt;/th&gt;
+        &lt;th&gt;Short&lt;/th&gt;
+        &lt;th&gt;Lecturer&lt;/th&gt;
+        &lt;th&gt;ECTS&lt;/th&gt;
+        &lt;th&gt;SWS&lt;/th&gt;
+    &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Grundlagen der Automatischen Spracherkennung&lt;/td&gt;
-&lt;td&gt;[24145]&lt;/td&gt;
-&lt;td&gt;Dr. St&amp;uuml;ker&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
+    &lt;td&gt;Grundlagen der Automatischen Spracherkennung&lt;/td&gt;
+    &lt;td&gt;[24145]&lt;/td&gt;
+    &lt;td&gt;Dr. Stüker&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://martin-thoma.com/lma/"&gt;Lokalisierung mobiler Agenten&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;[24613]&lt;/td&gt;
-&lt;td&gt;Dr.-Ing. Kurz&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;&lt;a href="https://martin-thoma.com/lma/"&gt;Lokalisierung mobiler Agenten&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;[24613]&lt;/td&gt;
+    &lt;td&gt;Dr.-Ing. Kurz&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id="hands-on-courses"&gt;Hands on Courses&lt;/h2&gt;
-&lt;table class="table table-hover table-striped"&gt;
+
+&lt;h2&gt;Hands on Courses&lt;/h2&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Title&lt;/th&gt;
@@ -998,49 +1027,50 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
-&lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
+&lt;/table&gt;</content><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/machine-learning-grundlagen/</id><summary type="html"></summary><content type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erklärt.&lt;/p&gt;
+&lt;h2&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
-Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "m&amp;ouml;glichst gut"
-erf&amp;uuml;llt wird. Was "m&amp;ouml;glichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
+Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "möglichst gut"
+erfüllt wird. Was "möglichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
 &lt;p&gt;Tom Mitchel hat maschinelles Lernen wie folgt Definiert:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A computer program is said to learn from experience &lt;span class="math"&gt;\(E\)&lt;/span&gt; with respect to some
-class of tasks &lt;span class="math"&gt;\(T\)&lt;/span&gt; and performance measure &lt;span class="math"&gt;\(P\)&lt;/span&gt;, if its performance at tasks
-in &lt;span class="math"&gt;\(T\)&lt;/span&gt;, as measured by &lt;span class="math"&gt;\(P\)&lt;/span&gt;, improves with experience &lt;span class="math"&gt;\(E\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;A computer program is said to learn from experience $E$ with respect to some
+class of tasks $T$ and performance measure $P$, if its performance at tasks
+in $T$, as measured by $P$, improves with experience $E$.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id="ein-beispiel"&gt;Ein Beispiel&lt;/h2&gt;
+&lt;h2&gt;Ein Beispiel&lt;/h2&gt;
 &lt;p&gt;Angenommen man hat eine &lt;a href="https://de.wikipedia.org/wiki/Schwertlilien"&gt;Schwertlilie&lt;/a&gt;.
-Es ist klar, dass es eine Schwertlilie ist, aber es k&amp;ouml;nnte entweder eine
+Es ist klar, dass es eine Schwertlilie ist, aber es könnte entweder eine
 Iris Setosa, eine Iris Virginica oder eine Iris Versicolor sein. Man muss nun
 ein Programm schreiben, welches die 3 Arten von einander unterscheiden kann.
 Der Einfachheit halber werden diese im Folgenden als Klasse I, II und III
 bezeichnet.&lt;/p&gt;
-&lt;p&gt;Biologen haben f&amp;uuml;r je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
-Gr&amp;ouml;&amp;szlig;en gemessen:&lt;/p&gt;
+&lt;p&gt;Biologen haben für je 50 konkrete Pflanzen (Instanzen der drei Arten) vier
+Größen gemessen:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kelchblatt"&gt;Kelchblatt&lt;/a&gt;: L&amp;auml;nge und H&amp;ouml;he, in cm.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kronblatt"&gt;Kronblatt&lt;/a&gt;: L&amp;auml;nge und H&amp;ouml;he, in cm.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kelchblatt"&gt;Kelchblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Kronblatt"&gt;Kronblatt&lt;/a&gt;: Länge und Höhe, in cm.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Wie kann man diese Information nun nutzen um zu lernen, was eine Iris
 Versicolor von einer Iris Virginica unterscheidet?&lt;/p&gt;
-&lt;p&gt;Der einfachste Ansatz w&amp;auml;re die Daten f&amp;uuml;r einfache Klassifikatoren zu
+&lt;p&gt;Der einfachste Ansatz wäre die Daten für einfache Klassifikatoren zu
 betrachten. Vielleicht hat Klasse I ja immer eine deutlich kleinere
-Kelchblattgr&amp;ouml;&amp;szlig;e. Oder vielleicht ist das Verh&amp;auml;ltnis zwischen Kelchblattl&amp;auml;nge
+Kelchblattgröße. Oder vielleicht ist das Verhältnis zwischen Kelchblattlänge
 und Kelchblattbreite deutlich unterschiedlich bei den Arten.&lt;/p&gt;
-&lt;p&gt;Das w&amp;auml;re eine einfache L&amp;ouml;sung f&amp;uuml;r dieses Klassifikationsproblem.&lt;/p&gt;
+&lt;p&gt;Das wäre eine einfache Lösung für dieses Klassifikationsproblem.&lt;/p&gt;
 &lt;!-- ## Klassifikatoren vergleichen
 
 Natürlich gibt es viele weitere Möglichkeiten das Klassifikationsproblem zu
 lösen. Und wir wollen die beste finden. Aber was ist die beste Möglichkeit?
 Dafür muss man eine Fehlerfunktion haben.  --&gt;
-&lt;h2 id="decision-trees"&gt;Decision Trees&lt;/h2&gt;
-&lt;p&gt;TODO: Kurz erkl&amp;auml;ren, damit es sp&amp;auml;ter verwendet werden kann.&lt;/p&gt;
-&lt;h2 id="vorgehen"&gt;Vorgehen&lt;/h2&gt;
-&lt;p&gt;Es gibt jedoch auch kompliziertere L&amp;ouml;sungen wie decision trees, Support Vector
+
+&lt;h2&gt;Decision Trees&lt;/h2&gt;
+&lt;p&gt;TODO: Kurz erklären, damit es später verwendet werden kann.&lt;/p&gt;
+&lt;h2&gt;Vorgehen&lt;/h2&gt;
+&lt;p&gt;Es gibt jedoch auch kompliziertere Lösungen wie decision trees, Support Vector
 Machines (SVMs) und neuronale Netze. Diese haben interne Parameter, welche
-angepasst werden um eine L&amp;ouml;sung zu finden. Bei allen diesen Klassifikatoren
+angepasst werden um eine Lösung zu finden. Bei allen diesen Klassifikatoren
 kann man zwischen &lt;em&gt;Training&lt;/em&gt; und &lt;em&gt;Evaluation&lt;/em&gt; unterscheiden. Beim Training
 lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&lt;/p&gt;
 &lt;ul&gt;
@@ -1051,76 +1081,19 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;li&gt;Supervised &amp;lt;-&amp;gt; unsupervised&lt;/li&gt;
 &lt;li&gt;Classification, Regression&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="abgrenzung"&gt;Abgrenzung&lt;/h2&gt;
+&lt;h2&gt;Abgrenzung&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning &amp;lt;-&amp;gt; A.I. &amp;lt;-&amp;gt; Data science &amp;lt;-&amp;gt; Statistik &amp;lt;-&amp;gt; Big Data&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Als &lt;/p&gt;
-&lt;h2 id="siehe-auch"&gt;Siehe auch&lt;/h2&gt;
+&lt;h2&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    var location_protocol = (false) ? 'https' : document.location.protocol;
-    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
-sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
-Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
+&lt;/ul&gt;</content><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/materialsammlung/</id><summary type="html"></summary><content type="html">&lt;p&gt;Hier können wir interessante Artikel, Websiten oder allgemein Materialien
+sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien für diese
+Seite vorschlagen will, der kann dies über &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
-&lt;h2 id="artikel"&gt;Artikel&lt;/h2&gt;
+&lt;h2&gt;Artikel&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"&gt;The Unreasonable Effectiveness of Recurrent Neural Networks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"&gt;Using convolutional neural nets to detect facial keypoints tutorial&lt;/a&gt;&lt;/li&gt;
@@ -1129,19 +1102,19 @@ tun.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://sebastianruder.com/optimizing-gradient-descent/"&gt;An overview of gradient descent optimization algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;cs231n: &lt;a href="http://cs231n.github.io/convolutional-networks/"&gt;Convolutional Neural Networks (CNNs / ConvNets)&lt;/a&gt; (&lt;a href="https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg"&gt;YouTube playlist&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="bucher"&gt;B&amp;uuml;cher&lt;/h2&gt;
+&lt;h2&gt;Bücher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://neuralnetworksanddeeplearning.com/"&gt;Neural Networks and Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ian Goodfellow, Yoshua Bengio, and Aaron Courville: &lt;a href="http://www.deeplearningbook.org/"&gt;Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="moocs"&gt;MOOCs&lt;/h2&gt;
+&lt;h2&gt;MOOCs&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Coursera: &lt;a href="https://www.coursera.org/learn/machine-learning"&gt;Machine Learning&lt;/a&gt; by Andrew Ng&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;CS224d: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universit&amp;auml;t Oxford&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/"&gt;Machine Learning&lt;/a&gt;: Kurs der Universität Oxford&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cs231n.stanford.edu/"&gt;Convolutional Neural Networks for Visual Recognition&lt;/a&gt;: Kurs von Stanford&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tools"&gt;Tools&lt;/h2&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://caffe.berkeleyvision.org/"&gt;Caffe&lt;/a&gt;: Used often for Computer Vision, but more and more people jump to TensorFlow&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://scikit-learn.org/stable/"&gt;sklearn&lt;/a&gt;: Python Machine learning toolkit&lt;/li&gt;
@@ -1157,39 +1130,39 @@ tun.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="datensatze"&gt;Datens&amp;auml;tze&lt;/h2&gt;
+&lt;h2&gt;Datensätze&lt;/h2&gt;
 &lt;p&gt;Sammlungen&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.openml.org/"&gt;OpenML&lt;/a&gt;: A lot of datasets (it also has a Python package)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.kaggle.com/datasets"&gt;Kaggle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Konkrete Datens&amp;auml;tze&lt;/p&gt;
+&lt;p&gt;Konkrete Datensätze&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST&lt;/a&gt;: 70 000 Bilder der Gr&amp;ouml;&amp;szlig;e 28x28 mit Labels (Ziffern 0-9)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;IRIS&lt;/a&gt;: 3 Klassen, 50 Datens&amp;auml;tze pro Klasse, 3 Features pro Datensatz&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST&lt;/a&gt;: 70 000 Bilder der Größe 28x28 mit Labels (Ziffern 0-9)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;IRIS&lt;/a&gt;: 3 Klassen, 50 Datensätze pro Klasse, 3 Features pro Datensatz&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.martin-thoma.de/write-math/data/"&gt;HWRT&lt;/a&gt;: Handgeschriebene Symbole&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.cvlibs.net/datasets/kitti/"&gt;KITTI&lt;/a&gt;: Road vision dataset&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Listen:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.metacademy.org/"&gt;metacademy.org&lt;/a&gt;: A lot of material when you know what to look for&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.computervisiononline.com/datasets"&gt;computervisiononline.com&lt;/a&gt;: Eine Liste sehr vieler Datens&amp;auml;tze&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.computervisiononline.com/datasets"&gt;computervisiononline.com&lt;/a&gt;: Eine Liste sehr vieler Datensätze&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://riemenschneider.hayko.at/vision/dataset/"&gt;YACVID&lt;/a&gt;: Computer Vision Index To Datasets&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/"&gt;dmoz.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="cheat-cheats"&gt;Cheat Cheats&lt;/h2&gt;
+&lt;h2&gt;Cheat Cheats&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/"&gt;Choosing the right estimator&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/"&gt;Machine learning algorithm cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="lists"&gt;Lists&lt;/h2&gt;
+&lt;h2&gt;Lists&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials"&gt;Machine Learning Tutorials&lt;/a&gt; by Ujjwal Karn (Facebook employee)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://jiwonkim.org/awesome-random-forest/"&gt;Awesome Random Forest&lt;/a&gt;: A
   curated list of resources regarding tree-based methods and more, including
   but not limited to random forest, bagging and boosting.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="sonstiges"&gt;Sonstiges&lt;/h2&gt;
+&lt;h2&gt;Sonstiges&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt;: Machine Learning Wettbewerbe&lt;/li&gt;
 &lt;li&gt;Stack Exchange&lt;ul&gt;
@@ -1199,11 +1172,11 @@ tun.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/josephmisiti/awesome-machine-learning"&gt;awesome-machine-learning&lt;/a&gt;: Eine Liste mit VIELEN Links zu Machine Learning Tools.&lt;/li&gt;
 &lt;li&gt;Demos:&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://104.131.78.120/"&gt;Neural Machine Translation&lt;/a&gt;: Englisch &amp;rarr; Deutsch, Franz&amp;ouml;sisch&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://104.131.78.120/"&gt;Neural Machine Translation&lt;/a&gt;: Englisch → Deutsch, Französisch&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://write-math.com"&gt;write-math.com&lt;/a&gt;: Symbolerkennung&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://playground.tensorflow.org/"&gt;Tensorflow Playground&lt;/a&gt;: Demo for decision boundary of neural network&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://lecture-demo.ira.uka.de/"&gt;lecture-demo.ira.uka.de&lt;/a&gt;: Rosenblatt-Perceptron, GMMs, ...&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://demos.algorithmia.com/colorize-photos/"&gt;demos.algorithmia.com/colorize-photos&lt;/a&gt;: Colorize a grayscale photo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>
+&lt;/ul&gt;</content><category term="Allgemein"></category></entry></feed>
