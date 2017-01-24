@@ -13,6 +13,7 @@ Summary: Conferences and Journals for Machine Learning
 * [NIPS](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems): Neural Information Processing Systems
 * [ICML](https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning): International Conference on Machine Learning
 * IJCAI: International Joint Conference on Artificial Intelligence
+* ICLR: International Conference on Learning Representations
 * [arXiv: Learning](http://arxiv.org/list/cs.LG/recent)
 * [arXiv: Artificial Intelligence](http://arxiv.org/list/cs.AI/recent)
 
