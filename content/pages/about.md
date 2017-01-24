@@ -54,8 +54,8 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
     </tr>
     <tr>
         <td>2015 - 2016</td>
-        <td>Martin Thoma (`info@martin-thoma.de`)</td>
-        <td>Marvin Teichmann (`marvxx.teichmaxx@gmaxx.com`)</td>
+        <td>Martin Thoma (<code>info@martin-thoma.de</code>)</td>
+        <td>Marvin Teichmann (<code>marvxx.teichmaxx@gmaxx.com</code>)</td>
         <td>Marvin Schweizer</td>
     </tr>
 </table>
