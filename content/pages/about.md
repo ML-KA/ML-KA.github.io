@@ -50,7 +50,7 @@ Bei Fragen kann man sich gerne an mich wenden (info@martin-thoma.de). Bitte
         <th>2017</th>
         <th>J&ouml;rg Franke (<code>joerg.franke@student.kit.edu</code>)</th>
         <th>Fabian Both</th>
-        <th>Matthias Stu</th>
+        <th>Matthias Stumpp (<code>mstumpp@gmail.com</code>)</th>
     </tr>
     <tr>
         <td>2015 - 2016</td>
