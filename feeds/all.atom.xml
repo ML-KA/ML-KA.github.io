@@ -681,7 +681,132 @@ Gradient-based Probabilistic Programming&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1611.02167"&gt;Designing Neural Network Architectures Using Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.02167"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
+&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:training-your-first-neural-network/</id><summary type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
+neural network to solve the MNIST task on Kaggle. You will get three
+interesting abilities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Working with Tensor Flow&lt;/li&gt;
+&lt;li&gt;Working with medium-sized datasets&lt;/li&gt;
+&lt;li&gt;Using Kaggle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Additionally, you will get some knowledge about Python. Python is the language
+of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
+&lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
+&lt;figure style="display:table;float:right"&gt;
+&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/mnist-2.png" style="float:right;" width="256px"&gt;
+&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;One example of an item in the MNIST dataset - the digit 2&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/figure&gt;
+&lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
+60,000 examples and the test set contains 10,000 examples. If you want to know
+more, you can read the &lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;official Website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="the-framework-tensor-flow"&gt;The Framework: Tensor Flow&lt;/h2&gt;
+&lt;p&gt;Tensor Flow is a framework which allows you to train neural networks with GPU,
+but also with CPU. I've wrote a couple of words in a blog post:
+&lt;a href="http://martin-thoma.com/tensor-flow-quick/"&gt;Tensor Flow - A quick impression&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="using-gpu-at-atis"&gt;Using GPU at ATIS&lt;/h3&gt;
+&lt;p&gt;KIT students have the possibility to use the ATIS computer pool. They have
+some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
+GeForce GTX 560 Ti 448 Cores).&lt;/p&gt;
+&lt;p&gt;Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
+to add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Make sure it appears when you execute &lt;code&gt;echo $PATH&lt;/code&gt; and &lt;code&gt;echo LD_LIBRARY_PATH&lt;/code&gt;.
+If it doesn't, execute &lt;code&gt;source ~/.bashrc&lt;/code&gt;. Depending on your configuration,
+you might have to do this every time when you start a new console session.&lt;/p&gt;
+&lt;p&gt;UPDATE: I've tried it very quickly and it seems not to work out of the box in
+ATIS. However, you can sill use your personal computer.&lt;/p&gt;
+&lt;p&gt;The error I get is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
+  File &lt;span class="s2"&gt;"tftest.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+    import tensorflow as tf
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"&lt;/span&gt;, line 4, in &amp;lt;module&amp;gt;
+    from tensorflow.python import *
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py"&lt;/span&gt;, line 22, in &amp;lt;module&amp;gt;
+    from tensorflow.python.client.client_lib import *
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py"&lt;/span&gt;, line 35, in &amp;lt;module&amp;gt;
+    from tensorflow.python.client.session import InteractiveSession
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py"&lt;/span&gt;, line 11, in &amp;lt;module&amp;gt;
+    from tensorflow.python import pywrap_tensorflow as tf_session
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 28, in &amp;lt;module&amp;gt;
+    &lt;span class="nv"&gt;_pywrap_tensorflow&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; swig_import_helper&lt;span class="o"&gt;()&lt;/span&gt;
+  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line 24, in swig_import_helper
+    &lt;span class="nv"&gt;_mod&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; imp.load_module&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'_pywrap_tensorflow'&lt;/span&gt;, fp, pathname, description&lt;span class="o"&gt;)&lt;/span&gt;
+ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id="what-is-kaggle_1"&gt;What is Kaggle?&lt;/h2&gt;
+&lt;p&gt;Kaggle is a Machine Learning competition website. It describes tasks in a very
+simple way, provides the data and lets you instantly compare yourself (or
+rather your results) with others. With this article, you should be able to make
+a decent submission for the
+&lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer&lt;/a&gt; task.&lt;/p&gt;
+&lt;h2 id="what-to-do"&gt;What to do&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Get a Python installation and get a feeling how Python works. If you didn't
+   use Python before, I suggest reading chapters 1-5 of the
+   &lt;a href="https://docs.python.org/2/tutorial/"&gt;official Python 2 tutorial&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tensorflow.org/get_started/os_setup.html"&gt;Install Tensor Flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make sure Tensor Flow works&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href="http://www.tensorflow.org/tutorials/mnist/beginners/index.html"&gt;MNIST For ML Beginners&lt;/a&gt; tutorial&lt;/li&gt;
+&lt;li&gt;Register at Kaggle, download the data for the
+   &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer task&lt;/a&gt;, adjust
+   your implementation from step&amp;nbsp;5 and make a submission to Kaggle.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="questions"&gt;Questions&lt;/h2&gt;
+&lt;h3 id="how-do-i-get-python"&gt;How do I get Python?&lt;/h3&gt;
+&lt;p&gt;I have to admit that I always worked on systems which already had a running
+Python installation. This is one reason why I really like working with
+Ubuntu (Linux). You only have to execute &lt;code&gt;sudo apt-get install python-pip&lt;/code&gt; and
+you're ready to go.&lt;/p&gt;
+&lt;p&gt;The official page is &lt;a href="https://www.python.org/downloads/"&gt;www.python.org/downloads&lt;/a&gt;.
+If you're having trouble getting a working Python installation, don't hesitate
+to ask for help.&lt;/p&gt;
+&lt;h3 id="how-do-i-check-if-my-python-installation-is-working"&gt;How do I check if my Python installation is working?&lt;/h3&gt;
+&lt;p&gt;Go to the command line and execute &lt;code&gt;python --version&lt;/code&gt;. My output is &lt;code&gt;Python 2.7.6&lt;/code&gt;.
+As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
+only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
+&lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip --version
+pip 6.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python 2.7&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;pip is a package manager for Python. You might need it to install several
+packages, including Tensor Flow.&lt;/p&gt;
+&lt;h3 id="how-do-i-make-sure-tensor-flow-works"&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
+&lt;p&gt;Create a &lt;code&gt;testtf.py&lt;/code&gt; with the following content:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;tensorflow&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;tf&lt;/span&gt;
+&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;sess&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Session&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+
+&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Execute it with the command &lt;code&gt;python testtf.py&lt;/code&gt;. For me, the output is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:88] Found device 0 with properties: 
+name: GeForce GTX TITAN Black
+major: 3 minor: 5 memoryClockRate (GHz) 0.98
+pciBusID 0000:01:00.0
+Total memory: 6.00GiB
+Free memory: 5.77GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:112] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:122] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:643] Creating TensorFlow device (/gpu:0) -&amp;gt; (device: 0, name: GeForce GTX TITAN Black, pci bus id: 0000:01:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_region_allocator.cc:47] Setting region size to 5884919808
+I tensorflow/core/common_runtime/local_session.cc:45] Local session inter op parallelism threads: 12
+Hello, TensorFlow!
+42
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The important part is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Hello, TensorFlow!
+42
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</summary><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
 &lt;a href="https://www.kaggle.com/c/rossmann-store-sales"&gt;Rossmann Stores Challenge&lt;/a&gt;
 l&amp;auml;uft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
 Guckt euch bitte die Aufgabe vorher an, und bringe Ideen mit.&lt;/p&gt;
