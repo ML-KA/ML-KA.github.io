@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe - Allgemein</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-07-08T20:00:00+02:00</updated><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><updated>2016-07-08T20:00:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:/conferences/</id><summary type="html">&lt;p&gt;Conferences and Journals for Machine Learning&lt;/p&gt;</summary><content type="html">&lt;h2 id="general-ml"&gt;General ML&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/allgemein.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2016-07-08T20:00:00+02:00</updated><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;h2 id="general-ml"&gt;General ML&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
@@ -28,7 +28,7 @@
 &lt;li&gt;ICLR: International Conference on Learning Representations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Science"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:/ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen Rückblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+&lt;/ul&gt;</summary><category term="Science"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
 R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
 &lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
@@ -184,7 +184,7 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</content><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/machine-learning-grundlagen/</id><summary type="html"></summary><content type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -192,9 +192,9 @@ Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "m&amp;ouml;glichst gut
 erf&amp;uuml;llt wird. Was "m&amp;ouml;glichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
 &lt;p&gt;Tom Mitchel hat maschinelles Lernen wie folgt Definiert:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A computer program is said to learn from experience $E$ with respect to some
-class of tasks $T$ and performance measure $P$, if its performance at tasks
-in $T$, as measured by $P$, improves with experience $E$.&lt;/p&gt;
+&lt;p&gt;A computer program is said to learn from experience &lt;span class="math"&gt;\(E\)&lt;/span&gt; with respect to some
+class of tasks &lt;span class="math"&gt;\(T\)&lt;/span&gt; and performance measure &lt;span class="math"&gt;\(P\)&lt;/span&gt;, if its performance at tasks
+in &lt;span class="math"&gt;\(T\)&lt;/span&gt;, as measured by &lt;span class="math"&gt;\(P\)&lt;/span&gt;, improves with experience &lt;span class="math"&gt;\(E\)&lt;/span&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="ein-beispiel"&gt;Ein Beispiel&lt;/h2&gt;
 &lt;p&gt;Angenommen man hat eine &lt;a href="https://de.wikipedia.org/wiki/Schwertlilien"&gt;Schwertlilie&lt;/a&gt;.
@@ -245,7 +245,64 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;h2 id="siehe-auch"&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/materialsammlung/</id><summary type="html"></summary><content type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/ul&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
 Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
@@ -335,4 +392,4 @@ tun.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://demos.algorithmia.com/colorize-photos/"&gt;demos.algorithmia.com/colorize-photos&lt;/a&gt;: Colorize a grayscale photo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Allgemein"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>

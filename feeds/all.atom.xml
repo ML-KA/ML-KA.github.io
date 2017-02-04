@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2017-01-01T20:00:00+01:00</updated><entry><title>Aktuelles</title><link href="//ml-ka.de/aktuelles/" rel="alternate"></link><published>2017-01-01T20:00:00+01:00</published><updated>2017-01-01T20:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2017-01-01:/aktuelles/</id><summary type="html">&lt;p&gt;Zusammenfassungen aller bevorstehenden Veranstaltungen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier sind Links zu aktuellen Gruppen / Themen der Hochschulgruppe
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/all.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2017-01-01T20:00:00+01:00</updated><entry><title>Aktuelles</title><link href="//ml-ka.de/aktuelles/" rel="alternate"></link><published>2017-01-01T20:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2017-01-01:aktuelles/</id><summary type="html">&lt;p&gt;Hier sind Links zu aktuellen Gruppen / Themen der Hochschulgruppe
 Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Am 21.12.2016 findet um 17:30 Uhr im Lauchpad der Pioniergarage (&lt;a href="https://goo.gl/maps/PKaMZPT23jL2"&gt;Rintheimer Str. 15&lt;/a&gt;) die Mitgliederversammlung statt. Ort wird noch bekanntgegeben. (z.B. &lt;a href="https://github.com/ML-KA/protokolle/blob/master/2016-12-21-mitgliederversammlung.md"&gt;hier&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ml-ka.de/giml/"&gt;Gesellschaftliche Implikationen maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook&lt;ul&gt;
-&lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1299073006790052/"&gt;ML Lerngruppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Umfrage: &lt;a href="https://www.facebook.com/groups/961427967221226/permalink/1160053117358709/"&gt;PDG Light&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Veranstaltungen"></category></entry><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><updated>2016-07-08T20:00:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:/conferences/</id><summary type="html">&lt;p&gt;Conferences and Journals for Machine Learning&lt;/p&gt;</summary><content type="html">&lt;h2 id="general-ml"&gt;General ML&lt;/h2&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/groups/1801412423443853/"&gt;Einsteigergruppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ml-ka.de/giml/"&gt;Gesellschaftliche Implikationen maschinellen Lernens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Veranstaltungen"></category></entry><entry><title>Conferences and Journals</title><link href="//ml-ka.de/conferences/" rel="alternate"></link><published>2016-07-08T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-07-08:conferences/</id><summary type="html">&lt;h2 id="general-ml"&gt;General ML&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems"&gt;NIPS&lt;/a&gt;: Neural Information Processing Systems&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning"&gt;ICML&lt;/a&gt;: International Conference on Machine Learning&lt;/li&gt;
@@ -39,7 +35,7 @@ Machine Learning Karlsruhe:&lt;/p&gt;
 &lt;li&gt;ICLR: International Conference on Learning Representations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><updated>2016-05-25T20:00:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:/giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
+&lt;/ul&gt;</summary><category term="Science"></category></entry><entry><title>Gesellschaftliche Implikationen maschinellen Lernens</title><link href="//ml-ka.de/giml/" rel="alternate"></link><published>2016-05-25T20:00:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-05-25:giml/</id><summary type="html">&lt;p&gt;Die Gruppe Gesellschaftliche Implikationen maschinellen Lernens (GIML) trifft
 sich alle zwei Wochen und diskutiert verschiedene gesellschaftsrelevante
 Themen, welche von maschinellem Lernen beeinflusst werden.&lt;/p&gt;
 &lt;p&gt;Dabei wird f&amp;uuml;r jedes Treffen ein Thema vorgegen, welches beim vorherigen
@@ -120,7 +116,7 @@ Bef&amp;uuml;rchtungen (z.B. &lt;a href="https://en.wikipedia.org/wiki/Minority_
 &lt;li&gt;&lt;a href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf"&gt;The Future of Employment: How Susceptible are Jobs to Computerisation?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><updated>2016-02-07T12:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:/ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-Rückblick gibt einen kurzen Überblick darüber, was seit dem letzen Rückblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
+&lt;/ul&gt;</summary><category term="Gesellschaft"></category><category term="Politik"></category><category term="Wirtschaft"></category></entry><entry><title>ML-Rückblick 1</title><link href="//ml-ka.de/ml-ruckblick-1/" rel="alternate"></link><published>2016-02-07T12:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2016-02-07:ml-ruckblick-1/</id><summary type="html">&lt;p&gt;Der ML-R&amp;uuml;ckblick gibt einen kurzen &amp;Uuml;berblick dar&amp;uuml;ber, was seit dem letzen
 R&amp;uuml;ckblick in der Welt des maschinellen Lernens passiert ist.&lt;/p&gt;
 &lt;h2 id="new-developments"&gt;New Developments&lt;/h2&gt;
 &lt;!-- Trends --&gt;
@@ -276,7 +272,7 @@ sondern auch zusammenfasst, anderen erkl&amp;auml;rt und dar&amp;uuml;ber diskut
         &lt;a href="http://ml-ka.de/ml-ruckblick-2/" rel="prev"&gt;Nächster Rückblick  »&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
---&gt;</content><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><updated>2016-01-09T09:45:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:/paper-discussion-group/</id><summary type="html">&lt;p&gt;Die Paper Discussion Group (PDG) ist eine wöchentlich stattfindende Veranstaltung, in der wir gemeinsam ein Paper besprechen und Fragen dazu klären.&lt;/p&gt;</summary><content type="html">&lt;h1 id="33-treffen"&gt;33. Treffen&lt;/h1&gt;
+--&gt;</summary><category term="Allgemein"></category></entry><entry><title>Paper Discussion Group</title><link href="//ml-ka.de/paper-discussion-group/" rel="alternate"></link><published>2016-01-09T09:45:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2016-01-09:paper-discussion-group/</id><summary type="html">&lt;h1 id="33-treffen"&gt;33. Treffen&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Datum: &lt;a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=33.+PDG&amp;amp;iso=20161221T1800&amp;amp;p1=964&amp;amp;ah=1&amp;amp;am=30"&gt;21.12.2016, 18:00&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
@@ -333,7 +329,7 @@ bereits praktisch mit CNNs gearbeitet zu haben.&lt;/p&gt;
 &lt;p&gt;Beantworte ich gerne. Schreib mir einfach eine kurze E-Mail:
 marvxx.teichmaxx@gmaxx.com&lt;/p&gt;
 &lt;p&gt;Fragen zu Frameworks k&amp;ouml;nnt ihr Martin stellen: &lt;code&gt;info@martin-thoma.de&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr/&gt;
 &lt;h1 id="vergangene-treffen"&gt;Vergangene Treffen&lt;/h1&gt;
 &lt;h2 id="erstes-treffen"&gt;Erstes Treffen&lt;/h2&gt;
 &lt;p&gt;&lt;figure style="display:table;float:right"&gt;
@@ -685,132 +681,7 @@ Gradient-based Probabilistic Programming&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ort: Rintheimer Stra&amp;szlig;e 15, Karlsruhe (Launchpad der Pioniergarage)&lt;/li&gt;
 &lt;li&gt;Thema: &lt;a href="https://arxiv.org/abs/1611.02167"&gt;Designing Neural Network Architectures Using Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Moderator: J&amp;ouml;rg&amp;nbsp;Franke (&lt;a href="http://www.shortscience.org/paper?bibtexKey=journals/corr/1611.02167"&gt;Zusammenfassung&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;&lt;/hr&gt;</content><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Training your first Neural Network</title><link href="//ml-ka.de/training-your-first-neural-network/" rel="alternate"></link><published>2015-12-02T21:10:00+01:00</published><updated>2015-12-02T21:10:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-12-02:/training-your-first-neural-network/</id><summary type="html"></summary><content type="html">&lt;p&gt;The following article gives you the necessary knowledge to train and evaluate a
-neural network to solve the MNIST task on Kaggle. You will get three
-interesting abilities:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Working with Tensor Flow&lt;/li&gt;
-&lt;li&gt;Working with medium-sized datasets&lt;/li&gt;
-&lt;li&gt;Using Kaggle&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Additionally, you will get some knowledge about Python. Python is the language
-of my choice when it comes to quickly trying some ideas.&lt;/p&gt;
-&lt;h2 id="what-is-mnist"&gt;What is MNIST?&lt;/h2&gt;
-&lt;figure style="display:table;float:right"&gt;
-&lt;img align="middle" class="img-responsive" src="//ml-ka.de/images/mnist-2.png" style="float:right;" width="256px"&gt;
-&lt;figcaption style="display:table-caption;caption-side:bottom"&gt;One example of an item in the MNIST dataset - the digit 2&lt;/figcaption&gt;
-&lt;/img&gt;&lt;/figure&gt;
-&lt;p&gt;MNIST is a dataset of 28px&amp;nbsp;&amp;times;&amp;nbsp;28px digits. The training set contains
-60,000 examples and the test set contains 10,000 examples. If you want to know
-more, you can read the &lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;official Website&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="the-framework-tensor-flow"&gt;The Framework: Tensor Flow&lt;/h2&gt;
-&lt;p&gt;Tensor Flow is a framework which allows you to train neural networks with GPU,
-but also with CPU. I've wrote a couple of words in a blog post:
-&lt;a href="http://martin-thoma.com/tensor-flow-quick/"&gt;Tensor Flow - A quick impression&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id="using-gpu-at-atis"&gt;Using GPU at ATIS&lt;/h3&gt;
-&lt;p&gt;KIT students have the possibility to use the ATIS computer pool. They have
-some computer at the very end of the room which have GPUs (i08pc50 - i08pc72;
-GeForce GTX 560 Ti 448 Cores).&lt;/p&gt;
-&lt;p&gt;Recently, CUDA 7.5 was installed on the Fedora systems, but you still have
-to add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;export PATH=$PATH:"/opt/cuda-7.5/bin"
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"/opt/cuda-7.5/lib64"
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Make sure it appears when you execute &lt;code&gt;echo $PATH&lt;/code&gt; and &lt;code&gt;echo LD_LIBRARY_PATH&lt;/code&gt;.
-If it doesn't, execute &lt;code&gt;source ~/.bashrc&lt;/code&gt;. Depending on your configuration,
-you might have to do this every time when you start a new console session.&lt;/p&gt;
-&lt;p&gt;UPDATE: I've tried it very quickly and it seems not to work out of the box in
-ATIS. However, you can sill use your personal computer.&lt;/p&gt;
-&lt;p&gt;The error I get is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Traceback &lt;span class="o"&gt;(&lt;/span&gt;most recent call last&lt;span class="o"&gt;)&lt;/span&gt;:
-  File &lt;span class="s2"&gt;"tftest.py"&lt;/span&gt;, line &lt;span class="m"&gt;4&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    import tensorflow as tf
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/__init__.py"&lt;/span&gt;, line &lt;span class="m"&gt;4&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    from tensorflow.python import *
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/__init__.py"&lt;/span&gt;, line &lt;span class="m"&gt;22&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    from tensorflow.python.client.client_lib import *
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/client_lib.py"&lt;/span&gt;, line &lt;span class="m"&gt;35&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    from tensorflow.python.client.session import InteractiveSession
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/client/session.py"&lt;/span&gt;, line &lt;span class="m"&gt;11&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    from tensorflow.python import pywrap_tensorflow as tf_session
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line &lt;span class="m"&gt;28&lt;/span&gt;, in &amp;lt;module&amp;gt;
-    &lt;span class="nv"&gt;_pywrap_tensorflow&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; swig_import_helper&lt;span class="o"&gt;()&lt;/span&gt;
-  File &lt;span class="s2"&gt;"/home/stud/s_thoma/.local/lib/python2.7/site-packages/tensorflow/python/pywrap_tensorflow.py"&lt;/span&gt;, line &lt;span class="m"&gt;24&lt;/span&gt;, in swig_import_helper
-    &lt;span class="nv"&gt;_mod&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; imp.load_module&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'_pywrap_tensorflow'&lt;/span&gt;, fp, pathname, description&lt;span class="o"&gt;)&lt;/span&gt;
-ImportError: libcudart.so.7.0: cannot open shared object file: No such file or directory
-&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id="what-is-kaggle_1"&gt;What is Kaggle?&lt;/h2&gt;
-&lt;p&gt;Kaggle is a Machine Learning competition website. It describes tasks in a very
-simple way, provides the data and lets you instantly compare yourself (or
-rather your results) with others. With this article, you should be able to make
-a decent submission for the
-&lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer&lt;/a&gt; task.&lt;/p&gt;
-&lt;h2 id="what-to-do"&gt;What to do&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Get a Python installation and get a feeling how Python works. If you didn't
-   use Python before, I suggest reading chapters 1-5 of the
-   &lt;a href="https://docs.python.org/2/tutorial/"&gt;official Python 2 tutorial&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.tensorflow.org/get_started/os_setup.html"&gt;Install Tensor Flow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Make sure Tensor Flow works&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href="http://www.tensorflow.org/tutorials/mnist/beginners/index.html"&gt;MNIST For ML Beginners&lt;/a&gt; tutorial&lt;/li&gt;
-&lt;li&gt;Register at Kaggle, download the data for the
-   &lt;a href="https://www.kaggle.com/c/digit-recognizer"&gt;Digit Recognizer task&lt;/a&gt;, adjust
-   your implementation from step&amp;nbsp;5 and make a submission to Kaggle.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id="questions"&gt;Questions&lt;/h2&gt;
-&lt;h3 id="how-do-i-get-python"&gt;How do I get Python?&lt;/h3&gt;
-&lt;p&gt;I have to admit that I always worked on systems which already had a running
-Python installation. This is one reason why I really like working with
-Ubuntu (Linux). You only have to execute &lt;code&gt;sudo apt-get install python-pip&lt;/code&gt; and
-you're ready to go.&lt;/p&gt;
-&lt;p&gt;The official page is &lt;a href="https://www.python.org/downloads/"&gt;www.python.org/downloads&lt;/a&gt;.
-If you're having trouble getting a working Python installation, don't hesitate
-to ask for help.&lt;/p&gt;
-&lt;h3 id="how-do-i-check-if-my-python-installation-is-working"&gt;How do I check if my Python installation is working?&lt;/h3&gt;
-&lt;p&gt;Go to the command line and execute &lt;code&gt;python --version&lt;/code&gt;. My output is &lt;code&gt;Python 2.7.6&lt;/code&gt;.
-As long as you get something like &lt;code&gt;Python 2.7.X&lt;/code&gt; it is ok. Tensor Flow works
-only with Python&amp;nbsp;2, not with Python&amp;nbsp;3.&lt;/p&gt;
-&lt;p&gt;Then execute &lt;code&gt;pip --version&lt;/code&gt;. It should output something like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip --version
-pip &lt;span class="m"&gt;6&lt;/span&gt;.0.6 from /usr/local/lib/python2.7/dist-packages/pip-6.0.6-py2.7.egg &lt;span class="o"&gt;(&lt;/span&gt;python &lt;span class="m"&gt;2&lt;/span&gt;.7&lt;span class="o"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;pip is a package manager for Python. You might need it to install several
-packages, including Tensor Flow.&lt;/p&gt;
-&lt;h3 id="how-do-i-make-sure-tensor-flow-works"&gt;How do I make sure Tensor Flow works?&lt;/h3&gt;
-&lt;p&gt;Create a &lt;code&gt;testtf.py&lt;/code&gt; with the following content:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
-
-&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;tensorflow&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;tf&lt;/span&gt;
-&lt;span class="n"&gt;hello&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello, TensorFlow!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;sess&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Session&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-
-&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;constant&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sess&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Execute it with the command &lt;code&gt;python testtf.py&lt;/code&gt;. For me, the output is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I tensorflow/core/common_runtime/local_device.cc:25] Local device intra op parallelism threads: 12
-I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:888] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-I tensorflow/core/common_runtime/gpu/gpu_init.cc:88] Found device 0 with properties: 
-name: GeForce GTX TITAN Black
-major: 3 minor: 5 memoryClockRate (GHz) 0.98
-pciBusID 0000:01:00.0
-Total memory: 6.00GiB
-Free memory: 5.77GiB
-I tensorflow/core/common_runtime/gpu/gpu_init.cc:112] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_init.cc:122] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:643] Creating TensorFlow device (/gpu:0) -&amp;gt; (device: 0, name: GeForce GTX TITAN Black, pci bus id: 0000:01:00.0)
-I tensorflow/core/common_runtime/gpu/gpu_region_allocator.cc:47] Setting region size to 5884919808
-I tensorflow/core/common_runtime/local_session.cc:45] Local session inter op parallelism threads: 12
-Hello, TensorFlow!
-42
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;The important part is&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Hello, TensorFlow!
-42
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;if you don't get that, there is something wrong.&lt;/p&gt;</content><category term="Deep Learning"></category><category term="MNIST"></category><category term="Tensor Flow"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><updated>2015-12-01T19:40:00+01:00</updated><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:/kaggle-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
+&lt;/ul&gt;</summary><category term="Paper"></category><category term="Deep Learning"></category><category term="Autonomes Fahren"></category></entry><entry><title>Kaggle 1</title><link href="//ml-ka.de/kaggle-1/" rel="alternate"></link><published>2015-12-01T19:40:00+01:00</published><author><name>Duc Tam Nguyen</name></author><id>tag:ml-ka.de,2015-12-01:kaggle-1/</id><summary type="html">&lt;p&gt;Lasst uns nicht nur neues Wissen aneignen sondern dies sinnvoll einsetzen! Die
 &lt;a href="https://www.kaggle.com/c/rossmann-store-sales"&gt;Rossmann Stores Challenge&lt;/a&gt;
 l&amp;auml;uft zwar nur bis 14.12.2015, aber sie soll uns helfen in Fahrt zu kommen.
 Guckt euch bitte die Aufgabe vorher an, und bringe Ideen mit.&lt;/p&gt;
@@ -821,13 +692,13 @@ erreichen. Das k&amp;ouml;nnen wir beim Treffen auch gleich besprechen.&lt;/p&gt
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 2.&amp;nbsp;Dezember&amp;nbsp;2015, 20:00&amp;ndash;22:00&amp;nbsp;Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Seminarraum&amp;nbsp;-118, Infobau (Geb.&amp;nbsp;50.34)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.de/medientreffen-1/" rel="alternate"></link><published>2015-11-30T19:00:00+01:00</published><updated>2015-11-30T19:00:00+01:00</updated><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2015-11-30:/medientreffen-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Kaggle"></category><category term="Rossmann"></category><category term="Data Science"></category></entry><entry><title>Medientreffen 1</title><link href="//ml-ka.de/medientreffen-1/" rel="alternate"></link><published>2015-11-30T19:00:00+01:00</published><author><name>Marvin Teichmann</name></author><id>tag:ml-ka.de,2015-11-30:medientreffen-1/</id><summary type="html">&lt;p&gt;Die Hochschulgruppe hat mittlerweile ordentlich fahrt aufgenommen. Wir wollen nun anfangen die Au&amp;szlig;enwirkung der HSG zu verst&amp;auml;rken. Dies ist f&amp;uuml;r zuk&amp;uuml;nftiges Sponsoring und zum Anwerben neuen Mitglieder wichtig.&lt;/p&gt;
 &lt;p&gt;Hierzu wollen wir uns n&amp;auml;chsten Montag im Oxford treffen. Eingeladen ist jeder, der sich bei der Entwicklung der HSG mit einbringen m&amp;ouml;chte. Wer noch etwas Zeit und Lust hat kann gerne offiziell Teil des Webmaster-Teams werden. Wir freuen uns aber schon, wenn Ihr ab und zu etwas auf der HP oder &amp;uuml;ber FB ver&amp;ouml;ffentlichen wollt. Ihr k&amp;ouml;nnt aber auch einfach nur ins Oxford kommen und eure Ideen beitragen, falls eure Zeit Jahr sehr knapp ist.&lt;/p&gt;
 &lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Montag, 30. November um 20:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Oxford Pub&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="//ml-ka.de/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><published>2015-11-30T09:00:00+01:00</published><updated>2015-11-30T09:00:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-30:/ausserordentliche-mitgliederversammlung-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
+&lt;/ul&gt;</summary><category term="Medientreffen"></category></entry><entry><title>Außerordentliche Mitgliederversammlung - 1</title><link href="//ml-ka.de/ausserordentliche-mitgliederversammlung-1/" rel="alternate"></link><published>2015-11-30T09:00:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-30:ausserordentliche-mitgliederversammlung-1/</id><summary type="html">&lt;p&gt;Wie beim letzten Monatstreffen und &amp;uuml;ber den E-Mail-Verteiler schon angek&amp;uuml;ndigt
 wird es eine au&amp;szlig;erordentliche Mitgliederversammlung geben. Der Grund daf&amp;uuml;r ist
 unser Status als Hochschulgruppe.&lt;/p&gt;
 &lt;p&gt;Am 21. November habe ich vom AStA folgende E-Mail bekommen:&lt;/p&gt;
@@ -852,7 +723,7 @@ beschlossen werden sollen.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Wann?&lt;/strong&gt; Mittwoch, 16. Dezember um 19:00 Uhr&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; Steht noch nicht fest. Vermutlich im Informatik-Geb&amp;auml;ude im Keller.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Protokollant&lt;/strong&gt;: Wird noch gesucht.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.de/monatstreffen-2/" rel="alternate"></link><published>2015-11-17T10:26:00+01:00</published><updated>2015-11-17T10:26:00+01:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-17:/monatstreffen-2/</id><summary type="html"></summary><content type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
+&lt;/ul&gt;</summary><category term="Mitgliederversammlung"></category></entry><entry><title>Monatstreffen 2</title><link href="//ml-ka.de/monatstreffen-2/" rel="alternate"></link><published>2015-11-17T10:26:00+01:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-11-17:monatstreffen-2/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch einen Vortrag geben, in dem Marvin Schweizer die Ergebnisse
 der &lt;strong&gt;AG DANK&lt;/strong&gt; (Datenanalyse von Fahrzeugkonfigurationen) vorstellt.&lt;/p&gt;
 &lt;p&gt;Marvin Teichmann wird kurz &amp;uuml;ber die &lt;a href="http://ml-ka.de/paper-discussion-group/"&gt;Paper Discussion Group&lt;/a&gt;
 erz&amp;auml;hlen.&lt;/p&gt;
@@ -866,7 +737,7 @@ Ideen vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Wo?&lt;/strong&gt; &lt;a href="https://www.kithub.de/map/2221"&gt;Informatikbau (Geb&amp;auml;ude 50.34)&lt;/a&gt;, Raum -107&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Folien?&lt;/strong&gt; Liegen noch keine vor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Wird nicht gemacht.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.de/monatstreffen-1/" rel="alternate"></link><published>2015-10-22T13:20:00+02:00</published><updated>2015-10-22T13:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-10-22:/monatstreffen-1/</id><summary type="html"></summary><content type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Monatstreffen 1</title><link href="//ml-ka.de/monatstreffen-1/" rel="alternate"></link><published>2015-10-22T13:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-10-22:monatstreffen-1/</id><summary type="html">&lt;p&gt;Es wird am Mittwoch zwei Vortr&amp;auml;ge geben. Der erste Vortrag gibt eine 30-min&amp;uuml;tige Einf&amp;uuml;hrung in maschinelles Lernen (Definition des Feldes, Generalisierung, Overfitting, Tools, Beispiele) und der zweite einen 30-min&amp;uuml;tigen &amp;Uuml;berblick &amp;uuml;ber pixelweise Klassifikation. Dieser Vortrag ist der Auftakt f&amp;uuml;r eine Paper-Discussion Group &amp;uuml;ber dieses Thema.&lt;/p&gt;
 &lt;p&gt;Im Anschluss wollen wir uns &amp;uuml;ber Projektideen und m&amp;ouml;gliche Projektgruppen austauschen. Weitere Ideen sind willkommen!&lt;/p&gt;
 &lt;h2 id="organisatorisches"&gt;Organisatorisches&lt;/h2&gt;
 &lt;ul&gt;
@@ -878,7 +749,7 @@ Ideen vorstellen k&amp;ouml;nnt.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Video?&lt;/strong&gt;: Kommt noch. Es muss noch geschnitten werden. Das ist zeitaufwendig, da das Video-Signal nicht aufgenommen wurde.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/lectures/</id><summary type="html"></summary><content type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+&lt;/ul&gt;</summary><category term="Monatstreffen"></category></entry><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table class="table table-hover table-striped"&gt;
@@ -998,7 +869,7 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/machine-learning-grundlagen/</id><summary type="html"></summary><content type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
+&lt;/table&gt;</summary><category term="Lectures"></category></entry><entry><title>Machine Learning Grundlagen</title><link href="//ml-ka.de/machine-learning-grundlagen/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:machine-learning-grundlagen/</id><summary type="html">&lt;p&gt;Im folgenden werden Grundlagen des maschinellen Lernens erkl&amp;auml;rt.&lt;/p&gt;
 &lt;h2 id="was-ist-maschinelles-lernen"&gt;Was ist maschinelles Lernen?&lt;/h2&gt;
 &lt;p&gt;Beim maschinellen Lernen geht es darum einen Algorithmus zu schreiben, der mit
 Daten lernt was relevant ist. Der Algorithmus kennt also eine allgemeine
@@ -1006,9 +877,9 @@ Struktur, wo er Teile anpassen kann, sodass eine Aufgabe "m&amp;ouml;glichst gut
 erf&amp;uuml;llt wird. Was "m&amp;ouml;glichst gut" bedeutet, muss der Programmierer festlegen.&lt;/p&gt;
 &lt;p&gt;Tom Mitchel hat maschinelles Lernen wie folgt Definiert:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A computer program is said to learn from experience $E$ with respect to some
-class of tasks $T$ and performance measure $P$, if its performance at tasks
-in $T$, as measured by $P$, improves with experience $E$.&lt;/p&gt;
+&lt;p&gt;A computer program is said to learn from experience &lt;span class="math"&gt;\(E\)&lt;/span&gt; with respect to some
+class of tasks &lt;span class="math"&gt;\(T\)&lt;/span&gt; and performance measure &lt;span class="math"&gt;\(P\)&lt;/span&gt;, if its performance at tasks
+in &lt;span class="math"&gt;\(T\)&lt;/span&gt;, as measured by &lt;span class="math"&gt;\(P\)&lt;/span&gt;, improves with experience &lt;span class="math"&gt;\(E\)&lt;/span&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="ein-beispiel"&gt;Ein Beispiel&lt;/h2&gt;
 &lt;p&gt;Angenommen man hat eine &lt;a href="https://de.wikipedia.org/wiki/Schwertlilien"&gt;Schwertlilie&lt;/a&gt;.
@@ -1059,7 +930,64 @@ lernt der Klassifikator was wichtig ist und in der Evaluation wendet er es an.&l
 &lt;h2 id="siehe-auch"&gt;Siehe auch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statistical_classification"&gt;Statistical classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/materialsammlung/</id><summary type="html"></summary><content type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
+&lt;/ul&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</summary><category term="Allgemein"></category><category term="Klassifikation"></category><category term="Iris dataset"></category></entry><entry><title>Materialsammlung</title><link href="//ml-ka.de/materialsammlung/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:materialsammlung/</id><summary type="html">&lt;p&gt;Hier k&amp;ouml;nnen wir interessante Artikel, Websiten oder allgemein Materialien
 sammeln. Wem das noch zu wenig ist oder wer selbst gute Materialien f&amp;uuml;r diese
 Seite vorschlagen will, der kann dies &amp;uuml;ber &lt;a href="https://github.com/ML-KA/ML-KA.github.io/issues/6"&gt;GitHub&lt;/a&gt;
 tun.&lt;/p&gt;
@@ -1149,4 +1077,4 @@ tun.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://demos.algorithmia.com/colorize-photos/"&gt;demos.algorithmia.com/colorize-photos&lt;/a&gt;: Colorize a grayscale photo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Allgemein"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="Allgemein"></category></entry></feed>

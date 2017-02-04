@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe - KIT</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/kit.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><updated>2015-06-15T10:20:00+02:00</updated><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:/lectures/</id><summary type="html"></summary><content type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Machine Learning - Karlsruhe</title><link href="//ml-ka.de/" rel="alternate"></link><link href="//ml-ka.de/feeds/kit.atom.xml" rel="self"></link><id>//ml-ka.de/</id><updated>2015-06-15T10:20:00+02:00</updated><entry><title>Lectures</title><link href="//ml-ka.de/lectures/" rel="alternate"></link><published>2015-06-15T10:20:00+02:00</published><author><name>Martin Thoma</name></author><id>tag:ml-ka.de,2015-06-15:lectures/</id><summary type="html">&lt;p&gt;This article is a list of lectures at KIT which are related to machine
 learning.&lt;/p&gt;
 &lt;h2 id="machine-learning-techniques"&gt;Machine Learning Techniques&lt;/h2&gt;
 &lt;table class="table table-hover table-striped"&gt;
@@ -119,4 +119,4 @@ learning.&lt;/p&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="Lectures"></category></entry></feed>
+&lt;/table&gt;</summary><category term="Lectures"></category></entry></feed>
